@@ -1,0 +1,24 @@
+
+**/posters/*.png
+**/out_good/*.jpeg
+**/posters/warped/*.png
+**/posters/initial/*.png
+# latex ignores
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.synctex
+*.synctex(busy)
+*.bcf
+*.run.xml
+*.fdb_latexmk
+*.HEIC
+public/**   

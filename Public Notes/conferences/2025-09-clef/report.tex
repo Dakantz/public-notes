@@ -1,0 +1,526 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8x]{inputenc}
+
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+
+\usepackage{hyperref}
+
+\usepackage{tabularray}
+\usepackage{graphicx}
+
+\usepackage[table]{xcolor}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{url}
+\usepackage[style=ieee,backend=biber]{biblatex} % 
+\addbibresource{references.bib}
+\usepackage{isomath}
+\usepackage{amsmath}
+\usepackage{newtxmath}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{bm}
+\usepackage{ stmaryrd }
+\usepackage{enumitem}
+\setlist{
+ itemsep=0.1em,
+ parsep=0.1em
+} % or \setlist{noitemsep} to leave space around whole list
+
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    left=25mm,
+    right=25mm,
+    top=25mm,
+    bottom=25mm,
+    }
+    
+\title{CLEF '25 notes and interesting posters}
+\author{Benedikt Kantz}
+\date{Sept 09-12 2025}
+\begin{document}
+
+\maketitle
+\tableofcontents
+\section{Introductions}
+\subsection{Keynote: Sameer Antani, AI for Medicine}
+\begin{itemize}
+    \item Data in medicine is difficult, often biased (i.e. more prevalence of disease vs. natural distribution due to only imaging correct skin cancer)
+    \item AI in medicine must be multimodal (e.g. there is always an order attached to an image!)
+    \item Synthesis as a remedy:
+          \begin{itemize}
+              \item Clinical training for people
+              \item Fill data gaps/sparse data,
+              \item Problems: Hallucinations, not rule-based (anatomy, diseases, ...)
+          \end{itemize}
+    \item Evaluation of synthetic data: what is the specific impact of it being added?
+          \begin{itemize}
+              \item Generalization? or just improvements?
+              \item Hallucinations eval?
+          \end{itemize}
+\end{itemize}
+Note: CLEF has changed reviews to focus on methodology instead of raw numbers (was good for our submission I guess?)
+\subsection{Conference Sessions I (Best of CLEF 2024)}
+\subsubsection{Humour Classification According to Genre and Technique by Fine-tuning LLMs}
+\begin{itemize}
+    \item Add the definitions of the classes into prompts
+    \item Tree-based  LM classifier
+\end{itemize}
+\subsubsection{Language-based Mixture of Transformers for Sexism Identification in Social Networks}
+\begin{itemize}
+    \item Use ensemble of domain-specific models (models trained on Twitter, same source domain!)
+    \item Model mixture: variation (either half-half, 75 percent or only dominant)
+    \item Some fine-tuning
+    \item Q: how are they mixed? i.e. at what stage, dynamically chosen? based on what??
+\end{itemize}
+\subsubsection{Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack}
+\begin{itemize}
+    \item Counterfactuals for classification, which minimal modification has to be done to change output (CheckTHAT task)
+    \item Effectively: how good is the adverserial attack? (Similarity - Levensthein, Effectiveness scored)
+    \item BERT-Attack:
+          \begin{itemize}
+              \item Which word: based on word importance (using logits, each word is masked after each other - calculate probability)
+              \item What to insert: masked AE (e.g. RoBERTa)
+          \end{itemize}
+    \item DeepWordBug: replace characters/typos
+    \item Theirs: use beam-search for improved search of replacement
+    \item Tree width + depth of search are hyperparameters
+    \item Disadvantage: needs a lot of evaluation whether they affect the classifier
+\end{itemize}
+\subsection{Labs Overview}
+394 Papers, Labs: 13 old + 1 new
+\subsubsection{Overview of LifeCLEF 2025: Challenges on Species Presence Prediction and Identification, and Individual Animal Identification}
+\begin{itemize}
+    \item @Simon? iNaturalist :)
+    \item For environmental monitoring
+          \begin{itemize}
+              \item BirdCLEF: Sound classification (3k participants - 50k price pool!)
+              \item PlantCLEF: detection of plants in plots of land
+              \item GeoCLEF: Multimodal Classification for species
+              \item AnimalCLEF: Open-Set classification (New! individuals)
+              \item FungiCLEF: Few-shot classifiction, with multi-modal description
+          \end{itemize}
+    \item Paper count not correlated to price pools ;)
+    \item Foundational models were the winners
+    \item Compared to humans: only experts can outperform these models, have strong location prior
+\end{itemize}
+\subsubsection{Overview of BioASQ 13}
+\begin{itemize}
+    \item 6 tasks, 6 languages, 3 doc types
+    \item 17 participant in GutBrainIE
+\end{itemize}
+\subsubsection{Overview of Touché 2025: Argumentation Systems}
+\begin{itemize}
+    \item Debate simulation,
+          \begin{itemize}
+              \item  Evaluation Grice's maxims of cooperation
+              \item Systems often switched sides or admitted defeat!
+          \end{itemize}
+    \item analysis
+          \begin{itemize}
+              \item ParlaMint: multilingual debates, scores on english best
+          \end{itemize}
+    \item image arguments (generation+analysis); eval $\rightarrow$ core aspects of images are evaluated; best submission extracted aspects and prompted image gen
+    \item Advertisement in RAG: Generate (eval: classifier), and detect ads in responses (AdBlock for LMs) \url{https://touche.webis.de/clef25/touche25-web/advertisement-detection.html#task} (eval: yes/no)
+\end{itemize}
+\subsubsection{Overview of the CLEF 2025 JOKER Lab: Humour in Machine}
+\begin{itemize}
+    \item LMs not able to deal with humor etc.
+    \item humor-aware IR
+          \begin{itemize}
+              \item Search for jokes on topics
+              \item Manual + LM generated jokes, mixed with non-humor (wikipedia)
+              \item Eval: humor + traditional IR metrics; way better results this year!
+          \end{itemize}
+    \item Translate puns
+          \begin{itemize}
+              \item Wordplay consistent accross EN-FR translation
+              \item Q: is the annotation for the \enquote{funny word} given to the participants?
+              \item Eval: consistent meaning of translations, location based of the wordplay
+          \end{itemize}
+    \item Onomastic Wordplay Translation
+          \begin{itemize}
+              \item e.g. often in Harry Potter, Asterix, \dots
+              \item Used in training sets
+              \item EN-FR
+              \item Q: copyright, could GPT have been trained on the source material?
+          \end{itemize}
+\end{itemize}
+\subsubsection{LongEval at CLEF 2025: Longitudinal Evaluation of IR Systems on Web and Scientific Data}
+\begin{itemize}
+    \item training on evolving information needs over 9 months
+    \item Trending queries and qrels (click models)
+    \item On the TU Wien Research Dataset!
+\end{itemize}
+\section{LifeCLEF 2025}
+\subsection{Learning from Visual Data in the Wild (Oisín Mac Aodha)}
+\begin{itemize}
+    \item Growth in Biodiversity data $\leftarrow$ iNaturalist,
+
+    \item Range Maps of Species
+          \begin{itemize}
+              \item downside of these citizen scientist approaches: spatially sparse - biased towards human locations, species distribution mismatched with iNaturalist observation
+              \item Very few expert Range maps\dots
+              \item LM generated range maps: only squares, very bad in relation to correct Range maps (interesting research topic?)
+              \item Idea: Sparse input of observation, output of range maps?
+              \item Presence detection - based on spatial embeddings $\bigodot$ species embeddings; need to be compact - fit on phones, improve offline CV species prediction  (actually improves it! \& is deployed on iNaturalist)
+              \item Spatial embeddings + species embeddings helps share data between low-observations and high-observation species
+              \item No absence data, only present data\dots
+              \item Visualization of high-dim vector on spatial data: PCA to 3D to RGB
+              \item Add text to context: as few as 5-10 observations from text works as text quite well
+              \item Joint training with representation learning for satellite images: Dense Retrieval of Text, Segmentation, \dots
+
+          \end{itemize}
+
+\end{itemize}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{figures/model_overview_v3.pdf}
+    \caption{Overview of the FS-SINR~\cite{Lange2025Feb}}
+\end{figure}
+\subsection{GeoLifeCLEF Overview}
+\begin{itemize}
+    \item Absence/Presence data, climate data, time series (climate)
+    \item Very biased observations, people go places
+    \item Test data: not only in-distribution, but OOD with new regions (with presence only)
+\end{itemize}
+\textbf{Participant: Gleb Tikhonov}
+\begin{itemize}
+    \item Combination of a lot of handcrafted features and encoding systems
+    \item Embedding of images, \dots
+    \item Averaging, cycling,\dots
+\end{itemize}
+\subsubsection{PlantCLEF Overview}
+\begin{itemize}
+    \item Earlier: monospecies
+    \item Now: multispecies, in singular images
+          \begin{itemize}
+              \item Multiscale, variety of seasons,
+              \item Train: single plants, monospecies
+              \item Some non-annotated quadrats
+              \item Test: multi-label plots $\rightarrow$ zero shot object detection
+          \end{itemize}
+\end{itemize}
+
+\textbf{Participant: Luciano Dourado}
+\begin{itemize}
+    \item Approach: filter out background using attention based segmentation using prototype guidance
+    \item Train narrow ViT to match baseline classifier (DinoV2) classification matrix and calculate attention map to find relevant regions
+    \item Use DinoV2 to classify region patches, use grid assembly to search around patch
+\end{itemize}
+
+\subsection{Promises and pitfalls of foundation models for the natural world, Lauren Gillespie (MIT)}
+\begin{itemize}
+    \item Rapid change to environment
+    \item Requires new models: foundation models
+    \item CRISP incorporates multimodal unlabeled data, improves performance across many species detection and range labels (esp. low observation species)
+\end{itemize}
+
+\subsubsection{AnimalCLEF Overview}
+\begin{itemize}
+    \item Challenge: identify \emph{individuals} (e.g. a very specific turtle) given a database of known individuals
+    \item Also: unseen individuals, unclear images, non-overlapping
+    \item Challenges
+          \begin{itemize}
+              \item Individual is present, \dots
+          \end{itemize}
+\end{itemize}
+
+\subsubsection{BirdCLEF Overview}
+\begin{itemize}
+    \item Bioacoustic surveys: use as restoration markers
+    \item Goals:
+          \begin{itemize}
+              \item identify taxonomic groups
+              \item experiment with limited training data
+              \item experiment with unlabeled data
+          \end{itemize}
+\end{itemize}
+\subsubsection{FungiCLEF Overview}
+\begin{itemize}
+    \item Few-Shot ID with few samples
+    \item Data: photos, description, metadata, satelite, climate
+    \item Public leaderboard very different from private, takeaway: be robust!
+    \item Different ensemble types, etc.
+    \item Vision-Only Pipelines, Constrastive learning and prototypes helpful!
+\end{itemize}
+\textbf{Participant: Anthony Miyaguchi, GATECH@LifeCLEF}
+\begin{itemize}
+    \item DS@Georgia Tech - big Data Science group, a lot of publications!!
+    \item PlantCLEF approach: embeddings in kNN setting, adding GEO-info and Priors help a bit
+    \item FunghiCLEF: vLLM bad with just prompting, better: interpolating embedding subspaces
+          % \item AnimalCLEF: 
+    \item BirdCLEF: Best Working notes, Tokenize Audio dataset (spectrogramm), then train on dataset using word2vec+skip-grams, build linear model on top - very efficient, good for deployment!
+\end{itemize}
+\section{Wednesday}
+\subsection{AI Evaluation Should Make AI Predictable}
+\begin{itemize}
+    \item Rate LMs by capabilities (as new metrics)
+    \item Taxonomy of LM problems - apply to benchmarks, LM benches measure different things that they claim to (i.e. math tests lang understanding) (Q: the taxonomy is annotated using GPT, isn't this a weakness?)
+    \item Enables the plotting of levels as Spidercharts
+\end{itemize}
+\subsection{Conference Sessions II}
+\subsubsection{SimpleText Best of Labs in CLEF-2024: Application of Large Language Models for Scientific Text Simplification}
+\subsubsection{Simplified Longitudinal Retrieval Experiments: A Case Study on Query Rewriting and Document Boosting}
+\begin{itemize}
+    \item Longitudinal evaluation: they provide datasets that can be evaluated for over longer timespan using containers etc.
+    \item Snapshots of datasets
+    \item
+\end{itemize}
+\subsubsection{Better Call Claude: Can LLMs Detect Changes of Writing Style?}
+\begin{itemize}
+    \item Identify sentence boundaries
+    \item Goals: benchmark 0-shot on sentence lvl, baselines comparisons, semantic similarity vs. stylistic cues
+    \item Claude has good 0-shot performance, semantic similarity correlated to stylistic changes (?)
+\end{itemize}
+\subsection{Conference Sessions III + More Labs intro}
+\subsubsection{From Uniform to Unique: Adaptive K-12 Assessment Using Large Language Models}
+\begin{itemize}
+    \item Generate and asses questions from Kindergarten to 12th Grade
+    \item Use Bloom's taxonomy to instruct model (Remember, Apply, Evaluate) and generate MCQ
+    \item Suppress guessing
+\end{itemize}
+
+\subsubsection{Lab Introductions}
+\textbf{PAN@CLEF}
+\begin{itemize}
+    \item AI author attribution\footnote{\url{https://bladerunner.fandom.com/wiki/Voight-Kampff_test}}
+          \begin{itemize}
+              \item Binary classification: AI generation? (with Builder/Breaker (red/blue teams), similar to NLP class of Roman Kern) - text with obfosucation; baseline: binoculars, TF-IDF
+              \item Classify extent of AI gen
+          \end{itemize}
+    \item Multilingual detoxification: classification, de-toxify based on keywords; some varied baselines
+    \item Multi-Author Style change detection
+    \item Generative Plagiarism detection
+\end{itemize}
+\textbf{EXIST@CLEF}
+\begin{itemize}
+    \item Focuses on Benevolent Sexism (e.g. underlying, cultural stereotypes)
+    \item Human Annotations: very varied annotations, embraced  as different opinions -> target: soft classification
+    \item Novelty: tiktok videos!
+    \item 300k annotations, bias attention
+    \item Sexism classification (binary), direct/ reported/judgemental, kind of sexism (multilabel!), multilungual, multimodal
+\end{itemize}
+\textbf{SimpleText}
+\begin{itemize}
+    \item Sentence \& Document level simiplification
+    \item Measure hallucinations in sentence outputs from last years
+\end{itemize}
+\textbf{QuantumCLEF}
+\begin{itemize}
+    \item Eval QC algorithms
+    \item Foster understanding \& build community for QC+IR
+    \item quantum annealing: setup qbits and search for energy minimum
+    \item QUBO: quadratic and binary optimisation -- set for IR with retrieval metrics
+    \item Tasks: Feature selection, Instance Selection, Clustering
+    \item Task 1 results: 30x faster, about as effective!
+\end{itemize}
+\subsection{BioASQ 3/4}
+\subsubsection{MultiClinSum}
+\begin{itemize}
+    \item Summarize (multiple) long clinical reports
+    \item Multilingual, Semi-Automatically generated summarization
+    \item automatic translation for multilingual tasks
+    \item extractive: only smaller models, bigger models abstractive
+\end{itemize}
+\subsubsection{BioNNE-L}
+\begin{itemize}
+    \item Nested Entity Linking
+    \item Multilingual challenge, terms missing in some languages -- difficult to reconstruct (Russian, \dots)
+    \item Shared dictionary
+    \item Ambigous terms, UMLS coverage limited -- joint dictionary with Russian
+    \item Approach: BERGAMOT - BERT+Graph Encoder and bring together in space to align dictionaries
+\end{itemize}
+\subsubsection{ElCardio - Clinical Cardiovascular diseases}
+\begin{itemize}
+    \item Task: coding (ICD-10 system) for multilingual setting, lack in low-resource languages of discharge letters \& extracting code mentions
+    \item similar to gutbrainIE $\rightarrow$ link entities to ICD-10
+    \item identify all ICD-10 mentions within doc (reverse process)
+\end{itemize}
+\section{Thursday}
+\subsection{Do we co-evolve with what we design? DevOps, AGI, and Human Frailties}
+\begin{itemize}
+    \item Thoughts about how we co-evolve with AI, bio-inspired
+    \item How does exponential growth affect/interact, or is it sigmoid? - how will this affect policy, how to move to stable society away from exp. growth
+\end{itemize}
+\subsection{Main Conference Session III}
+\subsubsection{MedAID-ML: A Multilingual Dataset of Biomedical Texts for Detecting AI-Generated}
+\begin{itemize}
+    \item Fake medical literature detection!
+    \item AI generated text generation for multilungual detection
+\end{itemize}
+\subsubsection{Selective Search as a First-Stage Retriever}
+\begin{itemize}
+    \item Make search more efficient, distribute web indices (effectively), sparse search...
+    \item Distribute documents by clusters in distributed search
+    \item Approach: use this only as fist-stage retrieval, but only care about first documents (i.e. 1000)
+    \item Rank biased Recall (how does this differ from nDCG@k)
+    \item Central problem: which shard (cluster) to take - different approaches based on vocab, \dots
+    \item Problem: some selection algs can make shards 'invisible' - documents may not be retrieved as shard index may not expose or represent them correctly.
+    \item Finding: is possible, but efficiency is still a bit lacking
+\end{itemize}
+\subsection{Labs Overview III}
+\subsubsection{ImageCLEF}
+\begin{itemize}
+    \item Since 2003 (!)
+    \item Very multimodality-focused, medical tasks
+    \item Datagen, retrieval, classification
+    \item Tasks:
+          \begin{itemize}
+              \item MedicalCLEF: caption, generation, VQA
+              \item ToPicto: image gen (text+speech to pictogram, mostly finetunes)
+              \item Multimodal VQA
+              \item Image Retrieval for Arguments
+          \end{itemize}
+    \item a lot of participants, 500 runs (expensive)
+    \item A lot of participants used VLMs, explanations: bbox + heatmaps
+    \item Generation: find closest image from training data for generation
+\end{itemize}
+\subsubsection{eRISK}
+\begin{itemize}
+    \item Symptom search for depression and detection
+    \item Rank sentences from redding to clinical classes, contextualized detection, and conversational detection (earlier detection better!); LM personality detection task (Problem: jailbreaking\dots)
+\end{itemize}
+\subsubsection{ELOQUENT}
+\begin{itemize}
+    \item Voight-Kampff task (AI detection, Blade Runner reference!) as red/blue teams - red team quite good, but none fooled all!
+    \item A lot of misclassified, especially two texts: EU law text + intro to LMs ;)
+    \item Value-Oriented questions, 15 languages - no specific answer; only joint participant report!
+    \item Results: LM have some conservative views regarding live, etc.
+    \item Relevance task: return very concise and relevant output!
+\end{itemize}
+\subsubsection{CheckTHAT}
+\begin{itemize}
+    \item Tasks:
+          \begin{itemize}
+              \item T1: subjectivity/check whether it should be checked
+              \item T2: Claim extraction
+              \item T3: Fact-Checking Numerical Claims
+              \item T4: Scientific Web Discourse: check and identify mentions
+          \end{itemize}
+\end{itemize}
+\subsubsection{TalentCLEF}
+\begin{itemize}
+    \item Human Capital Management (??)
+    \item HR: very digital, job portals\dots
+    \item Tasks: Job Title Matching; Skill Prediction from Job Titles
+\end{itemize}
+\subsection{ImageCLEF}
+\subsubsection{Training Data Analysis and Fingerprint detection}
+\begin{itemize}
+    \item Synthetic data generation important for medicine (privacy)
+    \item Problem: generative methods have fingerprints in them\dots
+    \item Task 1: determine which images were used in training, results poor -- interesting divide between tasks, reason not fully clear
+    \item Task 2: link to sets of datasets, very high results??
+\end{itemize}
+\subsubsection{Medical Concept Detection + Captioning}
+\begin{itemize}
+    \item Concept detection from images (img2text), evaluation using briefness and correctness
+    \item Then explain with bbox, evaluated using radiologist professional (no formal eval, Likert-Scale) -- i.e. GradCAM / IG
+    \item Maybe next year as task? very interesting!!
+\end{itemize}
+\subsubsection{Visual Question Answering and Synthetic Image Generation for Gastrointestinal Tract}
+\begin{itemize}
+    \item VQA: what, where, how many (polyps) in image- evaluated using BLEU
+    \item Synthetic Data generation based on prompt
+\end{itemize}
+\subsubsection{Visual Question Answering: Dermatologistical VQA}
+\begin{itemize}
+    \item Task 1: Segmentation Maps, solutions mostly finetuned domain models
+    \item Task 2: 'predefined' questions from ontology
+\end{itemize}
+\subsubsection{ImageCLEFtoPicto}
+\begin{itemize}
+    \item AAC: augmentative and alternative communication
+    \item Very focused on pictograms, represents ideas \& notions
+    \item  Currently: a lack of training, and very expensive (+awareness)
+    \item Task: French Text/Speech 2 pictogram
+    \item Very few participants, french-only
+\end{itemize}
+\subsubsection{Multimodal Reasoning}
+\begin{itemize}
+    \item Many VQA: very simple questions, images loosely linked to text
+    \item Their benchmark: multilingual (13 languages), multiple-choice, difficulty levels
+    \item Task: Multiple-Choice Questions from student exams within europe
+    \item Some languages test-only!
+    \item Moderately difficulty, parallel data - exactly the same solution across languages, but big diff in languages (e.g. serbian - Cyrillic alphabet!)
+    \item Everyone used VLMs (Qwen Vision)
+    \item Future Work: university-level, are models really reasoning?
+\end{itemize}
+
+\subsubsection{Image Retrieval/Generation for Arguments}
+\begin{itemize}
+    \item Illustrate Argument by images
+    \item Evaluated by aspects contained
+    \item Challenge: combine aspects effectively
+\end{itemize}
+
+\section{Friday}
+\subsection{ImageCLEF}
+\subsubsection{ImageCLEFmedical}
+\textbf{AUEB NLP Group/Archimedes}
+\begin{itemize}
+    \item Class Assignment: Multiple Vote strategy of CNNs with ResNET (Union, Intersection, \dots)
+    \item Captioning: Q-Former with query assignment,InstructBLIP, Cation Gen + medCLIP scoring (retrieval from generated captions)
+    \item Explainability: assignment based on ChatGPT-drawn boxes on
+\end{itemize}
+\textbf{DS4DH Group}
+\begin{itemize}
+    \item Concept detection: framed as sequence generation, concepts as tokens (hmmm, CUIs have order; a transformer might be correct) \& condition on images
+    \item Caption: InstructBLIP, RAG-based on image retrieval, cluster-based on topics
+\end{itemize}
+\textbf{UMUTeam: Fine-Tuning a Vision-Language Model for Medical Image Captioning and SapBERT-Based Reranking for Concept Detection}
+\subsubsection{MultimodalReasoning (Answers of visual highschool questions)}
+\textbf{Ayesha Amjad: Visual Question Answering with Structured Data Extraction and Robust Reasoning}
+\begin{itemize}
+    \item Approach: Image Captioning using gemini + reasoning modeling for answer generation
+\end{itemize}
+\textbf{ContextDrift: Evaluating VLMs' Multimodal, Multilingual and Multidomain Reasoning Capabilities via Thinking Budget Variations and Textual Augmentation}
+\begin{itemize}
+    \item Similar Approach, but visual model and prompt design
+    \item A lot of ablation studies\footnote{\url{https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_194.pdf}}
+\end{itemize}
+\textbf{MSA: Multilingual Multimodal Reasoning with Ensemble Vision-Language Models}
+\begin{itemize}
+    \item OCR + vLLM
+    \item + Ensembling
+\end{itemize}
+
+\subsubsection{MEDIQA-MAGIC}
+\textbf{DS@GT}
+\begin{itemize}
+    \item Emulate Collaborative Reasoning of Physicians
+    \item 7 vLLM + orchestrators, combination of reasoning \dots
+\end{itemize}
+\textbf{IReL, IIT(BHU): Tackling Multimodal Dermatology with CLIPSeg-Based Segmentation and BERT-Swin Question Answering}
+\subsubsection{MEDVQA}
+\textbf{Gaurav Parajuli (JKU, Linz): Querying GI Endoscopy}
+\begin{itemize}
+    \item LoRA finetuned vLLM
+\end{itemize}
+\textbf{Sujata Gaihre}
+\begin{itemize}
+    \item Similar approach
+\end{itemize}
+\textbf{Krishna Tewari}
+\begin{itemize}
+    \item Data Augmentation/Preprocessing!
+\end{itemize}
+\subsection{Closing Ceremony}
+\begin{itemize}
+    \item New CLEF challenges ;)
+\end{itemize}
+
+% \subsubsection{Spatially Grounded Explanations in Vision-Language Models for Document Visual Question Answering}
+% \begin{itemize}
+%     \item 
+% \end{itemize}
+\section{Posters}
+\include{posters} 
+
+\printbibliography
+
+\end{document}

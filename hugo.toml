@@ -1,0 +1,28 @@
+baseURL = 'https://notes.dakantz.at/'
+languageCode = 'en-us'
+title = 'Benedikts Notes'
+contentDir = 'Public Notes'
+theme = 'hugo-book'
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'light'
+
+  # (Optional, default true) Controls table of contents visibility on right side of pages.
+  # Start and end levels can be controlled with markup.tableOfContents setting.
+  # You can also specify this parameter per page in front matter.
+  BookToC = true
+
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[imaging]
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true

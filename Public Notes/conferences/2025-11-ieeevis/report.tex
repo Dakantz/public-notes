@@ -1,0 +1,469 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8x]{inputenc}
+
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+
+\usepackage{hyperref}
+
+\usepackage{tabularray}
+\usepackage{graphicx}
+
+\usepackage[table]{xcolor}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage[style=ieee,backend=biber]{biblatex} % 
+\addbibresource{references.bib}
+\usepackage{isomath}
+\usepackage{amsmath}
+\usepackage{newtxmath}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{bm}
+\usepackage{ stmaryrd }
+\usepackage{enumitem}
+\setlist{
+ itemsep=0.1em,
+ parsep=0.1em
+} % or \setlist{noitemsep} to leave space around whole list
+
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    left=25mm,
+    right=25mm,
+    top=25mm,
+    bottom=25mm,
+    }
+    
+\title{IEEE VIS '25 notes and interesting posters}
+\author{Benedikt Kantz}
+\date{Nov 02-07 2025}
+\begin{document}
+
+\maketitle
+\tableofcontents
+\section{Workshshops}
+\subsection{alt.VIS (Sunday Morning)}
+\url{https://altvis.github.io/}
+\subsubsection{Data Melodification FM}
+\subsubsection{Visualization Was Here}
+\subsubsection{The Fuzzy Front Ends}
+
+Very interesting talks, Melodification could be part of survey for HCDA. TLX-on-TLX by Daniel was also a good throwback to the NASA-TLX, complete with a \LaTeX template to emulate the old typewriter-paper feel.
+\ldots
+\subsection{Bio+MedVIS (Sunday Morning): Redesign Challenge Introduction}
+\begin{itemize}
+    \item Spectral analysis of 31P-MRS output of 9 individuals
+    \item Dashboards to show spectra/peaks with rations of metabolic ranges
+    \item Difference between subjects focus of many works, ratios/difference
+\end{itemize}
+\subsection{SciVis (Sunday Afternoon)}
+\begin{itemize}
+    \item More focus on specific solutions
+    \item Inverse problem analysis could be interesting?
+    \item A lot of dimensionality reduction, used PCA which could be flawed in the current setting
+    \item Filtering on parallel coordinates/coordinates was very popular too, could be interesting to replace by target function and weight to allow fuzzy optimisation and apply Pareto front for our approach.
+\end{itemize}
+
+\subsection{LDAV (Monday Morning)}
+\subsubsection{Opening \& Keynote}
+\begin{itemize}
+    \item Keynote: Kwan-Liu Ma
+    \item Extract data, integrate viz in flows, integration AI/ML
+    \item INR:  implicit neural representations, for data reduction, i.e. encode dataset in model (related to PINNs, kind of as data/observations encoded in NN), new method: Gaussian Splatting, kind of related as NERF supplanted by Splatting
+    \item Glyph-based viz, after spatial aggregation (using Voronoi patterns) \footnote{\url{https://arxiv.org/pdf/2506.23092v1}}
+    \item Uncertainty:  2D uncertainty: use small multiples, limitations of direct interpretation (requires understanding) \footnote{\url{https://arxiv.org/pdf/2012.11109}}, ClimateSOM to encode distribution of uncertainty (instead of summary)
+    \item
+\end{itemize}
+\subsubsection{Extracting Complex Topology from Multivariate Functional Approximation: Contours, Jacobi Sets, and Ridge-Valley Graphs} Guanqun Ma, David Lenz, Hanqi Guo, Tom Peterka, \textbf{Bei Wang}
+
+\begin{itemize}
+    \item Extract topology without having to sample from model?
+    \item Reframe Ridge-Valley graph (complex topology) from contour graph
+    \item Core approach: use gradient of INF to trace paths, then use these as splines, extract gradients from these, then get the Ridge-Valley graphs/Jacobi Graphs
+    \item Very smooth lines (B-Splines\dots)
+    \item Possible weakness: NN gradients non-smooth/well learned... (especially for higher dimensions!)
+\end{itemize}
+\subsubsection{Extremely Scalable Distributed Computation of Contour Trees via Pre-Simplification}
+Mingzhe Li, Hamish Carr, Oliver Rübel, Bei Wang, Gunther H. Weber
+\begin{itemize}
+    \item
+\end{itemize}
+\subsubsection{ChatVis}
+\begin{itemize}
+    \item Use RAG to automate viz based on prompts, evaluated on 20 examples + agentic correction flow
+    \item RAG is quite good\dots
+\end{itemize}
+\subsubsection{From Soup to Bricks: Fast Clustering of Fine-Grained AMR Hierarchies for Rendering on GPUs}
+Stefan Zellmann, Ingo Wald
+\begin{itemize}
+    \item Optimize Kd-based rendering of flow/volumetric data.
+\end{itemize}
+\subsubsection{Lossy Parallel Visualization of Large-Scale Volume Data with Error-Bounded Image Compositing}
+Yongfeng Qiu, Yuxiao Li, Xin Liang, Yafan Huang, Guanpeng Li, Sheng Di, Franck Cappello, Hanqi Guo
+\begin{itemize}
+    \item Compression for image exchange between nodes
+    \item Use cross-combinations by using cross-exchange using  $\mathcal{O} (n \log n)$
+    \item Calculate error based on alpha-blending/compression overlaying
+    \item Can calculate upper bound for error.
+\end{itemize}
+
+\subsubsection{Managing Data for Scalable and Interactive Event Sequence Visualization}
+Sayef Azad Sakin, Katherine E. Isaacs
+
+\begin{itemize}
+    \item use Kd-tree across event paths, would it be better to use binary trees to not mix non-spatially related tracks.
+    \item SSIM as metric for visual similarity for viz
+\end{itemize}
+
+\subsection{VAST Challenge 2025}
+
+\subsubsection{Welcome \& Introduction}
+\begin{itemize}
+    \item Hidden story extraction from dataset (fictional island of Oceanis)
+    \item MC1:
+    \item MC2: Bias detecion in a KG, conflict of Tourism/Fishing
+    \item MC3: Last year illegal fishing, this year: secret tourism patter/atypical activities detection including deceptive/contradicting information
+    \item DC: Design challenge, propose designs for diverse teams
+
+\end{itemize}
+
+\subsubsection{BAIT Dashboard (MC2)}
+\begin{itemize}
+    \item Really cool dashboard for bias/change detection
+    \item Scale metaphor to analize impact
+    \item \url{https://bait.ava25.dbvis.de/}
+\end{itemize}
+
+\subsubsection{Interactive Platform 4 VA of Suspicious patterns (MC3)}
+\begin{itemize}
+    \item Build KG from radio messages
+    \item Discovering patterns/groups within networks, using topic modeling over messages
+    \item[\ldots] and using similarity measures of content
+\end{itemize}
+\subsubsection{Intuitive Support for Query Construction (DC)}
+\begin{itemize}
+    \item Related works: \textbf{State of the Art
+              in Multivariate Network Visualization}
+    \item TreeMap-based viz of node types/edges \& hierarchies
+\end{itemize}
+
+\section{Conference}
+
+\subsection{Opening  \& Keynote: Visualization as a Science/The path of Viz to Science}
+\begin{itemize}
+    \item Early Viz: ASCII plot to a row-based line printer, very simple yet effective, next line printer (vector graphics) of MC simulations of ray scattering in clouds
+    \item Early start in Supercomputers, \enquote{Mental Images} on the first GPUs (create every imaginable image on the computer)
+    \item Medical planning: volume data to finite element representation using segmentation and organ rendering (surgery planning)
+    \item Feature extraction from flow modeling
+    \item da Vinci Studio (before Cave Viz)
+    \item His points: serious application, entire problem, identify core functionality, cross disciplinary;
+    \item The Science of Visual Insight
+          \begin{itemize}
+              \item One dataset can tell different stories (e.g. log vs linear)
+              \item Visualizations to make sense of data!
+              \item The mental representation/model/concepts/semantic networks/language/knowledge gets updated (Tobias's \enquote{aha!}, for language - viz metaphors)
+              \item \enquote{modern} worldview: smybolic - nature - social orders, given truths - viz is according to him in the middle, cannot capture all truths... (this seems like the Venn diagram meme), map to different \enquote{ontologies} (not in KG sense but philosophical sense\dots)
+              \item Floridi's infosphere / related viz to various philosophical arguments about truth and understandings, Foccaults power structures
+              \item Critical Visualization \footnote{\url{https://academic.oup.com/cybersecurity/article/1/1/93/2366512?login=false}}
+              \item What makes a science a science?
+                    \begin{enumerate}
+                        \item Epistemic clarity: measure/truths can be validated
+                        \item Theoretical articulation: ontology of visual objects
+                        \item Normative guardrails: ethics of epistemic-ness, power, fairness?
+                    \end{enumerate}
+              \item Visual Knowledge - definition? - transparent in provenance, reusable, uncertainty
+              \item Visualizing Arguments - every viz serves a claim! Make structure/provenance clear
+              \item Predictive Understanding - toolset to verifiably/predict Understanding
+              \item Power and Responsibility of Viz, Foucault's representations coupled with power.
+              \item two major problems: how to gain and communicate true knowledge
+
+
+          \end{itemize}
+
+\end{itemize}
+\subsubsection{Awards}
+\begin{itemize}
+    \item VGTC Lifetime award: Meister
+    \item Best short paper: Toward a Logic of Generalization about Visualization as a Decision Aid
+          \begin{itemize}
+              \item How can viz be useful for decision making / epistemic framework: atomic viz parts vs. contextualized interpretation
+              \item Formalize decision theory in viz (state - signal - interpretation - action)
+          \end{itemize}
+\end{itemize}
+
+\subsection{Best Paper Awards}
+\subsubsection{"They Aren't Built For Me": An Exploratory Study of Strategies for Measurement of Graphical Primitives in Tactile Graphics}
+Areen Khalaila, Lane Harrison, Nam Wook Kim, Dylan Cashman
+\begin{itemize}
+    \item Accessibility for Data using Physicalisation
+    \item Tasks for BLV are exponentially harder than for sighted people
+    \item Evaluate errors of blind people on chart reading - some measures are similar to sighted people, some are very different (i.e. area measurements)
+    \item Expected outcomes: inclusive design, remove tactile distraction
+\end{itemize}
+\subsection{ReVISit 2: A Full Experiment Life Cycle User Study Framework}
+Zach Cutler, Jack Wilburn, Hilson Shrestha, Yiren Ding, Brian Bollen, Khandaker Abrar Nadib, Tingying He, Andrew McNutt, Lane Harrison, Alexander Lex
+\begin{itemize}
+    \item Really great tool!
+\end{itemize}
+
+\subsubsection{Beyond Problem Solving: Framing and Problem–Solution Co-Evolution in Data Visualization Design }
+Parsons, Prakash Chandra Shukla
+
+\subsubsection{Causality-based Visual Analytics of Sentiment Contagion in Social Media Topics}
+\begin{itemize}
+    \item Interesting causality maps (by assuming time progression is not just correlation\dots)
+\end{itemize}
+\subsection{Test-of-Time award}
+
+\subsubsection{Vector field visualization}
+\begin{itemize}
+    \item Use templates for critical points (fingerprints?)
+\end{itemize}
+\subsubsection{Uncertainty Viz}
+\begin{itemize}
+    \item Use bands to visualize uncertainties (see master thesis?)
+\end{itemize}
+\subsubsection{Compression algorithm for 4D vector compression}
+\begin{itemize}
+    \item Compression on block-level, with simple Mutiply-Add
+    \item Widely used, Open-Source (funding for porting!)
+\end{itemize}
+
+\subsubsection{Graph-Theoretic Scagnostics}
+\subsubsection{Voyager}
+Well-known viz browsers
+\subsubsection{Reducing Snapshots to Points}
+\begin{itemize}
+    \item Analyze dynamic network by flattening them and performing dimensionality reduction and drawing them as time curves.
+    \item Kind of similar to GNN (according to author)
+\end{itemize}
+
+\subsection{Maps \& Spatial Vis}
+
+\subsubsection{"Mapping What I Feel": Understanding Affective Geovisualization Design Through the Lens of People-Place Relationships}
+
+\begin{itemize}
+    \item Emotional Mapping/Geography
+    \item Identifying Emotional Visualization through survey (remove image/historical viz) - Affective Visualization
+    \item Situated and personalized compared to other emotional viz.
+    \item For Jes\'u : social/humanistic viz.
+    \item
+\end{itemize}
+
+\subsubsection{Unveiling the Visual Rhetoric of Persuasive Cartography: A Case Study of the Design of Octopus Maps}
+\begin{itemize}
+    \item Octopus: literally?, historically famous (they creep into the data, rhetorically speaking)
+    \item Survey of maps containing octopus with deep coding of maps, propaganda/misinformation maps deeply connected!
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{figures/octopus_map.png}
+    \caption{From \textcite{OctuposMap2025}}
+\end{figure}
+
+\subsubsection{How do Data Journalists Design Maps to Tell Stories?}
+\begin{itemize}
+    \item Explore design space of these specifc maps
+    \item Article sourrounding maps, accompying viz/supporting media
+    \item Interactivity/Overlays\dots
+    \item Interactive more challenging, less common (expensive!)
+    \item Tight deadlines force less map inclusion, AI enables more inclusion (but at what cost)?
+    \item A lot of users require locator maps, data literacy often a problem/readers often lost, require well-versed audience
+    \item Limitations: biased towards Brazilian journalists, no mobile maps
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{figures/journalism_taxonomy.png}
+    \caption{From \textcite{JournalisMap2025}}
+\end{figure}
+
+\subsubsection{Algorithmically-Assisted Schematic Transit Map Design: A System and Algorithmic Core for Fast Layout Iteration}
+\begin{itemize}
+    \item Their major contribution: interactive design, compared to Hannah Bast's greedy construction!
+    \item Fast/Global algorithms survey
+    \item Kind of limited user study (but only a few people)
+\end{itemize}
+
+\subsubsection{Algorithms for Consistent Dynamic Labeling of Maps With a Time-Slider Interface}
+\begin{itemize}
+    \item Time-Based labeling of images with time/geospatial info
+    \item Use maximal information metric for labeling
+    \item Query by adjusted slider
+    \item Optimal + Valid Activity diagram - define constriants to display optimal viz! Using ILP for optimal labeling
+    \item @Julian: could be interesting to display your optimal display of progressive viz on time series
+\end{itemize}
+\subsubsection{Volume-Based Space-Time Cube for Large-Scale Continuous Spatial Time Series}
+\begin{itemize}
+    \item Space-Time Cube/linked views/overlay for displaying time-based data on maps
+    \item Does not work on large-scale data!
+    \item Slicing of volume (effectively volume atop map)
+\end{itemize}
+\subsection{Vis 4 Science}
+\subsubsection{Paraview-MCP: An Autonomous Visualization Agent with Direct Tool Use}
+
+\begin{itemize}
+    \item AI agents for Para View
+    \item Reduce Barrier of Entry
+    \item No user study, but present strong use case with Blender MCP
+\end{itemize}
+
+\subsubsection{Uncertain Mode Surfaces in 3D Symmetric Second-Order Tensor Field Ensembles}
+
+\begin{itemize}
+    \item Prior work: Topological Tensor field
+    \item Tensor Mode $\rightarrow$ can be extracted to get contours/limits/extremes
+    \item Uncertainty in Tensor Ensemble: Calculate Mean - then Mode (removes information), therefore - mode of each field, then calculate variance/\dots over these, viz these
+    \item Current limitations: only for 1D-lines, current work: add more extension
+\end{itemize}
+\subsubsection{Virtual Ray Sampling for Direct Volume Rendering using Hermite Interpolation}
+\subsubsection{SEG-RobustEye: Understanding medical image segmentation models}
+\subsubsection{Scope Meets Screen: Lessons Learned in Designing Composite Visualizations for Marksmanship Training Across Skill Levels}
+\subsubsection{Interactive Visual Analytics of Carbon Cycle Science}
+\begin{itemize}
+    \item Usually: box-flow diagrams (boxes represent storage, arrows movement)
+    \item
+\end{itemize}
+\subsubsection{Analyzing Time-Varying Scalar Fields using Piecewise-Linear Morse-Cerf Theory}
+\subsection{Abstract Physical Spaces}
+\subsubsection{Don't Stop Me Now: Visualizing Disruptions in Railroad Networks}
+\begin{itemize}
+    \item Goal: exploring train disruption dataset
+    \item Disrupted segments/temporal heatmap
+    \item Use Case: Spreading of weather related delays and repair \enquote{cooldown}
+    \item \url{https://trainviz.github.io/}
+\end{itemize}
+
+\subsubsection{Posterity: Balancing historical context and visual dynamism while visualizing a collection of American labor posters}
+\begin{itemize}
+    \item Nice demo with dimensionality reduction/embedding similarity to custom posters/clustering
+\end{itemize}
+\subsubsection{Chronotome: Real-Time Topic Modeling for Streaming Embedding Spaces}
+\begin{itemize}
+    \item Progressive Viz of Clusters
+    \item Could be interesting for the RIS time viz of topics in laws?
+    \item Cluster evolution over time in 3D!, time constant cluster by doing 2D clustering first then expanding to 3D
+    \item Applied to 3 different models, and has the progressive aspects which sets it apart\dots
+\end{itemize}
+\subsubsection{Data-Driven Compute Overlays for Interactive Geographic Simulation and Visualization}
+\begin{itemize}
+    \item Montain viz of avalanche risk
+    \item Web-based compute for dynamic overlay using LoD system + webGPU
+    \item \url{https://webigeo.alpinemaps.org/}
+\end{itemize}
+\subsubsection{Embedding Atlas: Low-Friction, Interactive Embedding Visualization}
+\begin{itemize}
+    \item Main selling point: easy setup/sane defaults/fast
+    \item Uses webGPU for fast rendering
+    \item Easy viz config, reducing friction
+\end{itemize}
+\subsubsection{CFTree: Exploring Paths Through Counterfactuals}
+\begin{itemize}
+    \item Uses DECE for Counterfactuals
+    \item Parallel coordinates over nodes
+\end{itemize}
+\subsubsection{Visualizing Climate Model Outputs with CliMAScope}
+\begin{itemize}
+    \item Full-On Design study with experts
+\end{itemize}
+\subsubsection{MC-INR: Efficient Encoding of Multivariate Scientific Simulation Data using Meta-Learning and Clustered Implicit Neural Representations}
+\begin{itemize}
+    \item Usually/Related: INR for compression
+    \item Their approach: not only use a single INR, globally, but use multiple INRs clustered by k-Means
+\end{itemize}
+\subsection{Graphs and Networks}
+\subsubsection{Envisage: Towards Expressive Visual Graph Querying}
+
+\subsection{Dimensionality Reduction and Parameter Space Analysis}
+
+\subsubsection{ClimateSOM: A Visual Analysis Workflow for Climate Ensemble Datasets}
+\begin{itemize}
+    \item Partition SOM into clusters
+    \item Study with experts (this seems to be the deciding factor for many accepted papers!)
+\end{itemize}
+\subsection{SEAL: Spatially-resolved Embedding Analysis with Linked Imaging Data}
+\begin{itemize}
+    \item Gigapixel size with 100+ channels, millions of cells!
+    \item Bridge spatial image / embedding
+    \item Cells extracted and rearranged in embedding view - hybrid embedding view, render cells progressively
+    \item Linked view dashboard, with lasso tools to select embedding view and show in overview.
+    \item Calculate SHAP features based on model learned on dimensionality reduction (similar to our SciVis submission - we just use SG and use it as guidance)
+    \item Eval: Use Case Study with three experts in three domain
+    \item \url{http://sealvis.org/} using anywidet
+\end{itemize}
+\subsubsection{A Critical Analysis of the Usage of Dimensionality Reduction in Four Domains}
+\begin{itemize}
+    \item Survey of DR usage in domains
+\end{itemize}
+\subsubsection{Interactive Visual Analysis of Spatial Sensitivities}
+
+\subsubsection{RSVP for VPSA : A Meta Design Study on Rapid Suggestive Visualization Prototyping for Visual Parameter Space Analysis}
+\subsection{IEEE VIS Reviewing — On a Path to Self-Destruction?}
+\textit{Petra Isenberg, Gunther Weber, Narge Mahyar, Niklas Elmqvist, Han-Wei Shen, Michael Sedlmair, Melanie Tory, Helwig Hauser, Bei Wang, Tamara Munzner}
+\begin{itemize}
+    \item Reviews are on a bumpy path - LMs, virtual conference, good (?): student reviews
+    \item What we \textins{should} value in reviews (related to psychology panel)
+    \item Survey results
+    \begin{itemize}
+        \item Gatekeeping in Viz -- less novelty, subjective quality, career systems; efficiency is going down (hundreds of review cycles) -- beer garden theory (spend your time effectively)
+        \item Intransparent discussion -- reviewers change score, but not underlying review; one person (critical one) leads discussion, 
+        \item Perceived randomness -- because it is a noisy sampling process; be in a good mood for reviewing ;), one (very convinced) person could lead discussion; recommendation: noise - a flaw in the human judgement
+        \item Unqualified reviewers -- student reviewers (no weigh in review scores - that makes it feel valued for me\dots), unqualified PCS reviewers (how did that happen?), do not just average; also look for the good in the work, do not expect everything
+        \item Unnecessarily negative reviews -- review fatigue, harsh gatekeeping, self-check expertise - positive framing (e.g. lacks justification instead of missing parameters)
+        \item Low range -- people do not use the full range, update review after being convinced!
+    \end{itemize}
+    \item Discussion
+\end{itemize}
+\subsection{From data to meaning}
+\subsubsection{Stitching Meaning: Practices of Data Textile Creators}
+\begin{itemize}
+    \item Survey of Creators
+    \item Looking at (meta-)structure, meaning, data, color, motivation
+\end{itemize}
+\subsubsection{Story Ribbons: Reimagining Storyline Visualizations with Large Language Models}
+\begin{itemize}
+    \item Structural timelines from text(-stories)
+    \item Character arcs \dots
+    \item Using LMs and correction loops, interactive explanations and provenance to the texts
+    \item Added a lot more fine-grained characters and themes compared to other methods
+\end{itemize}
+\subsubsection{$F^2$Stories: A Modular Framework for Multi-Objective Optimization of Storylines with a Focus on Fairness}
+\begin{itemize}
+    \item Fairness in  \textit{Viz}?
+    \item Tradeoffs between global and local fairness (minorities)
+    \item Networks: MILP used instead of global layouting
+    \item Optimize crossings in story lines
+\end{itemize}
+\subsection{Transportation, Buildings, and Urban Vis}
+\subsubsection{StressDiffVis: Visual Analytics for Multi-Model Stress Comparison}
+\begin{itemize}
+    \item Alternative Visualization for stress visualization for construction views
+    
+\end{itemize}
+\subsubsection{StreetWeave: A Declarative Grammar for Street-Overlaid Visualization of Multivariate Data}
+\begin{itemize}
+    \item Maps, Urban analysis - Walkability score
+    \item Design space survey of walkable/accesible neighbourhood street analysis.
+\end{itemize}
+
+\subsubsection{TraSculptor: Visual Analytics for Enhanced Decision-Making in Road Traffic Planning}
+\begin{itemize}
+    \item Model traffic demand on graph, explore options on graph
+\end{itemize}
+\section{Best Paper Awards according to me}
+\begin{itemize}
+    \item Smoothest Maps: Algorithmically-Assisted Schematic Transit Map Design: A System and Algorithmic Core for Fast Layout Iteration
+    \item Longest Tentacles: Unveiling the Visual Rhetoric of Persuasive Cartography: A Case Study of the Design of Octopus Maps
+    \item Fastest Avalanche: Data-Driven Compute Overlays for Interactive Geographic Simulation and Visualization
+\end{itemize}
+\section{Posters}
+\include{posters}
+
+\printbibliography
+
+\end{document}

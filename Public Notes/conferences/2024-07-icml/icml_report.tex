@@ -1,0 +1,340 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8x]{inputenc}
+
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+
+\usepackage{hyperref}
+
+\usepackage{tabularray}
+\usepackage{graphicx}
+
+\usepackage[table]{xcolor}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{url}
+\usepackage[style=ieee,backend=biber]{biblatex} % Bibliography
+\usepackage{isomath}
+\usepackage{amsmath}
+\usepackage{newtxmath}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{bm}
+\usepackage{ stmaryrd }
+
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    left=25mm,
+    right=25mm,
+    top=25mm,
+    }
+    
+\title{ICML '24 notes and interesting posters}
+
+\begin{document}
+
+\maketitle
+
+\section*{Montag Vormittag}
+\subsection*{Predictive attribution}
+\begin{itemize}
+    \item loss $\rightarrow$ what if one element changed? Leave One Out (LOO)
+    \item can be solved in closed form for Linear Regression, Logistic Regressions, NNs,..
+\end{itemize}
+\subsection*{NN operator learning}
+\begin{itemize}
+    \item PDE learning $\rightarrow$ nonlinearities keys
+    \item optimize these jointly with NN
+    \item rewatch talk! (Physics of LLMs too)
+\end{itemize}
+\subsection*{Strategic Learning \& behaviour}
+\begin{itemize}
+    \item behavior (human) influences ML decisions and vice-versa
+    \item classifiers: transparent or opaque (e.g. Schufa? what are the merits)
+    \item includes the social burden of ML system in loss (never explained how??)
+    \item people move in classifier feature space - towards better decision rule, independent from position! $\implies$ classifiers create demand!
+    \item strategic modification $\implies$ strategic participation in system!
+          \begin{itemize}
+              \item is it worth to participate at all? - your fairness might be skewed!
+              \item e.g.: people might not apply in the first chance, showing a fair selection bias to "pre-selection"
+              \item fairness is opaque!
+          \end{itemize}
+    \item possible solution: causality of change?
+\end{itemize}
+
+\section*{Montag Nachmittag}
+\subsection*{Distribution-Free UCQ}
+\begin{itemize}
+    \item problem of conformal splits: variability: $\mathcal{O}(\sqrt{n})$
+    \item no split conformal prediction
+          \begin{itemize}
+              \item problem when scoring on training points $\rightarrow \lightning$  overfitting, all $s(x)=0$
+              \item go back to classical CP - leave-one-out train for all $\rightarrow \lightning \mathcal{O}(n^2)$
+              \item jackknife+ $\rightarrow$ problem if node unstable
+          \end{itemize}
+    \item adaptability of CP using running adaption $\gamma$ as basis (AgACI)
+\end{itemize}
+\subsection*{GNNs}
+\begin{itemize}
+    \item node-level tasks:
+          \begin{itemize}
+              \item node embeddings (optimized based on similarity+random walks)
+              \item Problems: incorporate structure, adding data
+          \end{itemize}
+    \item GNN - aggregate information $\sim$ CNN
+    \item message passing to neighbors
+    \item final output layer: based on task!
+    \item GCN: passing adjacency and diagonal matrix iteratively
+    \item GraphSage
+    \item GAT: Graph Transofromer: attend on neighbors
+    \item
+          \begin{itemize}
+              \item instead of future predict node
+              \item problem: convey position to transformer (usually sine embeddings)
+              \item output: node embeddings
+              \item regular sinusoidal embeddings with graph laplacian + learnable embeddings
+              \item problem : $\mathcal{O}(n^2)$
+          \end{itemize}
+    \item GraphGPS: message passing + transformer
+\end{itemize}
+
+
+\section*{Dienstag Vormittag}
+\subsection*{Unapologetic Openness}
+\begin{itemize}
+    \item why openness? $\rightarrow$ ecosystem $\uparrow$, community thrives!
+    \item not just philanthropy
+    \item why not: time advantage, could be used in harmful ways
+    \item LLM Open Source: human feedback $\lightning$ meta wants end user feedback, but is missing that for training...
+\end{itemize}
+\subsection*{Genie}
+\begin{itemize}
+    \item train Video model with action tokens for 16 frames
+    \item goal: agents can use and understand sim
+\end{itemize}
+\subsection*{Arrows in time}
+\begin{itemize}
+    \item forward/backward CE of LLM
+    \item Related to language/information theorem of Shannon
+    \item Forward pass has a lower loss - indicates an arrow in time!
+    \item Across all languages!
+    \item gap increases with model size, across multiple model types
+    \item origin: primes $p_1, p_2$, $p_1 \times p_2 =n$ - multiplication easy, factorisation is not
+    \item causality?, very data-intense, not clear if it applies to other data
+\end{itemize}
+\section*{Transformers for pretraining Universal Forecasts: MOIRAI}
+\begin{itemize}
+    \item challenges: cross-frequency
+    \item patch-based forecasting +masked
+    \item multivariate: flattened, different encoding
+    \item Future Work: combine with text?
+\end{itemize}
+\section*{Potential of Transformers for Timeseries prediction: SAMFormer}
+\begin{itemize}
+    \item robustness against time shift
+    \item custom training routine: SAM
+    \item very simple, better than MOIRAI-zero-Shot
+    \item The same architecture works well for many systems
+\end{itemize}
+\section*{Mittwoch Vormittag}
+\subsection*{African Language Datasets}
+\begin{itemize}
+    \item translations missing, important to bring policy decisions to citizens
+    \item no clear text available - only as PDFs or similar, only 10 \% is translated!
+    \item alignment issues
+    \item voice dataset being built
+    \item translate scientific content at scale
+    \item code mixing problems (NLP)
+    \item Lelapa (home): communicating in African languages
+          \begin{itemize}
+              \item community, from scratch: 45\% women!
+              \item legal aspects of AI largely unknown, a lot of workshops
+          \end{itemize}
+\end{itemize}
+\subsection*{Position: Measure Diversity, don't just claim it!}
+\begin{itemize}
+    \item collect geographically diverse dataset, diversity definition matters - which level of diversity, \dots
+    \item diversity can never be objective $\rightarrow$ values encode information (e.g. political)
+    \item measurement still fundamental for ML
+    \item measurement theory (social science), e.g. socioeconomic status based on many factors, only indirect measure possible
+          \begin{itemize}
+              \item conceptualize
+              \item operationalize
+              \item evaluate
+              \item ?
+          \end{itemize}
+    \item $\rightarrow$ scale $\neq$ diversity $\neq$ unbiased
+    \item not much quality reported
+    \item evaluation usually only on newer models
+    \item measure diversity \emph{within} dataset $\rightarrow$ problem: level of diversity, unknown definition!
+\end{itemize}
+\section*{Mittwoch Nachmittag}
+\subsection*{SceneCraft: Text2Scene}
+\begin{itemize}
+    \item challenge: semantic relationship not controllable
+    \item solution: LLM agents repeat generative approach+function generation to build skills automatically
+          \begin{enumerate}
+              \item asset list $\rightarrow$ CLIP search for similar assets
+              \item scene decomposition using LLM
+              \item layout checked for each object $\rightarrow$ semantics/relationships!
+              \item critique \& adopt functions
+          \end{enumerate}
+    \item extended to movie generation $\rightarrow$ movie poet, a bit weak
+\end{itemize}
+\subsection*{ChatGPT moderation at scale}
+\begin{itemize}
+    \item downsides to ChatGPT: learning hindered, factually incorrect
+    \item indicator adjectives show that GPT use is on the rise
+    \item indistinguishable from human?
+    \item corpus-level detection (percentage)
+    \item $\sim$10\% to 17\% usage, Nature almost 0!
+    \item Multimodal $\alpha$ estimation using known distributions
+    \item ground truth generated by LLM generated reviews for papers before 2020, temporal split!
+    \item modeling TF of on adjectives for probabilities
+    \item common GPT detectors worse!
+    \item BERT-based detectors weak
+    \item deadline effect: more usage!
+    \item more replies: less usage (more involvement!)
+    \item only works globally, not necessarily bad - can be used as an indicator, not individual blame!
+\end{itemize}
+\subsection*{Stealing part of a production LLM}
+\begin{itemize}
+    \item finding single values of LLM responses
+    \item singular value decomposition: after a certain number of stops steep falloff of values - indicates the limit of the last layer!
+    \item indicates output subspace - consequently, last layer size!
+    \item final layers can be learned too:
+          \begin{equation}
+              Q=U\Sigma V^T
+          \end{equation}
+    \item can be learned using SVD
+    \item is worth stealing, as ML can be used to generate profit now!
+\end{itemize}
+\subsection*{MagicLens: Self-Supervised Image Retrieval}
+\begin{itemize}
+    \item usually in image retrieval: most \emph{identical} image
+    \item here: guide image + search intent - retrieve semantically relevant image!
+    \item problem: training data:
+          \begin{itemize}
+              \item websites with 2+ images as adjacent images, with nearby text
+              \item filter out ads (Google cannot disable their ads??)
+          \end{itemize}
+    \item contrastive loss, good results
+    \item outperforms SOTA image retrieval
+    \item extremely good semantic retrieval
+\end{itemize}
+\section*{Donnerstag Vormittag}
+\subsection*{Position: Opportunities exist for ML+Fusion}
+\begin{itemize}
+    \item high energy output, tritium production, economics
+    \item disruption prediction
+    \item simulation \& dynamics modeling - physics are incomplete!
+    \item partial observability (related to our HO problem)
+    \item controls problems, experiment design
+    \item material design
+\end{itemize}
+\subsection*{HEPT: High Energy Particle Transformer}
+\begin{itemize}
+    \item Particle cloud embeddings for transformers
+\end{itemize}
+\section*{Donnerstag Nachmittag}
+\subsection*{Uncertainties for LLM}
+\begin{itemize}
+    \item perturb inputs instead of ensemble LLM
+    \item disentangle $\rightarrow$ epistemic/aleatoric
+    \item prompting/finetuning diversity
+\end{itemize}
+\subsection*{AlphaFlow Meets Flow Model Matching}
+\begin{itemize}
+    \item distribution of structures in protein folding
+    \item generative modeling!
+    \item AlphaFlow denoises 3D structure from template + protein
+\end{itemize}
+\section*{Freitag}
+\subsection*{ML4ESM: Towards improved cloud modelling}
+\subsection*{ML4ESM: Climate Set}
+\begin{itemize}
+    \item Climate models: future emissions $\rightarrow$ how does the climate react?
+    \item Multiple socio-economic pathways
+    \item $\sim$ 390 days/simulation!
+    \item problem: resolution scales $\mathcal{O}(r^3)$
+    \item ML: can help downsampling, parametrization, \emph{emulation}
+    \item Problems: distribution shift, data-based, high uncertainty in models ($5$ K)
+\end{itemize}
+\subsection*{ML4ESM: ML and Climate Change}
+\begin{itemize}
+    \item ML not problem/application driven!
+    \item problem: limited resources, sparsely labeled data
+    \item domain knowledge required - reduces compute significantly!
+    \item Climate Simulation
+          \begin{itemize}
+              \item reduce the resolution of simulation, scale up using super-resolution
+              \item keep physical constraints in mind
+              \item mapping to continuous functions: related to neural operator learning
+          \end{itemize}
+\end{itemize}
+\subsection*{ML4ESM: PDE+phys. Constraints+Spectral}
+\subsection*{ML4ESM: DDPM: Deep Denoising Physical Models}
+\begin{itemize}
+    \item PDE model using diffusion process $\rightarrow$ enables uncertainty modeling!
+    \item constraint diffusion process!
+\end{itemize}
+\section*{Samstag}
+\subsection*{GRaM: Platonic Representation Hypothesis}
+\begin{itemize}
+    \item models learn same \enquote{representation}
+    \item converges to same clues in feature spaces (e.g. dogs detector to ears, ...)
+    \item \enquote{Rosetta neurons} - same representation accross many models $\rightarrow$ is there convergence?
+          \begin{itemize}
+              \item H1: different representation
+              \item H2: or same representation? (good models $\Leftrightarrow$ similar representation)
+          \end{itemize}
+    \item Language+Visualisation: do models converge - some indications:
+          \begin{itemize}
+              \item Use kernel to map similarity between models, map different concepts of e.g. GPT, ImageNet
+              \item result: language represents similar concepts as vision!
+              \item a lot of limitations, currently only 0.2/1, does not converge to reality
+          \end{itemize}
+\end{itemize}
+\subsection*{Sociotechnical Evaluation of AI}
+\begin{itemize}
+    \item layers: capabilities, human interactions, systemic impacts
+    \item problem: only technical aspects of AI considered \& mostly textual evaluation
+    \item e.g. textual evaluation:
+          \begin{itemize}
+              \item replica users, mental health impact
+              \item stackoverflow activity drop after ChatGPT release
+              \item homogenization of creative writing: least create get uplift, most creative reduce creativity - narrowing of the spectrum!
+          \end{itemize}
+    \item studies: synthetic simulation?
+\end{itemize}
+\subsection*{AI safety institute (UK)}
+\begin{itemize}
+    \item evaluation of AI: misuse, societal impacts (long term!), autonomous systems (loss of control, safeguards for agents and tools!)
+\end{itemize}
+\subsection*{Future of video generation - beyond data and scale}
+\begin{itemize}
+    \item currently: imperfect control over semantics
+    \item research: single video model, instead of foundational model $\rightarrow$ can be used to split background/foreground, alpha \& recombine
+\end{itemize}
+\subsection*{Adverserial Perturbations cannot Reliably protect artists from generative AI}
+\begin{itemize}
+    \item existing adversarial perturbation can easily be bypassed using:
+    \begin{itemize}
+        \item Gaussian Filters
+        \item One Diffusion step
+        \item  \dots
+    \end{itemize}
+\end{itemize}
+\subsection*{CopyCat}
+\begin{itemize}
+    \item Remove copyrighted characters
+    \item Using: negative prompting (post hoc - open models can easily circumvent that!)
+\end{itemize}
+
+
+\section*{Posters}
+\include{posters.tex}
+
+\end{document}

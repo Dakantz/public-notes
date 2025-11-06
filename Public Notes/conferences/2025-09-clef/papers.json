@@ -1,0 +1,1962 @@
+[
+  {
+    "title":"Overview of BioASQ Tasks 13b and Synergy13 in CLEF2025",
+    "authors":"Anastasios Nentidis, Georgios Katsimpras, Anastasia Krithara, Georgios Paliouras",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_1.pdf"
+  },
+  {
+    "title":"Overview of MultiClinSum Task at BioASQ 2025: Evaluation of Clinical Case Summarization Strategies for Multiple Languages: Data, Evaluation, Resources and Results",
+    "authors":"Miguel Rodr\u00edguez-Ortega, Eduard Rodr\u00edguez-L\u00f3pez, Salvador Lima-L\u00f3pez, Carlos Escolano, Audrey Mash, Maite Melero, Lorenzo Pratesi, Laura Vigil-Gimenez, Leticia Fernandez-Lopez, Eul\u00e0lia Farr\u00e9-Maduell, Martin Krallinger",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_2.pdf"
+  },
+  {
+    "title":"Overview of the BioASQ BioNNE-L Task on Biomedical Nested Entity Linking in CLEF 2025",
+    "authors":"Andrey Sakhovskiy, Natalia Loukachevitch, Elena Tutubalina",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_3.pdf"
+  },
+  {
+    "title":"Overview of ElCardioCC Task on Clinical Coding in Cardiology at BioASQ 2025",
+    "authors":"Dimitris Dimitriadis, Vasiliki Patsiou, Eleonora Stoikopoulou, Achilleas Toumpas, Alkis Kipouros, Alexandra Bekiaridou, Konstantinos Barmpagiannos, Anthi Vasilopoulou, Antonios Barmpagiannos, Athanasios Samaras, Dimitrios Papadopoulos, George Giannakoulas, Grigorios Tsoumakas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_4.pdf"
+  },
+  {
+    "title":"Overview of GutBrainIE@CLEF 2025: Gut-Brain Interplay Information Extraction",
+    "authors":"Marco Martinelli, Gianmaria Silvello, Vanessa Bonato, Giorgio Maria Di Nunzio, Nicola Ferro, Ornella Irrera, Stefano Marchesin, Laura Menotti, Federica Vezzani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_5.pdf"
+  },
+  {
+    "title":"Trusting Gut Instincts: Transformer-Based Extraction of Structured Data from Gut-Brain Axis Publications",
+    "authors":"Lasse Ryge Andersen, Mikkel Hagerup Dolmer, Marius Ihlen Gardshodn, Juan Manuel Rodriguez, Daniele Dell'Aglio",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_6.pdf"
+  },
+  {
+    "title":"AQAMS and AQAMS2: Multi Agent Systems for Biomedical Question Answering",
+    "authors":"Johanna Angulo, V\u00edctor Yeste",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_7.pdf"
+  },
+  {
+    "title":"Agentic MCS: A Multilingual Clinical Summarization Framework",
+    "authors":"Johanna Angulo, V\u00edctor Yeste",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_8.pdf"
+  },
+  {
+    "title":"Can Language Models Critique Themselves? Investigating Self-Feedback for Retrieval Augmented Generation at BioASQ 2025",
+    "authors":"Samy Ateia, Udo Kruschwitz",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_9.pdf"
+  },
+  {
+    "title":"UniTor at BioASQ 2025: Modular Biomedical QA with Synthetic Snippets and Multiple Task Answer Generation",
+    "authors":"Federico Borazio, Andriy Shcherbakov, Danilo Croce, Roberto Basili",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_10.pdf"
+  },
+  {
+    "title":"Navigating Partial UMLS Terminology: GAT Embeddings and Confidence Analysis for Multilingual Concept Linking",
+    "authors":"Albina Burlova",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_11.pdf"
+  },
+  {
+    "title":"NCU-IISR: Biomedical Question Answering via Gemini and GPT APIs in the BioASQ 13b Phase B Challenge",
+    "authors":"Bing-Chen Chih, Jen-Chieh Han, Hsi-Chuan Hung, Richard Tzong-Han Tsai",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_12.pdf"
+  },
+  {
+    "title":"lasigeBioTM at BioASQ25 Task GutBrainIE - Lean Large Language Models with Syntactic Features",
+    "authors":"Sofia I. R. Concei\u00e7\u00e3o, Paulo R. C. Lopes, Francisco M. Couto",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_13.pdf"
+  },
+  {
+    "title":"Graphwise @ CLEF-2025 GutBrainIE: Towards Automated Discovery of Gut-Brain Interactions - Deep Learning for NER and Relation Extraction from PubMed Abstracts",
+    "authors":"Aleksis Datseris, Mario Kuzmanov, Ivelina Nikolova-Koleva, Dimitar Taskov, Svetla Boytcheva",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_14.pdf"
+  },
+  {
+    "title":"SINAI at BioASQ@CLEF 2025: A Multi-Stage RAG Pipeline for Biomedical Semantic Question Answering",
+    "authors":"Sara Due\u00f1as-Romero, L. Alfonso Ure\u00f1a-L\u00f3pez, Eugenio Mart\u00ednez-C\u00e1mara",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_15.pdf"
+  },
+  {
+    "title":"LLM Ensemble for RAG: Role of Context Length in Zero-Shot Question Answering for BioASQ Challenge",
+    "authors":"Dima Galat, Diego Molla-Aliod",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_16.pdf"
+  },
+  {
+    "title":"Group Relative Policy Optimization for Spanish Clinical Case Report Summarization",
+    "authors":"Georgi Grazhdanski",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_17.pdf"
+  },
+  {
+    "title":"SCIRE at BioASQ 2025: LLM Driven Biomedical Named Entity Recognition for GutBrainIE 2025",
+    "authors":"Harsh Prakash Gupta, Ritwik Banerjee",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_18.pdf"
+  },
+  {
+    "title":"NCU-IISR: A Retrieval-Augmented Generation Approach for BioASQ 13b Phase A and A+",
+    "authors":"Jen-Chieh Han, Bing-Chen Chih, Hsi-Chuan Hung, Richard Tzong-Han Tsai",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_19.pdf"
+  },
+  {
+    "title":"GutUZH at CLEF2025 BioASQ Task 6: a Method of SOTA Performance with the Best Results at GutBrainIE NER Subtask 1",
+    "authors":"Jinyi Han, Yeyang Liu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_20.pdf"
+  },
+  {
+    "title":"Clinical Entity Recognition and Linking in Greek Discharge Letters using Multilingual-LLM-Based Multi-Stage System",
+    "authors":"Bor-Woei Huang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_21.pdf"
+  },
+  {
+    "title":"BIT.UA at BioASQ 13B: Revisiting Evaluation, DPRF-Enhanced Retrieval and Fine-Tuned LLMs",
+    "authors":"Richard A. A. Jonker, Tiago Almeida, Jo\u00e3o R. Almeida, S\u00e9rgio Matos",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_22.pdf"
+  },
+  {
+    "title":"Constrained Linked Entity ANnotation using RAG (CLEANR)",
+    "authors":"Benedikt Kantz, Stefan Lengauer, Peter Waldert, Tobias Schreck",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_23.pdf"
+  },
+  {
+    "title":"From Named Entities to Relations: End-to-End Biomedical Information Extraction",
+    "authors":"Ron Keinan, Amir David Nissan Cohen, Reut Tsarfaty",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_24.pdf"
+  },
+  {
+    "title":"Prompting Matters: Snippet-Aware Strategies for Biomedical QA with LLMs in BioASQ 13b",
+    "authors":"Hajung Kim, Hoonick Lee, Yewon Cho, Jungwoo Park, Jueon Park, Soyon Park, Yan Ting Chok, Seungheun Baek, Donghyeon Lee, Jaewoo Kang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_25.pdf"
+  },
+  {
+    "title":"Multilingual and Nested Biomedical Named Entity Normalization via Candidate Retrieval and Lightweight Large Language Model Disambiguation",
+    "authors":"Antoine D. Lain, Chaeeun Lee, Simona E. Doneva, Maria Juliana Rodriguez-Cubillos, Elisa Castagnari, T. Ian Simpson, Joram M. Posma",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_26.pdf"
+  },
+  {
+    "title":"Understanding Gut-Brain Interplay in Scientific Literature: A Hybrid Approach from Classification to Generative LLM Reasoning",
+    "authors":"Chaeeun Lee, Simona E. Doneva, Maria Juliana Rodriguez-Cubillos, Elisa Castagnari, Antoine D. Lain, Joram M. Posma, T. Ian Simpson",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_27.pdf"
+  },
+  {
+    "title":"BIBERT-Pipe on Biomedical Nested Named Entity Linking at BioASQ 2025",
+    "authors":"Chunyu Li, Xindi Zheng, Siqi Liu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_28.pdf"
+  },
+  {
+    "title":"LYX_DMIIP_FDU At BioASQ 2025: Utilizing BERT Embeddings For Biomedical Text Mining",
+    "authors":"Yuxuan Liu, Shanfeng Zhu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_29.pdf"
+  },
+  {
+    "title":"lasigeBioTM: A Lean Biomedical QA System Empowered by Structured Knowledge",
+    "authors":"Paulo R. C. Lopes, Sofia I. R. Concei\u00e7\u00e3o, Maria Fernandes, Francisco M. Couto",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_30.pdf"
+  },
+  {
+    "title":"Development of a Biomedical Question Answering System Based on Transformer Models",
+    "authors":"Lila L\u00f3pez, Juan C. Martinez-Santos, Edwin Puertas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_31.pdf"
+  },
+  {
+    "title":"Enhancing Biomedical Named Entity Recognition using GLiNER-BioMed with Targeted Dictionary-Based Post-processing for BioASQ 2025 task 6",
+    "authors":"Ritesh Mehta",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_32.pdf"
+  },
+  {
+    "title":"Comparing CRF vs BERT Models for Named Entity Recognition and Relation Extraction",
+    "authors":"Lorenzo Pamio, Giorgio Maria Di Nunzio",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_33.pdf"
+  },
+  {
+    "title":"Harnessing Collective Intelligence of LLMs for Robust Biomedical QA: A Multi-Model Approach",
+    "authors":"Dimitra Panou, Alexandros C. Dimopoulos, Manolis Koubarakis, Martin Reczko",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_34.pdf"
+  },
+  {
+    "title":"Hybrid Re-ranking for Biomedical Entity Linking using SapBERT Embeddings: A High-Performance System for BioNNE-L 2025-1",
+    "authors":"Daniel Pe\u00f1a Gnecco, Jairo Serrano, Edwin Puertas, Juan Carlos Martinez-Santos",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_35.pdf"
+  },
+  {
+    "title":"Named Entity Recognition with GLiNER and Relation Extraction with LLMs",
+    "authors":"Samuel Piron, Giorgio Maria Di Nunzio",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_36.pdf"
+  },
+  {
+    "title":"MaLei at MultiClinSUM: Summarisation of Clinical Documents using Perspective-Aware Iterative Self-Prompting with LLMs",
+    "authors":"Libo Ren, Yee Man Ng, Lifeng Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_37.pdf"
+  },
+  {
+    "title":"ExtraSum @ MultiClinSum: Extractive Summarization of English, Spanish, French and Portuguese Clinical Case Reports",
+    "authors":"Soukaina Rhazzafe, Simon Colreavy-Donnelly, Nikola S. Nikolov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_38.pdf"
+  },
+  {
+    "title":"Using Decoder-Based Distillation for Enhancing Multilingual Clinical Case Report Summarization",
+    "authors":"Nicolay Rusnachenko, Xiaoxiao Liu, Jian Chang, Jian Jun Zhang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_39.pdf"
+  },
+  {
+    "title":"Enhancing Multilingual Medical Summarization via Contextual Keyword Augmentation",
+    "authors":"Md Shahidul Salim, Lianne Fu, Arav Adikesh Ramakrishnan, Sunjae Kwon, Zonghai Yao, Hong Yu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_40.pdf"
+  },
+  {
+    "title":"Biomedical Semantic Question Answering - Answering Systems Using Different LLMs for Subtasks",
+    "authors":"Samitinjaya, Dipankar Das",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_41.pdf"
+  },
+  {
+    "title":"MedGemma-Sum-Pt: A Lightweight Model for Portuguese Clinical Summarization",
+    "authors":"Elisa Terumi Rubel Schneider, Fernando Henrique Schneider, Emerson Cabrera Paraiso, Alceu Souza Britto Jr, Rafael Menelau Oliveira Cruz",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_42.pdf"
+  },
+  {
+    "title":"Are Smaller Open-Weight LLMs Closing the Gap to Proprietary Models for Biomedical Question Answering?",
+    "authors":"Damian Stachura, Joanna Konieczna, Artur Nowak",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_43.pdf"
+  },
+  {
+    "title":"Applying DeepSeek to BioASQ Task 13B: Using Supervised Fine-Tuning and Few-Shot Learning",
+    "authors":"Jie Tang, Hua Yang, Kai Xiong, Hanyang Li, Paulo Quaresma, Hongbin Yu, Wenbo Zhang, Mingzhou Song",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_44.pdf"
+  },
+  {
+    "title":"NLP@VCU at BioASQ2025: Information Extraction on the GutBrainIE dataset",
+    "authors":"Scott Taylor, Charlie Dil, Aaron Shah, Jannat, Cyd Oldham, Ayush Upadhyay, Joanne Varughese, Nicole Yazbeck, Bridget T. McInnes",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_45.pdf"
+  },
+  {
+    "title":"Exploring Retrieval-Reranking and LLM-Based Answer Generation for Biomedical QA",
+    "authors":"Poojan Vachharajani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_46.pdf"
+  },
+  {
+    "title":"Multilingual Embedding and Prompt-Driven Approaches for Named Entity Recognition, Entity Linking, and Clinical Code Prediction in Greek Discharge Summaries",
+    "authors":"Poojan Vachharajani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_47.pdf"
+  },
+  {
+    "title":"pjmathematician at MultiClinSUM 2025: A Novel Automated Prompt Optimization Framework for Multilingual Clinical Summarization",
+    "authors":"Poojan Vachharajani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_48.pdf"
+  },
+  {
+    "title":"Enigma @ ELCardioCC: Bridging NER and ICD-10 Entity Linking - A Hybrid Method for Greek Clinical Narratives",
+    "authors":"Boris Velichkov, Aleksis Datseris, Sylvia Vassileva, Svetla Boytcheva",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_49.pdf"
+  },
+  {
+    "title":"Beyond Retrieval: Ensembling Cross-Encoders and GPT Rerankers with LLMs for Biomedical QA",
+    "authors":"Shashank Verma, Fengyi Jiang, Xiangning Xue",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_50.pdf"
+  },
+  {
+    "title":"Overview of the CLEF-2025 CheckThat! Lab Task 1 on Subjectivity in News Articles",
+    "authors":"Federico Ruggeri, Arianna Muti, Katerina Korre, Julia Maria Stru\u00df, Melanie Siegel, Michael Wiegand, Firoj Alam, Md. Rafiul Biswas, Wajdi Zaghouani, Maria Nawrocka, Bogdan Ivasiuk, Gogu Razvan, Andreiana Mihail",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_51.pdf"
+  },
+  {
+    "title":"Overview of the CLEF-2025 CheckThat! Lab Task 2 on Claim Normalization",
+    "authors":"Megha Sundriyal, Tanmoy Chakraborty, Preslav Nakov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_52.pdf"
+  },
+  {
+    "title":"Overview of the CLEF-2025 CheckThat! Lab Task 3 on Fact-Checking Numerical Claims",
+    "authors":"Venktesh V, Vinay Setty, Avishek Anand, Boushra Bendou, Maram Hasanain, Houda Bouamor, Gabriel Iturra-Bocaz, Petra Galu\u0161\u010d\u00e1kov\u00e1, Firoj Alam",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_53.pdf"
+  },
+  {
+    "title":"Overview of the CLEF-2025 CheckThat! Lab Task 4 on Scientific Web Discourse",
+    "authors":"Salim Hafid, Yavuz Selim Kartal, Sebastian Schellhammer, Katarina Boland, Dimitar Dimitrov, Sandra Bringay, Konstantin Todorov, Stefan Dietze",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_54.pdf"
+  },
+  {
+    "title":"NGU_Research at CheckThat! 2025: An LLM Based Hybrid Fact-Checking Pipeline for Numerical Claims",
+    "authors":"Mohamed A. Abdallah, Rokayah M. Fekry, Samhaa R. El-Beltagy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_55.pdf"
+  },
+  {
+    "title":"UCOM_UNAM_PLN at CheckThat! 2025: Evaluating LLMs in a two-Step Architecture for Numerical Fact Checking",
+    "authors":"Guido Acosta, Eduardo Morales, Helena G\u00f3mez-Adorno",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_56.pdf"
+  },
+  {
+    "title":"CSECU-Learners at CheckThat! 2025: Multilingual Transformer-based Approach for Subjectivity Detection in News Articles Across Multilingual and Zero-shot Settings",
+    "authors":"Monir Ahmad, Abu Nowshed Chy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_57.pdf"
+  },
+  {
+    "title":"QU-NLP at CheckThat! 2025: Multilingual Subjectivity in News Articles Detection Using Feature-Augmented Transformer Models with Sequential Cross-Lingual Fine-Tuning",
+    "authors":"Mohammad Al-Smadi",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_58.pdf"
+  },
+  {
+    "title":"NapierNLP at CheckThat! 2025: Detecting Subjectivity with LLMs and Model Fusion",
+    "authors":"Katarina Alexander, Md Zia Ullah, Dimitra Gkatzia",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_59.pdf"
+  },
+  {
+    "title":"Factiverse and IAI at CheckThat! 2025: Adaptive ICL for Claim Extraction",
+    "authors":"Pratuat Amatya, Vinay Setty",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_60.pdf"
+  },
+  {
+    "title":"ClaimIQ at CheckThat! 2025: Comparing Prompted and Fine-Tuned Language Models for Verifying Numerical Claims",
+    "authors":"Anirban Saha Anik, Md Fahimul Kabir Chowdhury, Andrew Wyckoff, Sagnik Ray Choudhury",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_61.pdf"
+  },
+  {
+    "title":"dfkinit2b at CheckThat! 2025: Leveraging LLMs and Ensemble of Methods for Multilingual Claim Normalization",
+    "authors":"Tatiana Anikina, Ivan Vykopal, Sebastian Kula, Ravi Kiran Chikkala, Natalia Skachkova, Jing Yang, Veronika Solopova, Vera Schmitt, Simon Ostermann",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_62.pdf"
+  },
+  {
+    "title":"AIRwaves at CheckThat! 2025: Retrieving Scientific Sources for Implicit Claims on Social Media with Dual Encoders and Neural Re-Ranking",
+    "authors":"Cem Ashbaugh, Leon Baumg\u00e4rtner, Tim Gre\u00df, Nikita Sidorov, Daniel Werner",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_63.pdf"
+  },
+  {
+    "title":"UmuTeam at CheckThat! 2025: Language-Specific versus Multilingual Models for Fact-Checking",
+    "authors":"Tom\u00e1s Bernal-Beltr\u00e1n, Ronghao Pan, Jos\u00e9 Antonio Garc\u00eda-D\u00edaz, Rafael Valencia-Garc\u00eda",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_64.pdf"
+  },
+  {
+    "title":"ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse Analysis",
+    "authors":"Gr\u00e9goire Burel, Pasquale Lisena, Enrico Daga, Raphael Troncy, Harith Alani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_65.pdf"
+  },
+  {
+    "title":"JU_NLP at CheckThat! 2025: A Confidence-guided Transformer-based Approach for Multilingual Subjectivity Classification",
+    "authors":"Srijani Debnath, Dipankar Das",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_66.pdf"
+  },
+  {
+    "title":"cepanca_UNAM at CheckThat! 2025: A Language-driven BERT Approach for Detection of Subjectivity in News",
+    "authors":"Ivan Diaz, Jessica Barco, Joana Hern\u00e1ndez, Edgar Lee-Romero, Gemma Bel-Enguix",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_67.pdf"
+  },
+  {
+    "title":"CornellNLP at CheckThat! 2025: Hybrid LLaMA--GPT-4 Ensembles with Confidence Filtering for Numerical Claim Verification",
+    "authors":"Lea Duesterwald, Adi Arora, Claire Cardie",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_68.pdf"
+  },
+  {
+    "title":"CEA-LIST at CheckThat! 2025: Evaluating LLMs as Detectors of Bias and Opinion in Text",
+    "authors":"Akram Elbouanani, Evan Dufraisse, Aboubacar Tuo, Adrian Popescu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_69.pdf"
+  },
+  {
+    "title":"AI Wizards at CheckThat! 2025: Enhancing Transformer-Based Embeddings with Sentiment for Subjectivity Detection in News Articles",
+    "authors":"Matteo Fasulo, Luca Babboni, Luca Tedeschini",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_70.pdf"
+  },
+  {
+    "title":"KSU at CheckThat! 2025: Two-stage approach to fact-checking numerical claims",
+    "authors":"Keito Fukuoka, Hisashi Miyamori",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_71.pdf"
+  },
+  {
+    "title":"TIFIN at CheckThat! 2025: Cross-Lingual Subjectivity Classification in News through Monolingual, Multilingual, and Zero-Shot Learning",
+    "authors":"Kishan Gurumurthy, Ashish Shrivastava, Pawan Kumar Rajpoot, Prasanna Devadiga, Bharatdeep Hazarika, Manish Jain, Manan Sharma, Arya Suneesh, Anshuman B Suresh, Aditya U Baliga",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_72.pdf"
+  },
+  {
+    "title":"Investigators at CheckThat! 2025: Using LLMs to Improve Fact-Checking",
+    "authors":"Syed Muhammad Ather Hashmi, Sidra Aamir, Muhammad Anas, Turab Usmani, Faisal Alvi, Abdul Samad",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_73.pdf"
+  },
+  {
+    "title":"TIFIN at CheckThat! 2025: X-VERIFY - Multi-lingual NLI-based Fact Checking with Condensed Evidence",
+    "authors":"Bharatdeep Hazarika, Prasanna Devadiga, Pawan Kumar Rajpoot, Aditya U Baliga, Kishan Gurumurthy, Manish Jain, Manan Sharma, Ashish Shrivastava, Arya Suneesh, Anshuman B Suresh",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_74.pdf"
+  },
+  {
+    "title":"DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation",
+    "authors":"Maximilian Heil, Dionne Bang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_75.pdf"
+  },
+  {
+    "title":"DS@GT at CheckThat! 2025: Evaluating Context and Tokenization Strategies for Numerical Fact Verification",
+    "authors":"Maximilian Heil, Aleksandar Pramov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_76.pdf"
+  },
+  {
+    "title":"Arcturus at CheckThat! 2025: DeBERTa-v3-base for Multilingual Subjectivity Detection in News Articles",
+    "authors":"Rahul Jambulkar, Aditya Aditya, Sukomal Pal",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_77.pdf"
+  },
+  {
+    "title":"LIS at CheckThat! 2025: Multi-Stage Open-Source Large Language Models for Fact-Checking Numerical Claims",
+    "authors":"Quy Thanh Le, Ismail Badache, Aznam Yacoub, Maamar El Amine Hamri",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_78.pdf"
+  },
+  {
+    "title":"AKCIT-FN at CheckThat! 2025: Switching Fine-Tuned SLMs and LLM Prompting for Multilingual Claim Normalization",
+    "authors":"Fabrycio Leite Nakano Almada, Kauan Divino Pouso Mariano, Maykon Adriell Dutra, Victor Emanuel da Silva Monteiro, Juliana Resplande Sant'Anna Gomes, Arlindo Rodrigues Galv\u00e3o Filho, Anderson da Silva Soares",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_79.pdf"
+  },
+  {
+    "title":"JU_NLP at CheckThat! 2025: Leveraging Hybrid Embeddings for Multi-Label Classification in Scientific Social Media Discourse",
+    "authors":"Arpan Majumdar, Dipankar Das, Pritam Pal",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_80.pdf"
+  },
+  {
+    "title":"Team SeRRa at CheckThat! CLEF 2025: Sequential Re-Ranking in a Scientific Claim Source Retrieval Pipeline",
+    "authors":"Guilherme A. Marchetti, Gil Rocha, Henrique Lopes Cardoso",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_81.pdf"
+  },
+  {
+    "title":"nlu@utn at CheckThat! 2025: Combining Bias Sensitivity, Linguistic Features, and Persuasion Cues in an Ensemble for Subjectivity Detection",
+    "authors":"Selina Meyer, Michael Roth",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_82.pdf"
+  },
+  {
+    "title":"JU_NLP@M&S at CheckThat! 2025: Automated Claim Extraction and Normalization for Misinformation Detection in Social Media Content",
+    "authors":"Malobika Mondal, Soumodeep Saha, Dipanjan Saha, Dipankar Das",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_83.pdf"
+  },
+  {
+    "title":"DS@GT at CheckThat! 2025: Ensemble Methods for Detection of Scientific Discourse on Social Media",
+    "authors":"Ayush Parikh, Hoang Thanh Thanh Truong, Jeanette Schofield, Maximilian Heil",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_84.pdf"
+  },
+  {
+    "title":"DS@GT at CheckThat! 2025: A Simple Retrieval-First, LLM-Backed Framework for Claim Normalization",
+    "authors":"Aleksandar Pramov, Jiangqin Ma, Bina Patel",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_85.pdf"
+  },
+  {
+    "title":"SmolLab_SEU at CheckThat! 2025: How Well Do Multilingual Transformers Transfer Across News Domains for Cross-lingual Subjectivity Detection?",
+    "authors":"Md. Abdur Rahman, Md Al Amin, Md Sabbir Dewan, Md Jahid Hasan, Md Ashiqur Rahman",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_86.pdf"
+  },
+  {
+    "title":"Fraunhofer SIT at CheckThat! 2025: Multi-Instance Evidence Pooling for Numerical Claim Verification",
+    "authors":"Andr\u00e9 Runewicz, Paul Moritz Ranly, Inna Vogel, Martin Steinebach",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_87.pdf"
+  },
+  {
+    "title":"MMA at CheckThat! 2025: Multilingual Claim Normalization of Social-Media Posts",
+    "authors":"Mariam Saeed, Mazen Yasser, Marwan Torki, Nagwa Elmakky",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_88.pdf"
+  },
+  {
+    "title":"Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking",
+    "authors":"Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, Thilo Stadelmann",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_89.pdf"
+  },
+  {
+    "title":"XplaiNLP at CheckThat! 2025: Multilingual Subjectivity Detection with Finetuned Transformers and Prompt-Based Inference with Large Language Models",
+    "authors":"Ariana Sahitaj, Jiaao Li, Pia Wenzel Neves, Fedor Splitt, Premtim Sahitaj, Charlott Jakob, Veronika Solopova, Vera Schmitt",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_90.pdf"
+  },
+  {
+    "title":"TurQUaz at CheckThat! 2025: Debating Large Language Models for Scientific Web Discourse Detection",
+    "authors":"Tari\u0307\u0300k Sara\u00e7, Selin Mergen, Mucahid Kutlu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_91.pdf"
+  },
+  {
+    "title":"OpenFact at CheckThat! 2025: Application of Self-Reflecting and Reasoning LLMs for Fact-Checking Claim Normalization",
+    "authors":"Marcin Sawi\u0144ski, Krzystof W\u0119cel, Ewelina Ksi\u0119\u017cniak",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_92.pdf"
+  },
+  {
+    "title":"DS@GT at CheckThat! 2025: Exploring Retrieval and Reranking Pipelines for Scientific Claim Source Retrieval on Social Media Discourse",
+    "authors":"Jeanette Schofield, Shuyu Tian, Hoang Thanh Thanh Truong, Maximilian Heil",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_93.pdf"
+  },
+  {
+    "title":"Claim2Source at CheckThat! 2025: Zero-Shot Style Transfer for Scientific Claim-Source Retrieval",
+    "authors":"Tobias Schreieder, Michael F\u00e4rber",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_94.pdf"
+  },
+  {
+    "title":"TIFIN at CheckThat! 2025: Reasoning-Guided Claim Normalization for Noisy Multilingual Social Media Posts",
+    "authors":"Manan Sharma, Arya Suneesh, Manish Jain, Pawan Kumar Rajpoot, Prasanna Devadiga, Bharatdeep Hazarika, Ashish Shrivastava, Kishan Gurumurthy, Anshuman B Suresh, Aditya U Baliga",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_95.pdf"
+  },
+  {
+    "title":"CUET_KCRL at CheckThat!2025: EnsembleNet with RoBERTa-Large for Subjectivity detection in News Articles",
+    "authors":"Md. Tanvir Ahammed Shawon, Fariha Haq, Md. Ayon Mia, Golam Sarwar Md. Mursalin, Muhammad Ibrahim Khan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_96.pdf"
+  },
+  {
+    "title":"VerbaNexAI Lab at CheckThat! 2025: Fine-Tuning DeBERTa for Multi-Label Scientific Discourse Detection in Tweets",
+    "authors":"Mervin Jesus Sosa Borrero, Jairo Enrique Serrano Casta\u00f1eda, Juan Carlos Martinez Santos, Edwin Alexander Puertas Del Castillo",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_97.pdf"
+  },
+  {
+    "title":"ATOM at CheckThat! 2025: Retrieve the Implicit - Scientific Evidence Retrieval",
+    "authors":"Moritz Staudinger, Alaa El-Ebshihy, Wojciech Kusa, Florina Piroi, Allan Hanbury",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_98.pdf"
+  },
+  {
+    "title":"SCIRE at CheckThat! 2025: Bridging Social Media, Scientific Discourse, and Scientific Literature",
+    "authors":"Parth Manish Thapliyal, Ritesh Sunil Chavan, Samridh Samridh, Chaoyuan Zuo, Ritwik Banerjee",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_99.pdf"
+  },
+  {
+    "title":"SINAI-UGPLN at CheckThat! 2025: Meta-Ensemble Strategies for Numerical Claim Verification in English",
+    "authors":"Mariuxi del Carmen Toapanta-Bernab\u00e9, Miguel \u00c1ngel Garcia-Cumbreras, Luis Alfonso Ure\u00f1a-L\u00f3pez, Denisse Desiree Mora-Intriago, Carla Tatiana Bernal-Garc\u00eda",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_100.pdf"
+  },
+  {
+    "title":"CheckMates At CheckThat! 2025: Transformer-Based Models For Subjectivity Classification",
+    "authors":"Karthik V, R Padmashri, V Srikumar, Durairaj Thenmozhi",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_101.pdf"
+  },
+  {
+    "title":"Saivineetha at CheckThat! 2025: Exploring Fine-Tuning and Zero-Shot Approaches for Claim Normalization",
+    "authors":"Baddepudi Venkata Naga Sri Sai Vineetha",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_102.pdf"
+  },
+  {
+    "title":"UNH at CheckThat! 2025: Fine-tuning Vs Prompting in Claim Extraction",
+    "authors":"Joe Wilder, Nikhil Kadapala, Benji Xu, Mohammed Alsaadi, Aiden Parsons, Mitchell Rogers, Palash Agrawal, Adam Hassick, Laura Dietz",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_103.pdf"
+  },
+  {
+    "title":"Overview of Robustness and Consistency Task of the ELOQUENT 2025 Lab for Evaluating Generative Language Model Quality",
+    "authors":"Jussi Karlgren, Marie Isabel Engels, Maria Barrett, Rohit Raj Gunti, Mohanna Hoveyda, Bruno Nadalic Sotic, Jaap Kamps, Mika Koistinen, Elaine Zosa",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_104.pdf"
+  },
+  {
+    "title":"Overview of the Preference Prediction Task at the ELOQUENT 2025 Lab for Evaluating Generative Language Model Quality",
+    "authors":"Vladislav Mikhailov, Ekaterina Artemova, Zoia Butenko, Lilja \u00d8vrelid, Erik Velldal",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_105.pdf"
+  },
+  {
+    "title":"Overview of the Sensemaking Task at the ELOQUENT 2025 lab: LLMs as Teachers, Students and Evaluators",
+    "authors":"Pavel \u0160indel\u00e1\u0159, Ond\u0159ej Bojar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_106.pdf"
+  },
+  {
+    "title":"Prediction of Human Preferences and Explanation Generation with LLM: An Approach Based on RAG, Few-Shot Learning, and Auto-CoT",
+    "authors":"Danileth Almanza-Gonzalez, Jairo E. Serrano, Juan Carlos Martinez-Santos, Edwin Puertas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_107.pdf"
+  },
+  {
+    "title":"Predicting Human Preferences using a Multi-head BERT Classifier",
+    "authors":"Filip F. Andresen, H\u00e5kon L. Hyrve, Sander S. L\u00f8vaas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_108.pdf"
+  },
+  {
+    "title":"Fake It 'Til You Make It Human",
+    "authors":"Aldan Creo, Maximiliano Hormaz\u00e1bal-Lagos, H\u00e9ctor Cerezo-Costas, Pedro Alonso-Doval",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_109.pdf"
+  },
+  {
+    "title":"The Distinctive Data-Centric Approach for the Voight Kampff Task",
+    "authors":"Rohit R. Gunti",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_110.pdf"
+  },
+  {
+    "title":"Evaluating the Performance of the Finetuned Quantized Llama 3 Based on Relevance, Truthfulness, Naturalness, and Safety",
+    "authors":"Rohit R. Gunti, Abebe Rorissa",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_111.pdf"
+  },
+  {
+    "title":"ELOQUENT Sensemaking Task: LLMs in the Evaluator Role",
+    "authors":"Kateryna Lutsai, Maty\u00e1\u0161 Th\u00e9r, Jon\u00e1\u0161 Venc, Ondrej Bojar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_112.pdf"
+  },
+  {
+    "title":"JUNLP_SS at Eloquent Lab 2025: Humanizing AI - Enhancing the Realism of Machine-Generated Text",
+    "authors":"Soumodeep Saha, Ronit Das, Dipankar Das",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_113.pdf"
+  },
+  {
+    "title":"Team LLMinds Submission for ELOQUENT Sensemaking Task",
+    "authors":"Anna Sajdokov\u00e1, Mat\u011bj Macek, Ond\u0159ej Hlava, Marek \u0160tefanec, Anton\u00edn K\u0159\u00ed\u017e, Jakub Ku\u010dera, Ond\u0159ej Bojar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_114.pdf"
+  },
+  {
+    "title":"University of Amsterdam at the CLEF 2025 Eloquent Track",
+    "authors":"Bruno Sotic, Jaap Kamps",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_115.pdf"
+  },
+  {
+    "title":"Literal Re-translation as a Method for AI Text Disguise and Detection Evasion",
+    "authors":"Poojan Vachharajani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_116.pdf"
+  },
+  {
+    "title":"Overview of eRisk 2025: Early Risk Prediction on the Internet (Extended Overview)",
+    "authors":"Javier Parapar, Anxo P\u00e9rez, Xi Wang, Fabio Crestani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_117.pdf"
+  },
+  {
+    "title":"INESC-ID @ eRisk 2025: Exploring Fine-Tuned, Similarity-Based, and Prompt-Based Approaches to Depression Symptom Identification",
+    "authors":"Diogo A.P. Nunes, Eug\u00e9nio Ribeiro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_118.pdf"
+  },
+  {
+    "title":"THINKIR at eRisk 2025: Early Detection and Risk Assessment of Depression using Transformer Models",
+    "authors":"Subinay Adhikary, Junsume Das, Dwaipayan Roy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_119.pdf"
+  },
+  {
+    "title":"LHS712Team-1 at eRisk@ CLEF 2025: Searching for Depression Symptoms Using Various Natural Language Processing Algorithms",
+    "authors":"Aisha Benloucif, Yashasvini Nannapuraju, Sripriya Bellam, Yuyan Hu, Zhe Zhao, V.G.Vinod Vydiswaran",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_120.pdf"
+  },
+  {
+    "title":"HULAT-UC3M at Task1@eRisk 2025: Detecting Depression Using Machine Learning Approaches",
+    "authors":"Javier Campos-Molina, Paloma Martinez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_121.pdf"
+  },
+  {
+    "title":"ELiRF-UPV at eRisk 2025: New approaches to the Detection and Early Detection of Symptoms and Signs of Depression",
+    "authors":"Andreu Casamayor, Vicent Ahuir, Antonio Molina, Llu\u00eds-Felip Hurtado",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_122.pdf"
+  },
+  {
+    "title":"FU-TU-DFKI@eRisk 2025: A Linguistically Informed but Overdiagnosing Approach to Early Depression Detection",
+    "authors":"Elif Kara, Rosa Esther Mart\u00edn Pe\u00f1a, Lisa Raithel",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_123.pdf"
+  },
+  {
+    "title":"Leveraging Conversational Context and Semantic Relabeling for Early Depression Detection",
+    "authors":"Xabier Larrayoz, Arantza Casillas, Alicia P\u00e9rez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_124.pdf"
+  },
+  {
+    "title":"UET@eRisk2025: Severity Estimation for Depression Symptoms Searching and Early Risk Detection",
+    "authors":"Tu-Phuong Mai, Minh-Ha H. Le, Duc-Luong Tran, Duy-Cat Can, Hoang-Quynh Le",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_125.pdf"
+  },
+  {
+    "title":"COTECMAR-UTB at eRisk 2025: Semantic-Centroid Symptom Ranking and Early Depression Detection using Adaptive Decision Rule",
+    "authors":"Luis Mendoza, Joan Suarez, Edwin Puertas, Juan Martinez, Jairo Serrano",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_126.pdf"
+  },
+  {
+    "title":"SonUIT eRisk2025: Enhanced Depression Detection on Social Media via Filtering and Re-Ranking",
+    "authors":"Nguyen Minh Son, Dang Van Thin",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_127.pdf"
+  },
+  {
+    "title":"DS@GT at eRisk 2025: From Prompts to Predictions, Benchmarking Early Depression Detection with Conversational Agent-Based Assessments and Temporal Attention Models",
+    "authors":"Anthony Miyaguchi, David Guecha, Yuwen Chiu, Sidharth Gaur",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_128.pdf"
+  },
+  {
+    "title":"Semantic Retrieval of BDI Symptoms in User Writings",
+    "authors":"Noam Munz, Eliya Naomi Aharon, Avi Segal, Kobi Gal",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_129.pdf"
+  },
+  {
+    "title":"SINAI at eRisk@CLEF 2025: Transformer-Based and Conversational Strategies for Depression Detection",
+    "authors":"Alba Mar\u00eda M\u00e1rmol-Romero, Manuel Garc\u00eda-Vega, Miguel \u00c1ngel Garc\u00eda-Cumbreras, Arturo Montejo-R\u00e1ez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_130.pdf"
+  },
+  {
+    "title":"Contextualized Early Detection of Depression - Hybrid and Time-Aware Approaches: HU at eRisk Task 2 2025",
+    "authors":"Muhammad Saad, Asad Ullah Chaudhry, Meesum Abbas, Faisal Alvi, Abdul Samad",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_131.pdf"
+  },
+  {
+    "title":"Transformer Ensembles and LLM-Powered Approaches for Depression Symptom Analysis and Contextualized Early Risk Detection",
+    "authors":"Poojan Vachharajani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_132.pdf"
+  },
+  {
+    "title":"Detection of Depression with Symptom Similarity: Data Reduction and LLM Personas",
+    "authors":"Ane Varela, Maite Oronoz, Arantza Casillas, Alicia P\u00e9rez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_133.pdf"
+  },
+  {
+    "title":"HIT-SCIR@eRisk2025: Exploring the Potential of a Learnable Screening Model and Risk Post Buffer-Based Framework for Contextualized Early Prediction of Depression on Social Media",
+    "authors":"Yuzhe Zi, Bichen Wang, Yanyan Zhao, Bing Qin",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_134.pdf"
+  },
+  {
+    "title":"Overview of EXIST 2025: Learning with Disagreement for Sexism Identification and Characterization in Tweets, Memes, and TikTok Videos (Extended Overview)",
+    "authors":"Laura Plaza, Jorge Carrillo-De-Albornoz, Iv\u00e1n Arcos, Paolo Rosso, Damiano Spina, Enrique Amig\u00f3, Julio Gonzalo, Roser Morante",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_135.pdf"
+  },
+  {
+    "title":"Sexism Identification in Tweets Using Ensembles & Augmentation: A Multilingual Approach",
+    "authors":"Syeda Rija Hasan Abidi, Muhammad Shoaib Khursheed, Sarah Faisal Sikandar, Sabahat Zahra, Faisal Alvi, Abdul Samad",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_136.pdf"
+  },
+  {
+    "title":"Leveraging Model Confidence and Diversity: A Multi-Stage Framework for Sexism Detection",
+    "authors":"Anwar Alajmi, Gabriele Pergola",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_137.pdf"
+  },
+  {
+    "title":"CogniCIC at EXIST 2025: Identifying Sexist Content in Text and Visual Media using Transformers and Generative AI Models",
+    "authors":"Tania Alcantara, Omar Garcia-Vazquez, Hiram Calvo, Jos\u00e9 E. Valdez-Rodr\u00edguez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_138.pdf"
+  },
+  {
+    "title":"Tackling Sexism in Multimodal Social Media: Exploring Hybrid Generative-Transformer models",
+    "authors":"Moiz Ali, Lakshmi Yendapalli, Bishoy Tawfik, Matt Winzenried",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_139.pdf"
+  },
+  {
+    "title":"DUTH at EXIST 2025: Multilingual Sexism Detection with Soft Labels and Transformers",
+    "authors":"Georgios Arampatzis, Vasileios Perifanis, Symeon Symeonidis, Avi Arampatzis",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_140.pdf"
+  },
+  {
+    "title":"ArcosGPT at EXIST 2025: Identifying Sexism in Memes with Multimodal Deep Learning: Fusing Text and Visual Cues",
+    "authors":"Iv\u00e1n Arcos",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_141.pdf"
+  },
+  {
+    "title":"ANLP-Uniso at Exist! 2025 : Sexism Identification and Characterization in Tweets",
+    "authors":"Ghada Ben Amor, Nawres Medimagh, Sawsen Ben Chaabene, Omar Trigui",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_142.pdf"
+  },
+  {
+    "title":"CLTL at EXIST 2025: Identifying Sexist Memes Using an Ensemble of Shallow and Transformer Models",
+    "authors":"Ariana Britez, Ilia Markov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_143.pdf"
+  },
+  {
+    "title":"Beyond Binary: 7-Class Sexism Identification via ModernBERT and SCL",
+    "authors":"Donejie Chen, Haoliang Qi",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_144.pdf"
+  },
+  {
+    "title":"Modeling Annotator Subjectivity for Sexism Detection on Social Media",
+    "authors":"Qizhang Chen, Leilei Kong, Yanfu Chen, Changxin Sun",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_145.pdf"
+  },
+  {
+    "title":"Generalizable BERT-Based Cross-Media Sexism Classification",
+    "authors":"Tim Chopard, Darren Rawlings",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_146.pdf"
+  },
+  {
+    "title":"NLPDame at EXIST: Sexism Categorization in Tweets via Multi-Head Multi-Task Models, LLM & RAG Voting Synergy",
+    "authors":"Christina Christodoulou",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_147.pdf"
+  },
+  {
+    "title":"ECORBI-UPV at EXIST 2025: Large Language Models and Embedding Strategies for Sexism Detection in Tweets",
+    "authors":"Eur\u00eddice Corb\u00ed Verd\u00fa, Marc Franco Salvador",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_148.pdf"
+  },
+  {
+    "title":"NetGuardAI at EXIST2025: Sexism Detection using mDeBERTa",
+    "authors":"Maria-Diana Cotelin, Ciprian-Octavian Truic\u0103, Elena-Simona Apostol",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_149.pdf"
+  },
+  {
+    "title":"Sexism Identification in Social Networks using LLMs",
+    "authors":"Leire Dominguez-Sol Sastre, Isabel Segura Bedmar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_150.pdf"
+  },
+  {
+    "title":"ECA-SIMM-UVa at EXIST 2025: A Segmentation Oriented Approach to Sexism Detection in Tik Tok Videos Based on a \"One Is Enough\" Paradigm",
+    "authors":"David Fern\u00e1ndez Garc\u00eda, Enrique Amig\u00f3 Cabrera, Valent\u00edn Carde\u00f1oso Payo",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_151.pdf"
+  },
+  {
+    "title":"COMFOR at EXIST 2025: Support Vector Machines vs. Large Language Models in Sexism Detection",
+    "authors":"Fabio Fritzsche, Jenny Felser, Michael Spranger",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_152.pdf"
+  },
+  {
+    "title":"I2C-UHU-Altair at EXIST2025: Multimodal Sexism Detection and Classification Using Advanced Vision-Language Models BLIP2 and Qwen, Large Language Models, and Learning with Disagreement Frameworks",
+    "authors":"Manuel Guerrero-Garc\u00eda, Fernando Carrillo-Garc\u00eda, Jacinto Mata-V\u00e1zquez, Victoria Pach\u00f3n-\u00c1lvarez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_153.pdf"
+  },
+  {
+    "title":"Dandys-de-BERTganim at EXSIST 2025: a Multi-task Learning Architecture for Sexism Identification",
+    "authors":"Marc Hurtado, Aleixandre Tarras\u00f3",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_154.pdf"
+  },
+  {
+    "title":"Sexism Detection in Multilingual Tweets",
+    "authors":"Ahmed Ibrahim, Rui Lopes",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_155.pdf"
+  },
+  {
+    "title":"TrankilTwice at EXIST2025: Detecting Sexism in Memes under Multi-Lingual Settings",
+    "authors":"Paolo Italiani, Fariha Maqbool, David Gimeno-G\u00f3mez, Elisabetta Fersini, Carlos-D. Mart\u00ednez-Hinarejos",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_156.pdf"
+  },
+  {
+    "title":"Sexism Identification using Annotator Ranking in Memes: A Multimodal Approach Using Transformers",
+    "authors":"Deobrat Kumar Jha, Mitesh Kumar Mandal, Anand Kumar Madasamy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_157.pdf"
+  },
+  {
+    "title":"Multilingual Sexism Detection through Domain Adaptation and Label-Augmented Translation",
+    "authors":"Sahrish Khan, Arshad Jhumka, Gabriele Pergola",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_158.pdf"
+  },
+  {
+    "title":"FHSTP@EXIST 2025 Benchmark: Sexism Detection with Transparent Speech Concept Bottleneck Models",
+    "authors":"Roberto Labadie-Tamayo, Adrian Jaques B\u00f6ck, Djordje Slijep\u010devi\u0107, Xihui Chen, Andreas Babic, Matthias Zeppelzauer",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_159.pdf"
+  },
+  {
+    "title":"GrootWatch at EXIST 2025: Automatic Sexism Detection on Social Networks - Classification of Tweets and Memes",
+    "authors":"Nathan Nowakowski, Lorenzo Calogiuri, El\u00f6d Egyed-Zsigmond, Diana Nurbakova, Johan Erbani, Sylvie Calabretto",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_160.pdf"
+  },
+  {
+    "title":"UMUTeam at EXIST 2025: Multimodal Transformer Architectures and Soft-Label Learning for Sexism Detection",
+    "authors":"Ronghao Pan, Tom\u00e1s Bernal-Beltr\u00e1n, Jos\u00e9 Antonio Garc\u00eda-D\u00edaz, Rafael Valencia-Garcia",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_161.pdf"
+  },
+  {
+    "title":"CLiC at EXIST 2025: Combining Fine-tuning and Prompting with Learning with Disagreement for Sexism Detection",
+    "authors":"Pol Pastells, Mauro V\u00e1zquez, Mireia Farr\u00fas, Mariona Taul\u00e9",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_162.pdf"
+  },
+  {
+    "title":"Awakened at EXIST2025: Adaptive Mixture of Transformers",
+    "authors":"Alexandru Petrescu, Elena-Simona Apostol, Ciprian-Octavian Truic\u0103",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_163.pdf"
+  },
+  {
+    "title":"NYCU-NLP at EXIST 2025: An Empirical Study of Annotator-Aware Two-Stage Pipeline for Sexism Detection in Tweets",
+    "authors":"Joy Chrissetyo Prajogo, Lung-Hao Lee, Hsien-I Lin",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_164.pdf"
+  },
+  {
+    "title":"Comparative Analysis of Transformer-Based Models for Sexism Detection in Text",
+    "authors":"Beatriz Ruiz",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_165.pdf"
+  },
+  {
+    "title":"Mario at EXIST 2025: A Simple Gateway to Effective Multilingual Sexism Detection",
+    "authors":"Lin Tian, Johanne R. Trippas, Marian-Andrei Rizoiu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_166.pdf"
+  },
+  {
+    "title":"Knowledge Expansion Guided by Justification for Improved Sexism Categorization",
+    "authors":"Kapioma Villarreal-Haro, Fernando S\u00e1nchez-Vega, Adri\u00e1n Pastor L\u00f3pez-Monroy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_167.pdf"
+  },
+  {
+    "title":"Leveraging Reasoning of Auto-Revealed Insights via Knowledge Injection and Evolutionary Prompting for Sexism Analysis",
+    "authors":"Kapioma Villarreal-Haro, Judith Tavarez-Rodr\u00edguez, Guillermo Segura-G\u00f3mez, Alejandro Rosales-P\u00e9rez, Fernando S\u00e1nchez-Vega, Adri\u00e1n Pastor L\u00f3pez-Monroy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_168.pdf"
+  },
+  {
+    "title":"Overview of the ImageCLEFMedical 2025 GANs Task: Training Data Analysis and Fingerprint Detection",
+    "authors":"Alexandra-Georgiana Andrei, Mihai Gabriel Constantin, Mihai Dogariu, Ahmedkhan Radzhabov, Liviu-Daniel \u0218tefan, Yuri Prokopchuk, Vassili Kovalev, Henning M\u00fcller, Bogdan Ionescu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_169.pdf"
+  },
+  {
+    "title":"Overview of ImageCLEFmedical 2025 -- Medical Concept Detection and Interpretable Caption Generation",
+    "authors":"Hendrik Damm, Tabea M. G. Pakull, Helmut Becker, Benjamin Bracke, Bahadi\u0307\u0300r Eryi\u0307\u0300lmaz, Louise Bloch, Raphael Br\u00fcngel, Cynthia S. Schmidt, Johannes R\u00fcckert, Obioma Pelka, Henning Sch\u00e4fer, Ahmad Idrissi-Yaghir, Asma Ben Abacha, Alba G. Seco de Herrera, Henning M\u00fcller, Christoph M. Friedrich",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_170.pdf"
+  },
+  {
+    "title":"Overview of ImageCLEFmedical 2025 -- Visual Question Answering and Synthetic Image Generation for Gastrointestinal Tract",
+    "authors":"Sushant Gautam, Vajira Thambawita, Michael Riegler, P\u00e5l Halvorsen, Steven Hicks",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_171.pdf"
+  },
+  {
+    "title":"Overview of the MEDIQA-MAGIC Task at ImageCLEF 2025: Multimodal And Generative TelemedICine in Dermatology",
+    "authors":"Wen-Wai Yim, Asma Ben Abacha, Noel Codella, Roberto Andres Novoa, Josep Malvehy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_172.pdf"
+  },
+  {
+    "title":"Overview of the 2025 ImageCLEFtoPicto Task -- Investigating the Generation of Pictogram Sequences from Text and Speech",
+    "authors":"C\u00e9cile Macaire, Diandra Fabre, Benjamin Lecouteux, Didier Schwab",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_173.pdf"
+  },
+  {
+    "title":"Overview of ImageCLEF 2025 -- Multimodal Reasoning",
+    "authors":"Dimitar Dimitrov, Ming Shan Hee, Zhuohan Xie, Rocktim Jyoti Das, Momina Ahsan, Sarfraz Ahmad, Nikolay Paev, Ivan Koychev, Preslav Nakov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_174.pdf"
+  },
+  {
+    "title":"Towards Better Gastrointestinal Diagnosis: Evaluating Vision-Language Models For GI VQA",
+    "authors":"Omar Adjali",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_175.pdf"
+  },
+  {
+    "title":"MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision-Language Models",
+    "authors":"Seif Ahmed, Mohamed Younes, Abdelrahman Moustafa, Abdulrahman Allam, Hamza Moustafa",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_176.pdf"
+  },
+  {
+    "title":"Ayeshaamjad at ImageCLEF 2025 Multimodal Reasoning: Visual Question Answering with Structured Data Extraction and Robust Reasoning",
+    "authors":"Ayesha Amjad, Fatima Seemab, Saima Kausar, Seemab Latif, Mehwish Fatima",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_177.pdf"
+  },
+  {
+    "title":"AI Multimedia Lab at ImageCLEFmedical GANs 2025: Identifying Real-Image Usage in Generated Medical Images",
+    "authors":"Alexandra-Georgiana Andrei, Mihai Gabriel Constantin, Mihai Dogariu, Liviu-Daniel \u0218tefan, Bogdan Ionescu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_178.pdf"
+  },
+  {
+    "title":"JJ-VMed: A Framework for Automated Concepts, Captions and Explainability of Medical Image",
+    "authors":"Johanna Angulo, Jenny Aguilar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_179.pdf"
+  },
+  {
+    "title":"Controlling the Quality of Synthetic Medical Images Created via GANs",
+    "authors":"Farhaan Areeb, Divyansh Vashist, Lekshmi Kalinathan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_180.pdf"
+  },
+  {
+    "title":"The Kasukabe Defense Group at MEDIQA-MAGIC 2025: Clinical Visual Question Answering with Resource-Efficient Multi-modal Learning",
+    "authors":"Khushi Bahadur Desai, Varunkumar S Hiregoudar, Ishan G Kulkarni, Ratan Dhane, Padmashree Desai, Sujatha C, Uma Mudenagudi, Ramesh Ashok Tabib",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_181.pdf"
+  },
+  {
+    "title":"Reverse Engineering Generative Fingerprints in Medical Images: A Deep Learning Approach to Training Data Attribution",
+    "authors":"Mitra Barve, Nikita Bhedasgaonkar, Isha Shah, Sara Nambiar, Atharva Date, Geetanjali Kale",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_182.pdf"
+  },
+  {
+    "title":"UIT-Oggy at ImageCLEFmedical 2025 Caption: CSRA-Enhanced Concept Detection and BLIP-Driven Vision-Language Captioning",
+    "authors":"Gia-Phuc Bui-Hoang, My-Huyen Dinh-Doan, Van-Minh Luong, Thien B. Nguyen-Tat",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_183.pdf"
+  },
+  {
+    "title":"Detecting Training Data Fingerprints in GAN-Generated Medical Images",
+    "authors":"Shruti Chandrasekar, Vedajanaani R S, Vijayalakshmi P",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_184.pdf"
+  },
+  {
+    "title":"Identify Training Data Subsets in GAN-Generated Medical Images",
+    "authors":"Shruti Chandrasekar, Vedajanaani R S, Vijayalakshmi P",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_185.pdf"
+  },
+  {
+    "title":"AUEB NLP Group at ImageCLEFmedical Caption 2025",
+    "authors":"Anna Chatzipapadopoulou, Ippokratis Pantelidis, Foivos Charalampakos, Marina Samprovalaki, Georgios Moschovis, Panagiotis Kaliosis, Kalliopi V. Dalakleidi, John Pavlopoulos, Ion Androutsopoulos",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_186.pdf"
+  },
+  {
+    "title":"Modality-Guided Radiology Caption Prediction with small Vision-Language Models and image classifier",
+    "authors":"Raisa Nusrat Chowdhury, Mahmudul Hoque, Md Rakibul Hasan, Ejiga Peter Oluwafemi, Md Mahmudur Rahman",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_187.pdf"
+  },
+  {
+    "title":"Bridging the Modality Gap Through CoT-Enhanced Multimodal Reasoning",
+    "authors":"Shengjun Deng, Guo Niu, Xiongfei Yao, Huanlin Mo, Tao Li, Shuaiwei Jiao",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_188.pdf"
+  },
+  {
+    "title":"Multimodal AI for Gastrointestinal Diagnostics: Tackling VQA in MEDVQA-GI 2025",
+    "authors":"Sujata Gaihre, Amir Thapa Magar, Prasuna Pokharel, Laxmi Tiwari",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_189.pdf"
+  },
+  {
+    "title":"Identifying the Origins of Synthetic Biomedical Images: An Ensemble Approach with Pseudo-Labeling",
+    "authors":"Amilcare Gentili",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_190.pdf"
+  },
+  {
+    "title":"DS4DH Group at ImageCLEFmedical Caption 2025",
+    "authors":"Jiawei He, Sohrab Ferdowsi, Weibo Feng, Fernando Alves, Alexandra Platon, Douglas Teodoro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_191.pdf"
+  },
+  {
+    "title":"Parlez-vous Picto? A Transformer-Based Approach for Text-to-Picto and Speech-to-Picto Translation in French",
+    "authors":"Maja J. Hjuler, Indira Fabre",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_192.pdf"
+  },
+  {
+    "title":"Team plutohbj at ImageCLEF 2025 Multimodal Reasoning: Meta-learning LoRa fine-tuning for MultimodalReasoning",
+    "authors":"Baijian Huang, Changle Zhong, Kai Yan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_193.pdf"
+  },
+  {
+    "title":"ContextDrift at ImageCLEF 2025 Multimodal Reasoning: Evaluating VLMs' Multimodal, Multilingual and Multidomain Reasoning Capabilities via Thinking Budget Variations and Textual Augmentation",
+    "authors":"Vasilena T. Krazheva, Diana Markova, Dimitar I. Dimitrov, Ivan Koychev, Preslav Nakov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_194.pdf"
+  },
+  {
+    "title":"Anastasia at MEDIQA-MAGIC 2025: A Multi-Approach Segmentation Framework with Extensive Augmentation",
+    "authors":"Tung Thanh Le, Tri Minh Ngo, Khoi Dinh Nguyen, Trung Hieu Dang, Trong Hoang Pham, Thien B. Nguyen-Tat",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_195.pdf"
+  },
+  {
+    "title":"AI Stat Lab: A Modular Framework for Clinically Accurate Medical Image Captioning Using Vision-Language Models",
+    "authors":"Yunseo Lee, Hyun Jun Kim, Heeseung Shin, Changwon Lim",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_196.pdf"
+  },
+  {
+    "title":"Multimodal Learning for Skin Lesion Segmentation and Closed Visual Question Answering",
+    "authors":"Bhagyashree Mallanaikar, Shradha Kekare, Padmashree Desai, Sujata C, Uma Mudenagudi, Ramesh Ashok Tabib, Anjali Savalkar, Aishwarya S.H",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_197.pdf"
+  },
+  {
+    "title":"Multimodal Reasoning in Multilingual Visual Question Answering: A Prompt-Tuned Qwen2.5-vl-plus Approach",
+    "authors":"Huanlin Mo, Guo Niu, Shengjun Deng, Xiongfei Yao, Tao Li, Shuaiwei Jiao",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_198.pdf"
+  },
+  {
+    "title":"Solving Medical Data Limitations Through AI: Multi-Modal Vision-Language Learning for Gastrointestinal VQA and Synthetic Training Data Generation",
+    "authors":"Ejiga Peter Oluwafemi, Mahmudul Hoque, Ejiga Frederick Akor, Raisa Nusrat Chowdhury, Abdullahi Umar, Md Mahmudur Rahman",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_199.pdf"
+  },
+  {
+    "title":"UMUTeam at ImageCLEF 2025: Fine-Tuning a Vision-Language Model for Medical Image Captioning and SapBERT-Based Reranking for Concept Detection",
+    "authors":"Ronghao Pan, Tom\u00e1s Bernal-Beltr\u00e1n, Jos\u00e9 Antonio Garc\u00eda-D\u00edaz, Rafael Valencia-Garcia",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_200.pdf"
+  },
+  {
+    "title":"Querying GI Endoscopy Images: A VQA Approach",
+    "authors":"Gaurav Parajuli",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_201.pdf"
+  },
+  {
+    "title":"DermoSegDiff and DermKEM for Comprehensive Dermatology AI",
+    "authors":"Nguyen Pham Hoang Le, Hoang Pham Duc Huy, Hien Thai Dinh Nhat, Hoang Thach Minh, Thien B. Nguyen-Tat",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_202.pdf"
+  },
+  {
+    "title":"Evaluating Deep CNNs for Multi-Label Concept Detection in ROCOv2 Radiology Image Dataset by Team LekshmiscopeVIT",
+    "authors":"Aryan Sahni, Rachit Gupta, Raamigaani Venugopal Reddy, Lekshmi Kalinathan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_203.pdf"
+  },
+  {
+    "title":"Detecting Concepts for Medical Images: Contributions of the DeepLens Team at IUST to ImageCLEFmedical Caption 2025",
+    "authors":"Amir Hossein Salimi Rudsari, Bahareh Kavousi Nejad, Malihe Hajihosseini, Sauleh Eetemadi",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_204.pdf"
+  },
+  {
+    "title":"Detecting Training Data Usage in Synthetic Images Using Machine Learning Techniques",
+    "authors":"Krithikha Sanju Saravanan, Mohanavalli Subramaniam, R B Anirudh Narayanan, Bharath P, Karunanidhi Ayyamperumal",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_205.pdf"
+  },
+  {
+    "title":"Leveraging Qwen2.5-VL-72B-Instruct for Visual Question Answering: A Study on the EXAMS-V Benchmark in ImageCLEF 2025",
+    "authors":"Tarun Srikumar, Sathish Kesavan, Abinayaa Morekonda Balan, Derrick Samuel, Maneesh Ram Kalugasala Moorthy, Gobi Elangovan, Vinayak Kumar Singh, Lekshmi Kalinathan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_206.pdf"
+  },
+  {
+    "title":"Advancing Vision and Language in GI Diagnosis: Florence2 for Question Answering and Stable Diffusion for Image Synthesis",
+    "authors":"Krishna Tewari, Sukomal Pal",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_207.pdf"
+  },
+  {
+    "title":"IReL, IIT(BHU) at MEDIQA-MAGIC 2025: Tackling Multimodal Dermatology with CLIPSeg-Based Segmentation and BERT-Swin Question Answering",
+    "authors":"Krishna Tewari, Abhyudaya Verma, Sukomal Pal",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_208.pdf"
+  },
+  {
+    "title":"Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis",
+    "authors":"Karishma Thakrar, Shreyas Basavatia, Akshay Daftardar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_209.pdf"
+  },
+  {
+    "title":"ImageCLEF-Medical 2025: MedCLIP Model for Medical Caption Prediction and Concept Detection",
+    "authors":"Sakthi Mukesh Thanga Mariappan, Beulah Arul, Muthulakshmi Ramasamy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_210.pdf"
+  },
+  {
+    "title":"Zero-Shot Reasoning with BLIP and SmolLM",
+    "authors":"Elena Tosheva, Dimitar Dimitrov, Ivan Koychev, Preslav Nakov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_211.pdf"
+  },
+  {
+    "title":"A Multimodal Feature Alignment Prompt-Enhanced Method for Multimodal Reasoning",
+    "authors":"Qida Wu, Leilei Kong, Jianzhong Yan, Junyi Li",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_212.pdf"
+  },
+  {
+    "title":"Multi-Prompt Ensemble Reasoning for MultimodalReasoning",
+    "authors":"Jianzhong Yan, Leilei Kong, Qida Wu, Junyi Li",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_213.pdf"
+  },
+  {
+    "title":"Enhancing Multilingual VQA with Structured Prompts and Vision-Language Alignment",
+    "authors":"Xiongfei Yao, Guo Niu, Tao Li, Huanlin Mo, Shengjun Deng, Shuaiwei Jiao",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_214.pdf"
+  },
+  {
+    "title":"Evaluation of the Privacy of Images Generated by ImageCLEFmedical GANs 2025 Based on Pre-trained Model Feature Extraction Methods",
+    "authors":"Dengtao Zhang, Xutao Yang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_215.pdf"
+  },
+  {
+    "title":"ViT-based Generative Model Fingerprinting",
+    "authors":"Yijiang Zhou, Haiyan Ding",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_216.pdf"
+  },
+  {
+    "title":"Evaluating of the Privacy of Images Generated by ImageCLEFmedical GAN 2025 Using Similarity Classification Method Based on Image Enhancement and Deep Learning Model",
+    "authors":"Haojie Zuo, Xiaobing Zhou",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_217.pdf"
+  },
+  {
+    "title":"Overview of the CLEF 2025 JOKER Task 1: Humour-aware Information Retrieval",
+    "authors":"Liana Ermakova, Ricardo Campos, Anne-Gwenn Bosser, Tristan Miller",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_218.pdf"
+  },
+  {
+    "title":"Overview of the CLEF 2025 JOKER Task 2: Wordplay Translation from English into French",
+    "authors":"Liana Ermakova, Ricardo Campos, Anne-Gwenn Bosser, Tristan Miller",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_219.pdf"
+  },
+  {
+    "title":"Overview of the CLEF 2025 JOKER Task 3: Onomastic Wordplay Translation",
+    "authors":"Liana Ermakova, Tristan Miller, Ya\u00ebl Naud, Anne-Gwenn Bosser, Ricardo Campos",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_220.pdf"
+  },
+  {
+    "title":"DUTH at CLEF JOKER 2025 Tasks 2 and 3: Translating Puns and Proper Names with Neural Approaches",
+    "authors":"Georgios Arampatzis, Avi Arampatzis",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_221.pdf"
+  },
+  {
+    "title":"PICT at CLEF 2025 JOKER Track: Humour-Aware Information Retrieval using BERT-Enhanced Ensemble Methods",
+    "authors":"Tanish Chaudhari, Ansh Vora, Sanjeev Hotha, Sheetal Sonawane",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_222.pdf"
+  },
+  {
+    "title":"CLEF 2025 JOKER Track Enhancing Humor-Aware Information Retrieval with Relevance-Aware Classification",
+    "authors":"Bo Chen, Changle Zhong, Leilei Kong",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_223.pdf"
+  },
+  {
+    "title":"University of Amsterdam at the CLEF 2025 JOKER Track",
+    "authors":"Alecsandru Kreefft-Libiu, Finley Helms, Cem Sel\u00e7uk, Jan Bakker, Jaap Kamps",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_224.pdf"
+  },
+  {
+    "title":"CLEF 2025 JOKER Track: No Pun Left Behind",
+    "authors":"Igor Kuzmin",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_225.pdf"
+  },
+  {
+    "title":"UTBNLP at CLEF JOKER 2025 Task 2: mBART-50 Fine-Tuning with Dictionary-Guided Forced Decoding and Phoneme-Based Techniques for English-French Pun Translation",
+    "authors":"Duvan Andres Marrugo-Tobon, Jeison D. Jimenez, Jairo E. Serrano, Juan C. Martinez-Santos, Edwin Puertas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_226.pdf"
+  },
+  {
+    "title":"REC_Cryptix at JOKER CLEF 2025: Teaching Machines to Laugh: Multilingual Humor Detection and Translation",
+    "authors":"Sarath Kumar P, Beulah A, Sushmitha M, Thanalaxmi S",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_227.pdf"
+  },
+  {
+    "title":"VerbaNexAI at CLEF 2025 JOKER Task 3: Multi-Model LLM Approach for Onomastic Wordplay Translation",
+    "authors":"Maria Paz Ramirez Atencio, Jeison D. Jimenez, Deyson G\u00f3mez S\u00e1nchez, Jairo E. Serrano, Juan C. Martinez-Santos, Edwin Puertas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_228.pdf"
+  },
+  {
+    "title":"Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings for CLEF JOKER 2025 Task 2",
+    "authors":"Russell Taylor, Benajmin Herbert, Michael Sana",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_229.pdf"
+  },
+  {
+    "title":"pjmathematician at the CLEF 2025 JOKER Lab Tasks 1, 2 & 3: A Unified Approach to Humour Retrieval and Translation using the Qwen LLM Family",
+    "authors":"Poojan Vachharajani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_230.pdf"
+  },
+  {
+    "title":"Overview of AnimalCLEF 2025: Recognizing Individual Animals in Images",
+    "authors":"Luk\u00e1\u0161 Adam, Kostas Papafitsoros, Roman Kov\u00e1\u0159, Vojt\u011bch \u010cerm\u00e1k, Luk\u00e1\u0161 Picek",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_231.pdf"
+  },
+  {
+    "title":"Overview of BirdCLEF+ 2025: Multi-Taxonomic Sound Identification in the Middle Magdalena, Colombia",
+    "authors":"Juan Sebasti\u00e1n Ca\u00f1as, Stefan Kahl, Tom Denton, Maria Paula Toro-G\u00f3mez, Susana Rodriguez-Buritica, Jose Luis Benavides-Lopez, Juan Sebasti\u00e1n Ulloa, Paula Caycedo-Rosales, Holger Klinck, Herv\u00e9 Go\u00ebau, Willem-Pier Vellinga, Robert Planqu\u00e9, Alexis Joly",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_232.pdf"
+  },
+  {
+    "title":"Overview of FungiCLEF 2025: Few-Shot Classification With Rare Fungi Species",
+    "authors":"Klara Janouskova, Ji\u0159\u00ed Matas, Luk\u00e1\u0161 Picek",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_233.pdf"
+  },
+  {
+    "title":"Overview of GeoLifeCLEF 2025: Plant Species Presence Prediction with Environmental and High-resolution Remote Sensing Data",
+    "authors":"Luk\u00e1\u0161 Picek, C\u00e9sar Leblanc, Th\u00e9o Larcher, Maximilien Servajean, Pierre Bonnet, Alexis Joly",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_234.pdf"
+  },
+  {
+    "title":"Overview of PlantCLEF 2025: Multi-Species Plant Identification in Vegetation Quadrat Images",
+    "authors":"Giulio Martellucci, Herv\u00e9 Go\u00ebau, Pierre Bonnet, Fabrice Vinatier, Alexis Joly",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_235.pdf"
+  },
+  {
+    "title":"I2C-UHU-PEGASUS at FungiCLEF 2025: Multimodal Pipeline for Rare Fungal Species Classification Using Fine-Tuned VLMs and Ecological Context",
+    "authors":"Fernando Carrillo Garc\u00eda, Victoria Pach\u00f3n \u00c1lvarez, Jacinto Mata V\u00e1zquez, Manuel Guerrero Garc\u00eda",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_236.pdf"
+  },
+  {
+    "title":"Enhancing Presence-Absence Prediction Models Using Presence-Only Data",
+    "authors":"Tim Chopard, Darren Rawlings",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_237.pdf"
+  },
+  {
+    "title":"Preprocessing Is All You Need: TheHeartOfNoise Submission to PlantCLEF 2025",
+    "authors":"Vincent Espitalier",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_238.pdf"
+  },
+  {
+    "title":"Few-Shot Fungi Classification with Prototypical Networks Using Multiple Pretrained Embedding Models",
+    "authors":"Jack N. Etheredge",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_239.pdf"
+  },
+  {
+    "title":"Gradient Boosting Similarity in Entity Matching",
+    "authors":"Sergei Fedorchenko, Sergei Arefiev",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_240.pdf"
+  },
+  {
+    "title":"Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species Identification",
+    "authors":"Luciano Araujo Dourado Filho, Almir Moreira da Silva Neto, Rodrigo Pereira David, Rodrigo Tripodi Calumby",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_241.pdf"
+  },
+  {
+    "title":"Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification",
+    "authors":"Murilo Gustineli, Anthony Miyaguchi, Adrian Cheung, Divyansh Khattak",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_242.pdf"
+  },
+  {
+    "title":"Multi-Label Plant Species Prediction with Metadata-Enhanced Multi-Head Vision Transformers",
+    "authors":"Hanna Herasimchyk, Robin Labryga, Tomislav Prusina",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_243.pdf"
+  },
+  {
+    "title":"Post-Hoc Aggregation as a Competitive Alternative to Model-Centric Pipelines: NEUON Submission to PlantCLEF 2025",
+    "authors":"Hamza Ahmed Ishrat, Sue Han Lee, Yang Loong Chang, Kok Chin Chai",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_244.pdf"
+  },
+  {
+    "title":"Fusion of Global and Local Descriptors with Feature Calibration for Multi-Species Animal Re-Identification: AnimalCLEF 2025",
+    "authors":"Dongyeon Kim, Bohee Park, Hanjun Bae, Sua Lee, Chaeyeon Lee",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_245.pdf"
+  },
+  {
+    "title":"Tighnari v2: Mitigating Label Noise and Distribution Shift in Multimodal Plant Distribution Prediction via Mixture of Experts and Weakly Supervised Learning",
+    "authors":"Haixu Liu, Yufei Wang, Tianxiang Xu, Chuancheng Shi, Hongsheng Xing",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_246.pdf"
+  },
+  {
+    "title":"Few-Shot Classification of Fungi Species Using Contrastive Representation Learning and Multimodal Fusion",
+    "authors":"Lianping Lu, Heng Yang, Shuo Li, Fang Liu, Puhua Chen, Wenping Ma",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_247.pdf"
+  },
+  {
+    "title":"Tiles-wise Inference with Vision Transformers for Multispecies Identification in Vegetation Images",
+    "authors":"Andrea Menco-Tovar, Jairo E. Serrano, Juan Carlos Martinez-Santos, Edwin Puertas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_248.pdf"
+  },
+  {
+    "title":"Distilling Spectrograms into Tokens: Fast and Lightweight Bioacoustic Classification for BirdCLEF+ 2025",
+    "authors":"Anthony Miyaguchi, Murilo Gustineli, Adrian Cheung",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_249.pdf"
+  },
+  {
+    "title":"DS@GT AnimalCLEF: Triplet Learning over ViT Manifolds with Nearest Neighbor Classification for Animal Re-identification",
+    "authors":"Anthony Miyaguchi, Chandrasekaran Maruthaiyannan, Charles R. Clark",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_250.pdf"
+  },
+  {
+    "title":"Individual Wildlife Recognition via Hybrid Global-Local Matching and Segmentation-Aware Filtering",
+    "authors":"Roman Pakhomov, Grigory Demidov, Kristian Bogdan, Svyatoslav Lanskikh, Danis Dinmuhametov, Andrey Khlopotnykh",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_251.pdf"
+  },
+  {
+    "title":"Shadow Spark at PlantCLEF 2025 : Multi-Label Plant Species Classification using Tiling-based Inference",
+    "authors":"Jayasree R, P Mirunalini, Kawvya M K, Harini J",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_252.pdf"
+  },
+  {
+    "title":"Meta\u2011Algorithm for Open\u2011Set Animal Re-ID: WildFusion, XGBoost, and Dual\u2011Backbone ArcFace",
+    "authors":"Nelly Semenova",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_253.pdf"
+  },
+  {
+    "title":"Optimizing a Vision Transformer with Ecological Context for Multi-Label Plant Species Identification",
+    "authors":"Nelly Semenova",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_392.pdf"
+  },
+  {
+    "title":"One Detector per Bird: A Scalable Binary Classification Approach for BirdCLEF 2025",
+    "authors":"Shreejith Suthraye Gokulnath, Chandrima Das, Arya Gaikwad, Keerthana Senthilnathan, Shruti Sawant",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_254.pdf"
+  },
+  {
+    "title":"Predicting Plant Species Distribution with a Multimodal Swin Transformer Network: A GeoLifeCLEF 2025 Report",
+    "authors":"Aman R. Syayfetdinov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_255.pdf"
+  },
+  {
+    "title":"Tackling Domain Shift in Bird Audio Classification via Transfer Learning and Semi-Supervised Distillation: A Case Study on BirdCLEF+ 2025",
+    "authors":"Volodymyr Sydorskyi, Fernando Gon\u00e7alves",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_256.pdf"
+  },
+  {
+    "title":"Transfer Learning and Mixup for Fine-Grained Few-Shot Fungi Classification",
+    "authors":"Jason Kahei Tam, Murilo Gustineli, Anthony Miyaguchi",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_257.pdf"
+  },
+  {
+    "title":"Open-set Animal Re-identification via Multilevel Feature Fusion",
+    "authors":"Jingyin Tan, Aiguo Wang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_258.pdf"
+  },
+  {
+    "title":"Dual-branch Network for Species Identification via Passive Acoustic Monitoring",
+    "authors":"Jingyin Tan, Aiguo Wang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_259.pdf"
+  },
+  {
+    "title":"I2C-UHU-PERSEUS at PlantClef 2025: Multi-Label Identification and Classification of Plant Species in Images Using Object Detection Techniques",
+    "authors":"Jes\u00fas Tej\u00f3n Carrillo, David Prieto Araujo, Victoria Pach\u00f3n \u00c1lvarez, Jacinto Mata V\u00e1zquez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_260.pdf"
+  },
+  {
+    "title":"Synthesizing Joint and Deep Species Distribution Modeling to Enhance Spatial Prediction of Plant Communities at Continental Scale",
+    "authors":"Gleb Tikhonov, Dmitry Tikhonov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_261.pdf"
+  },
+  {
+    "title":"Improving Fungi Prototype Representations for Few-Shot Classification",
+    "authors":"Abdarahmane Traore, \u00c9ric Hervet, Andy Couturier",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_262.pdf"
+  },
+  {
+    "title":"Mushroom for Improvement: Prototypical Few-Shot Learning with Multimodal Fungal Features",
+    "authors":"Tuan-Anh Yang, Minh-Quang Nguyen",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_263.pdf"
+  },
+  {
+    "title":"Extended Abstract of LongEval at CLEF 2025: Longitudinal Evaluation of IR Systems on Web and Scientific Data",
+    "authors":"Matteo Cancellieri, Alaa El-Ebshihy, Tobias Fink, Maik Fr\u00f6be, Petra Galu\u0161\u010d\u00e1kov\u00e1, Gabriela Gonz\u00e1lez S\u00e1ez, Lorraine Goeuriot, David Iommi, J\u00fcri Keller, Petr Knoth, Philippe Mulhem, Florina Piroi, David Pride, Philipp Schaer",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_264.pdf"
+  },
+  {
+    "title":"DataHunter at LongEval: Temporal Stability Analysis of Boolean and CamemBERT-Based Retrieval Systems",
+    "authors":"Mukhtar Abenov, Leonardo Pontello, Francesca Zaccarin, Shen Zhang, Nicola Ferro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_265.pdf"
+  },
+  {
+    "title":"Team OpenWebSearch at LongEval: Using Historical Data for Scientific Search",
+    "authors":"Daria Alexander, Maik Fr\u00f6be, Gijs Hendriksen, Matthias Hagen, Djoerd Hiemstra, Martin Potthast, Arjen P. de Vries",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_266.pdf"
+  },
+  {
+    "title":"Team RAND at LongEval: Composable Information Retrieval with Semantic and Language-Aware Components",
+    "authors":"Giorgia Amato, Nicolas Brentel, Alessio Demo, Steven Laghetto, Francesco Pivotto, Iegor Toporov, Nicola Ferro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_267.pdf"
+  },
+  {
+    "title":"SEUPD@CLEF: Team BASETTE at LongEval: IR System for Basic Hardware",
+    "authors":"Alberto Bottari, Lorenzo Croce, Fatemeh Mahvari Habib Abadi, Nicola Ferro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_268.pdf"
+  },
+  {
+    "title":"CIR at LongEval 2025: Exploring Temporal Sensitivity in Web Retrieval",
+    "authors":"Florian Braun, Timo Busch, Muhammed Sirac Coban, Maryam El Ghadioui, Davit Hovhannisyan, Kristine Jonina, Andreas Large, Felix Zhi Yong Lin, Eric Loewenstein, Lars Maa\u00dfen, Nadine Maron, Mark Henri M\u00f6rsheim, Joshua Azimoh Nduka Ofunim, Vadims Romanovskis, Alexander Simon, Jan Witalla, Max Wollenberg, J\u00fcri Keller, Philipp Schaer",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_269.pdf"
+  },
+  {
+    "title":"Team 3DS2A at LongEval: Performance Evaluation over Time of IR Systems with Proximity Search and Reranking Components",
+    "authors":"Andrea Bruttomesso, Daniele Cavazza, Alessandro Corr\u00f2, Simone Peraro, Davide Seghetto, Nicola Ferro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_270.pdf"
+  },
+  {
+    "title":"SARD at LongEval: On Longitudinal Evaluation of IR Systems by Using Query Rewriting and Hybrid Queries",
+    "authors":"Damiano Caon, Riccardo Dal Maschio, Alessandro Disar\u00f2, Sofia Maule, Nicola Ferro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_271.pdf"
+  },
+  {
+    "title":"SEUPD@CLEF Team RISE at LongEval: Improving Search by Crafting Titles and Matching URLs",
+    "authors":"Davide Furlan, Giulia Gibellato, Seyedeh Sara Nazirialhashem, Emanuele Pase, Alberto Pasqualetto, Filippo Tiberio, Nicola Ferro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_272.pdf"
+  },
+  {
+    "title":"SEUPD2425-RACOON at LongEval 2025: A novel approach to Information Retrieval with LLM-based query expansion and temporal relevance feedback techniques",
+    "authors":"Giovanni Gaio, Filippo Mazzarotto, Matteo Meneghin, Enrico Saro, Francesco Vison\u00e0, Nicola Ferro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_273.pdf"
+  },
+  {
+    "title":"DS@GT at LongEval: Evaluating Temporal Performance in Web Search Systems and Topics with Two-Stage Retrieval",
+    "authors":"Anthony Miyaguchi, Imran Afrulbasha, Aleksandar Pramov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_274.pdf"
+  },
+  {
+    "title":"CIR_cluster at LongEval 2025: Clustering Query Variants for Temporal Generalization",
+    "authors":"Arthur Muanza Ndiema, J\u00fcri Keller, Philipp Schaer",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_275.pdf"
+  },
+  {
+    "title":"AGH IR at LongEval: Improving Scientific Information Retrieval with Dense Representations and Cross-Encoder Re-ranking",
+    "authors":"Jan Stryszewski, Wiktor Prosowicz, Tomasz Kawiak, Adrian Ja\u015bkowiec",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_276.pdf"
+  },
+  {
+    "title":"Overview of the \u201cVoight-Kampff\u201d Generative AI Authorship Verification Task at PAN and ELOQUENT 2025",
+    "authors":"Janek Bevendorff, Yuxia Wang, Jussi Karlgren, Matti Wiegmann, Maik Fr\u00f6be, Akim Tsivgun, Jinyan Su, Zhuohan Xie, Mervat Abassy, Jonibek Mansurov, Rui Xing, Minh Ngoc Ta, Kareem Ashraf Elozeiri, Tianle Gu, Raj Vardhan Tomar, Jiahui Geng, Ekaterina Artemova, Artem Shelmanov, Nizar Habash, Efstathios Stamatatos, Iryna Gurevych, Preslav Nakov, Martin Potthast, Benno Stein",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_277.pdf"
+  },
+  {
+    "title":"Overview of the Multilingual Text Detoxification Task at PAN 2025",
+    "authors":"Daryna Dementieva, Vitaly Protasov, Nikolay Babakov, Naquee Rizwan, Ilseyar Alimova, Caroline Brun, Vasily Konovalov, Arianna Muti, Chaya Liebeskind, Marina Litvak, Debora Nozza, Shehryaar Shah Khan, Sotaro Takeshita, Natalia Vanetik, Abinew Ali Ayele, Florian Schneider, Xintong Wang, Seid Muhie Yimam, Ashraf Elnagar, Animesh Mukherjee, Alexander Panchenko",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_278.pdf"
+  },
+  {
+    "title":"Overview of the Multi-Author Writing Style Analysis Task at PAN 2025",
+    "authors":"Eva Zangerle, Maximilian Mayerl, Martin Potthast, Benno Stein",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_279.pdf"
+  },
+  {
+    "title":"Overview of the Plagiarism Detection Task at PAN 2025",
+    "authors":"Andr\u00e9 Greiner-Petter, Maik Fr\u00f6be, Jan Philip Wahle, Terry Ruas, Bela Gipp, Akiko Aizawa, Martin Potthast",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_280.pdf"
+  },
+  {
+    "title":"Team KSU at PAN 2025: Multi-Author Writing Style Analysis in English Texts Based on Graph Convolutional Networks",
+    "authors":"Abeer Saad Alsheddi, Mohamed El Bachir Menai",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_281.pdf"
+  },
+  {
+    "title":"DivEye at PAN 2025: Diversity Boosts AI-Generated Text Detection",
+    "authors":"Advik Raj Basani, Pin-Yu Chen",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_282.pdf"
+  },
+  {
+    "title":"Style Change Detection Using Graph and Structural Linguistic Features for Multi-Author Writing Analysis",
+    "authors":"Ioana-Roxana Boriceanu, Andra-Elena B\u0103ltoiu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_283.pdf"
+  },
+  {
+    "title":"Team TMU at PAN 2025: An Ensemble of Fine-Tuned LaBSE and Siamese Neural Network for Multi-Author Writing Style Analysis",
+    "authors":"Sara Bourbour Hosseinbeigi, Ali Mehrani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_284.pdf"
+  },
+  {
+    "title":"MetaDetox at TextDetox CLEF 2025: Detoxification with Few-Chain Prompting",
+    "authors":"Sara Bourbour Hosseinbeigi, Amin Saeidi Kelishami, Maryam Gheysari, Fatemeh Rahimzadeh",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_285.pdf"
+  },
+  {
+    "title":"Team cornell-1 at PAN: Ensembling Fine-Tuned Transformer Models for Writing Style Analysis",
+    "authors":"Deniz B\u00f6l\u00f6ni-Turgut, Dhriti Verma, Claire Cardie",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_286.pdf"
+  },
+  {
+    "title":"Llama-3 with 4-bit Quantization and IA3 Tuning for Multi-Author Writing Style Analysis",
+    "authors":"Donejie Chen, Jijie Li, Haoliang Qi",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_287.pdf"
+  },
+  {
+    "title":"GemDetox at TextDetox CLEF 2025: Enhancing a Massively Multilingual Model for Text Detoxification on Low-resource Languages",
+    "authors":"Trung Duc Anh Dang, Ferdinando Pio D'Elia",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_288.pdf"
+  },
+  {
+    "title":"HF_Detox at TextDetox CLEF 2025: Prompt-Driven Multilingual Detoxification",
+    "authors":"Humaira Farid, Zainab Ahmad, Ahmad Mahmood, Iqra Ameer",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_289.pdf"
+  },
+  {
+    "title":"RoBERT-IA: Human-AI Collaborative Text Classification",
+    "authors":"Deyson G\u00f3mez S\u00e1nchez, Jeison D. Jimenez, Mar\u00eda Paz Ram\u00edrez, Jairo E. Serrano, Juan C. Martinez-Santos, Edwin Puertas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_290.pdf"
+  },
+  {
+    "title":"Application and Analysis of Roberta-base Model Fine Tuning Based on Data Enhancement in AI Text Detection",
+    "authors":"Jiancheng Huang, Haojie Cao, Xiaocan Lin, Zhongyuan Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_291.pdf"
+  },
+  {
+    "title":"ReText.Ai Team at PAN 2025: Applying a Multiple Classification Heads to a Transformer Model for Human-AI Collaborative Text Classification",
+    "authors":"Daria Ignatenko, Konstantin Zaitsev, Olga Shkriaba",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_292.pdf"
+  },
+  {
+    "title":"Team SINAI-INTA at PAN 2025: Uncovering Machine Generated Text with Linguistic Features",
+    "authors":"Maria Jimeno-Gonzalez, Eugenio Mart\u00ednez-C\u00e1mara, Noelia Fernandez, Pedro D\u00edaz-Garc\u00eda, Luis Alfonso Ure\u00f1a-L\u00f3pez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_293.pdf"
+  },
+  {
+    "title":"SVATS at PAN 2025 TextDetox: Can Small Models Outperform Large Ones in Text Detoxification?",
+    "authors":"Vladislav Kozlovskiy, Sameer Tantry, Alexander Ploskin, Tatyana Matveeva, Sofya Savelyeva",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_294.pdf"
+  },
+  {
+    "title":"OpenFact at PAN 2025: Punctuation-Guided Pretraining for Sentence-Level Style Change Detection",
+    "authors":"Ewelina Ksi\u0119\u017cniak, Krzysztof W\u0119cel, Marcin Sawi\u0144ski",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_295.pdf"
+  },
+  {
+    "title":"Voight-Kampff AI Detection Sensitivity",
+    "authors":"Ritesh Kumar, Arya Trivedi, Ojaswa Varshney",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_296.pdf"
+  },
+  {
+    "title":"ylmmcl at Multilingual Text Detoxification 2025: Lexicon-Guided Detoxification and Classifier-Gated Rewriting",
+    "authors":"Nicole Lai-Lopez, Lusha Wang, Su Yuan, Lisa Zhang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_297.pdf"
+  },
+  {
+    "title":"Generative AI detection using simple Feature Selection and SVM",
+    "authors":"Joseph Larson",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_298.pdf"
+  },
+  {
+    "title":"Team Bohan Li at PAN: DeBERTa-v3 with R-Drop Regularization for Human-AI Collaborative Text Classification",
+    "authors":"Bohan Li, Haoliang Qi, Kai Yan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_299.pdf"
+  },
+  {
+    "title":"Fine-Grained Human-AI Collaborative Text Classification Using DeBERTa",
+    "authors":"Tao Li, Guo Niu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_300.pdf"
+  },
+  {
+    "title":"Text Author Classification: A ModernBERT Approach with Gradient Loss Function",
+    "authors":"Zhankeng Liang, Kaiyin Sun, Haojie Cao, Jieren Luo, Zhongyuan Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_301.pdf"
+  },
+  {
+    "title":"SCL-DeBERTa: Multi-Author Writing Style Change Detection Enhanced by Supervised Contrastive Learning",
+    "authors":"Kaichuan Lin, Chang Liu, Fuchuan Ye, Zhongyuan Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_302.pdf"
+  },
+  {
+    "title":"Team wqd at Style Change Detection in Multi-Author Writing: A Deep Learning Approach Based on DeBERTa",
+    "authors":"Xiaocan Lin, Chang Liu, Xianbing Duan, Zhongyuan Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_303.pdf"
+  },
+  {
+    "title":"Generative AI Authorship Verification Based on Contrastive-Enhanced Dual-Model Decision System",
+    "authors":"Junlang Liu, Leilei Kong, Zhenyu Peng, Feifan Chen",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_304.pdf"
+  },
+  {
+    "title":"TextDetox CLEF 2025\/Multilingual Text Detoxification 2025 Jiaozipi: A Multilingual Text Detoxification Method Based on Large Language Model-Based Ensemble Learning",
+    "authors":"Xiaohui Liu, Yusheng Yi, Zhaotian Chen, Simin Xu, Zijun Ke, Xin Guo, Yubo Huang, Wenxuan Zhang, Jiayi Chen, Yong Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_305.pdf"
+  },
+  {
+    "title":"Team jr at Generative Plagiarism Detection 2025: A Two-Stage Approach: From TF-IDF\/Jaccard Filtering to Transformer Classification",
+    "authors":"Jieren Luo, Mancheng Huang, Biao Liu, Zhongyuan Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_306.pdf"
+  },
+  {
+    "title":"mdok of KInIT: Robustly Fine-tuned LLM for Binary and Multiclass AI-Generated Text Detection",
+    "authors":"Dominik Macko",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_307.pdf"
+  },
+  {
+    "title":"Unibuc - NLP at \"Voight-Kampff\" Generative AI Detection PAN 2025",
+    "authors":"Teodor Marchitan, Claudiu Creanga, Liviu P. Dinu",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_308.pdf"
+  },
+  {
+    "title":"Team HHU - An Ensemble-Based Approach to Multi-Author Writing Style Analysis Combining Experts for Different Difficulty Levels",
+    "authors":"Philipp Meier, Katarina Boland, Laura Kallmeyer, Stefan Dietze",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_309.pdf"
+  },
+  {
+    "title":"Using Semantic Similarity and Overlap Ratio Optimized for Generated Plagiarism Detection",
+    "authors":"Derui Mo, Huaiyu Zhang, Xiaojun Zhang, Leilei Kong",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_310.pdf"
+  },
+  {
+    "title":"Team Detox at PAN: Multilingual Text Detoxification using LLM",
+    "authors":"Gopala Krishna Nuthakki, Lekkala Sai Teja, Atul Mishra",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_311.pdf"
+  },
+  {
+    "title":"StylOch at PAN: Gradient-boosted trees with frequency-based stylometric features",
+    "authors":"Jeremi K. Ochab, Mateusz Matias, Tymoteusz Boba, Tomasz Walkowiak",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_312.pdf"
+  },
+  {
+    "title":"Binoculars, BART, and Adversaries: Multi-Faceted AI Text Detection for PAN 2025",
+    "authors":"Benjamin Ostrower, Poonam Dongare, Mahitha Thekkinkattuvalappil Unnikrishnan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_313.pdf"
+  },
+  {
+    "title":"Team cake at TextDetox CLEF 2025\/Multilingual Text Detoxification 2025: A Multilingual Text Detoxification Method Based on Chain-of-Thoughts Prompting Approach",
+    "authors":"Jiangao Peng, Kaiyin Sun, Kaichuan Lin, Zhankeng Liang, Zhongyuan Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_314.pdf"
+  },
+  {
+    "title":"Enhancing AI Text Detection with Frozen Pretrained Encoders and Ensemble Learning",
+    "authors":"Shushanta Pudasaini, Luis Miralles-Pechu\u00e1n, David Lillis, Marisa Llorens Salvador",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_315.pdf"
+  },
+  {
+    "title":"Sentence-Level Style Change Detection with RoBERTa for Multi-Author Writing Style Analysis",
+    "authors":"Harjas Rohra, Nirbhay Shah, Sheetal Sonawane",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_316.pdf"
+  },
+  {
+    "title":"Team CNLP-NITS-PP at PAN: Advancing Generative AI Detection: Mixture of Experts with Transformer Models",
+    "authors":"Lekkala Sai Teja, Annepaka Yadagiri, Partha Pakray",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_317.pdf"
+  },
+  {
+    "title":"Team \"better_call_claude\": Style Change Detection using a Sequential Sentence Pair Classifier",
+    "authors":"Gleb Schmidt, Johannes R\u00f6misch, Mariia Halchynska, Svetlana Gorovaia, Ivan P. Yamshchikov",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_318.pdf"
+  },
+  {
+    "title":"Human or Not? Light-Weight and Interpretable Detection of AI-Generated Text",
+    "authors":"Maximilian Seeliger, Patrick Styll, Moritz Staudinger, Allan Hanbury",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_319.pdf"
+  },
+  {
+    "title":"Team Pratham at TextDetox CLEF 2025\/Multilingual Text Detoxification 2025: Exploring Different Methods for Multilingual Text Detoxification via Prompted MT0-XL,Lexical Filtering and Backtranslation",
+    "authors":"Pratham Shah, Vatsal Shah, Sunil Kale",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_320.pdf"
+  },
+  {
+    "title":"Hierarchical Generative Plagiarism Detection Method",
+    "authors":"Zongbao Su, Yong Han, Yihao Jia, Leilei Kong",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_321.pdf"
+  },
+  {
+    "title":"DeBERTa-FPN: Fusion Feature Pyramid Network for Human-AI Collaborative Text Classification",
+    "authors":"Qiyuan Sun, Li Ma, Wenyin Yang, Tufeng Xian, Meifang Xie, Weidong Wu, Zhiliang Zhang, Miaoji Zheng",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_322.pdf"
+  },
+  {
+    "title":"Bi-Directional Cross-Entropy Loss and Stylometric Feature Combined Classifier",
+    "authors":"Yitao Sun, Svetlana Afanaseva, Kevin Stowe, Kailash Patil",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_323.pdf"
+  },
+  {
+    "title":"Efficient Plagiarism Detection via Sentence Embeddings and FAISS-based Retrieval",
+    "authors":"JiaCheng Tang, QingBiao Hu, ZhongYuan Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_324.pdf"
+  },
+  {
+    "title":"LOG-AID: Logit-Based Statistical Features for AI Text Detection",
+    "authors":"Sophie Titze, Oren Halvani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_325.pdf"
+  },
+  {
+    "title":"Team The Toxinators 2000 at TextDetox CLEF 2025\/Multilingual Text Detoxification 2025: The Evolution of Methods for Text Detoxification: The Role of Language in Method Selection",
+    "authors":"Andrei Totok, Artemiy Ermolaev, Anastasia Izyumova, Evgeniy Finogeev",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_326.pdf"
+  },
+  {
+    "title":"nikita.sushko at TextDetox CLEF 2025: Exploring A Sage-T5-like Approach For Text Detoxification",
+    "authors":"Alexandr Voronin, Daniil Moskovsky, Nikita Sushko",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_327.pdf"
+  },
+  {
+    "title":"Team Advacheck at PAN: Multitasking Does All the Magic",
+    "authors":"Anastasia Voznyuk, German Gritsai, Andrey Grabovoy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_328.pdf"
+  },
+  {
+    "title":"Adept: AI-Generated Text Detection Based on Phrasal Category N-Grams",
+    "authors":"Felix V\u00f6lpel, Oren Halvani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_329.pdf"
+  },
+  {
+    "title":"Bert_T for Human-AI Collaborative Text Classification",
+    "authors":"Weidong Wu, Wenyin Yang, Zhen Shen, Meifang Xie, Zhiliang Zhang, Miaoji Zheng, Tufeng Xian, Qiyuan Sun",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_330.pdf"
+  },
+  {
+    "title":"DBG: Human-AI Collaborative Text Classification with DeBERTa-enhanced Contextual and Geometric Attention",
+    "authors":"Tufeng Xian, Yong Zhong, Fen Liu, Meifang Xie, Qiyuan Sun, Miaoji Zheng, Weidong Wu, Zhiliang Zhang",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_331.pdf"
+  },
+  {
+    "title":"Sky.Duan at TextDetox CLEF 2025\/Multilingual Text Detoxification 2025: An Intelligent Approach Integrating Local Models and Large Language Models",
+    "authors":"Xianbing Duan, Jiangao Peng, Kaiyin Sun, Zhongyuan Han",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_332.pdf"
+  },
+  {
+    "title":"Genre-Aware Contrastive Learning for AI Text Detection: A RoBERTa-Based Approach",
+    "authors":"Junlong Yang, Kai Yan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_333.pdf"
+  },
+  {
+    "title":"A Sentence-level AI-Generated Text Detection Approach with Fine-Tuned BERT",
+    "authors":"Fuchuan Ye, Zhongyuan Han, Haojie Cao",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_334.pdf"
+  },
+  {
+    "title":"Team Nexus Interrogators at PAN: Voight-Kampff Generative AI Detection",
+    "authors":"Samiya Ali Zaidi, Huzaifah Tariq Ahmed, Sarrah Ali Akbar, Ziaullah Shakeel, Faisal Alvi, Abdul Samad",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_335.pdf"
+  },
+  {
+    "title":"DBA: A Hybrid Neural Network Model for Generative Human-AI Collaborative Text Classification",
+    "authors":"Zhiliang Zhang, Wenyin Yang, Weidong Wu, Meifang Xie, Miaoji Zheng, Qiyuan Sun, Tufeng Xian",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_336.pdf"
+  },
+  {
+    "title":"StarBERT: A Hybrid Neural Network Model for Human-AI Collaborative Text Classification",
+    "authors":"Miaoji Zheng, Yong Zhong, Fen Liu, Tufeng Xian, Meifang Xie, Weidong Wu, Zhiliang Zhang, Qiyuan Sun",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_337.pdf"
+  },
+  {
+    "title":"QuantumCLEF 2025: Overview of the Second Quantum Computing Challenge for Information Retrieval and Recommender Systems at CLEF",
+    "authors":"Andrea Pasin, Maurizio Ferrari Dacrema, Washington Cunha, Marcos Andr\u00e9 Goncalves, Paolo Cremonesi, Nicola Ferro",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_338.pdf"
+  },
+  {
+    "title":"Team GPLSI at QClef 2025: Quantum-Inspired Instance Selection and Clustering",
+    "authors":"Juan Pablo Consuegra-Ayala, Aitana Morote-Mart\u00ednez, Francisco Valero-Abell\u00f3n, Elena Lloret, Paloma Moreda, Manuel Palomar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_339.pdf"
+  },
+  {
+    "title":"Quantum Feature Selection from Interpretable Models using a QUBO Formulation",
+    "authors":"Flavio Giobergia, Claudio Savelli, Alkis Koudounas, Elena Baralis",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_340.pdf"
+  },
+  {
+    "title":"SINAI team at QuantumCLEF 2025: Quantum Feature Selection Based on Energy with D-Wave",
+    "authors":"Lucas Molino-Pi\u00f1ar, Jaime Collado-Monta\u00f1ez, Arturo Montejo-R\u00e1ez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_341.pdf"
+  },
+  {
+    "title":"Quantum Annealing for Machine Learning: Applications in Feature Selection, Instance Selection, and Clustering",
+    "authors":"Chloe Pomeroy, Aleksandar Pramov, Karishma Thakrar, Lakshmi Yendapalli",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_342.pdf"
+  },
+  {
+    "title":"Feature Selection Using Quantum Annealing: A Mutual Information Based QUBO Approach",
+    "authors":"Muhammad Talha Shaikh, Muhammad Hamza, Syed Bilal Ali, Muhammad Rafi, Sumaiyah Zahid",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_343.pdf"
+  },
+  {
+    "title":"Overview of the CLEF 2025 SimpleText Task 1: Simplify Scientific Text",
+    "authors":"Jan Bakker, Benjamin Vendeville, Liana Ermakova, Jaap Kamps",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_344.pdf"
+  },
+  {
+    "title":"Overview of the CLEF 2025 SimpleText Task 2: Identify and Avoid Hallucination",
+    "authors":"Benjamin Vendeville, Jan Bakker, Hosein Azarbonyad, Liana Ermakova, Jaap Kamps",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_345.pdf"
+  },
+  {
+    "title":"Sentence-level Scientific Text Simplification With Just a Pinch of Data",
+    "authors":"Marvin M. Ag\u00fcero-Torales, Carlos Rodr\u00edguez Abell\u00e1n, Carlos A. Casta\u00f1o Moraga",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_346.pdf"
+  },
+  {
+    "title":"DUTH at CLEF 2025 SimpleText Track: Tackling Scientific Text Simplification and Hallucination Detection",
+    "authors":"Georgios Arampatzis, Avi Arampatzis",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_347.pdf"
+  },
+  {
+    "title":"SINAI in SimpleText CLEF 2025: Simplifying Biomedical Scientific Texts and Identifying Hallucinations Using GPT-4.1 and Pattern Detection",
+    "authors":"Jaime Collado-Monta\u00f1ez, Jenny Alexandra Ortiz-Zambrano, C\u00e9sar Espin-Riofrio, Arturo Montejo-R\u00e1ez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_348.pdf"
+  },
+  {
+    "title":"NITK SCaLAR Lab at the CLEF 2025 SimpleText Track: Transformer-Based Models for Biomedical Sentence Simplification (Task 1.1)",
+    "authors":"Arya Adwait Dongre, Ankita Vaadiraaju, Anand Kumar Madasamy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_349.pdf"
+  },
+  {
+    "title":"RECAIDSTechTitans at CLEF 2025: Simplifying Scientific Text and Identifying Spurious Sentences using T5",
+    "authors":"Stergio Eugin, Beulah A, Sathvikha V, Sangamithra V",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_350.pdf"
+  },
+  {
+    "title":"University of Avignon at the CLEF 2025 SimpleText Track: Guided Medical Abstract Simplification",
+    "authors":"Ygor Gallina, Tania Jim\u00e9nez, St\u00e9phane Huet",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_351.pdf"
+  },
+  {
+    "title":"THM@SimpleText 2025 - Task 1.1: Revisiting Text Simplification based on Complex Terms for Non-Experts",
+    "authors":"Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor, Christin Katharina Kreutz",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_352.pdf"
+  },
+  {
+    "title":"A Benchmark Collection for Assessing Scholarly Search by Non-Educated Users",
+    "authors":"St\u00e9phane Huet, Eric Sanjuan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_353.pdf"
+  },
+  {
+    "title":"UM_FHS at the CLEF 2025 SimpleText Track: Comparing No-Context and Fine-Tune Approaches for GPT-4.1 Models in Sentence and Document-Level Text Simplification",
+    "authors":"Primoz Kocbek, Gregor Stiglic",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_354.pdf"
+  },
+  {
+    "title":"AIIRLab Systems for CLEF 2025 SimpleText: Cross-Encoders to Avoid Spurious Generation",
+    "authors":"Nicholas Largey, Deiby Wu, Behrooz Mansouri",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_355.pdf"
+  },
+  {
+    "title":"Hallucination Detection and Mitigation in Scientific Text Simplification using Ensemble Approaches: DS@GT at CLEF 2025 SimpleText",
+    "authors":"Krishna Chaitanya Marturi, Heba H. Elwazzan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_356.pdf"
+  },
+  {
+    "title":"LLM-Guided Planning and Summary-Based Scientific Text Simplification: DS@GT at CLEF 2025 SimpleText",
+    "authors":"Krishna Chaitanya Marturi, Heba H. Elwazzan",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_357.pdf"
+  },
+  {
+    "title":"LIS at SimpleText 2025: Enhancing Scientific Text Accessibility with LLMs and Retrieval-Augmented Generation",
+    "authors":"Anya Amel Nait Djoudi, Sarah Nouali, Mohsine Aabid, Ismail Badache, Adrian-Gabriel Chifu, Patrice Bellot",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_358.pdf"
+  },
+  {
+    "title":"University of Amsterdam at the CLEF 2025 SimpleText Track",
+    "authors":"Taiki Papandreou, Jan Bakker, Jaap Kamps",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_359.pdf"
+  },
+  {
+    "title":"UBOnlp Report at the SimpleText lab of CLEF 2025",
+    "authors":"Benjamin Vendeville, Liana Ermakova, Pierre De Loor, Jaap Kamps",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_360.pdf"
+  },
+  {
+    "title":"S-3 Pipeline for Biomedical Text Simplification",
+    "authors":"Ansh Vora, Tanish Chaudhari, Sanjeev Hotha, Sheetal Sonawane",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_361.pdf"
+  },
+  {
+    "title":"Brief Overview of TalentCLEF 2025",
+    "authors":"Luis Gasco, Hermenegildo Fabregat, Laura Garc\u00eda-Sardi\u00f1a, Paula Estrella, Daniel Deniz, Alvaro Rodrigo, Rabih Zbib",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_362.pdf"
+  },
+  {
+    "title":"Enhancing Job-Skill Matching with LLM-Driven Data Augmentation and Fine-Tuned Bi-Encoders",
+    "authors":"Mohab Ali",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_363.pdf"
+  },
+  {
+    "title":"AlexU-NLP at TalentCLEF 2025: Curriculum-Driven Hybrid Retrieval for Multilingual Job Title Matching",
+    "authors":"Rana Barakat, Omar Mokhtar, Marwan Torki, Nagwa Elmakky",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_364.pdf"
+  },
+  {
+    "title":"Fine-Tuned Sentence Transformer for Multilingual Job Title Matching",
+    "authors":"Chinmay Satish Bhangale, Prajwal Anil Gabhane, Anand Kumar Madasamy",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_365.pdf"
+  },
+  {
+    "title":"Multilingual Job Title Matching with MPNet-Based Sentence Transformers",
+    "authors":"Adam Brikman, Michael Sana, Holden Ruegger",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_366.pdf"
+  },
+  {
+    "title":"Multilingual JobBERT for Cross-Lingual Job Title Matching",
+    "authors":"Jens-Joris Decorte, Matthias De Lange, Jeroen Van Hautte",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_367.pdf"
+  },
+  {
+    "title":"COTECMAR--UTB at TalentCLEF 2025: Linking Job Titles and ESCO Skills with Sentence Transformer Embeddings",
+    "authors":"Jhonattan Llamas, Edwin Puertas, Jairo Serrano, Juan Martinez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_368.pdf"
+  },
+  {
+    "title":"VerbaNex at TalenCLEF2025: Semantic Matching of Multilingual Job Titles through a Framework Integrating ESCO Taxonomy",
+    "authors":"Melissa Moreno Novoa, Juan Carlos Martinez-Santos, Jairo Serrano, Edwin Puertas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_369.pdf"
+  },
+  {
+    "title":"NT Team at Multilingual Job Title Matching Task A: Job Matching via Large Language Model-Based Description Generation and Retrieval",
+    "authors":"Ho Thuy Nga, Ho Thi Thanh Tuyen, Dang Van Thin",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_370.pdf"
+  },
+  {
+    "title":"Enhancing Human Capital Management: AI Techniques for Candidate Matching and Skill Extraction",
+    "authors":"Muhammad Hasan Nizami, Ahtisham Uddin, Muhammad Talha Salani, Ayesha Saeed, Faisal Alvi, Abdul Samad",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_371.pdf"
+  },
+  {
+    "title":"A Two-Stage Multilingual Job Title Matching System: Combining Expert Knowledge and LLM-based Ranking",
+    "authors":"Mar Rodr\u00edguez, Olatz Perez-de-Vi\u00f1aspre, Naiara Perez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_372.pdf"
+  },
+  {
+    "title":"UDII-UPM at TalentCLEF 2025: Task A-Multilingual Job Title Matching",
+    "authors":"Javier Rodr\u00edguez-Vidal, Ascensi\u00f3n L\u00f3pez-Vargas, Pablo Manuel Vigara Gallego, Francisco Javier Del \u00c1lamo, \u00c1ngel Garc\u00eda-Beltr\u00e1n",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_373.pdf"
+  },
+  {
+    "title":"HULAT-UC3M at TalentCLEF: Artificial Intelligence and Natural Language Processing Applied to HR Management",
+    "authors":"\u00c1lvaro Tejera Villar, Isabel Segura Bedmar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_374.pdf"
+  },
+  {
+    "title":"pjmathematician at TalentCLEF 2025: Enhancing Job Title and Skill Matching with GISTEmbed and LLM-Augmented Data",
+    "authors":"Poojan Vachharajani",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_375.pdf"
+  },
+  {
+    "title":"Beyond Titles: Semantic Matching of Jobs and Skills Using LLMs and S-BERT",
+    "authors":"Iago X. V\u00e1zquez, Rodrigo Sedano, Silvia Gonz\u00e1lez, Javier Sedano",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_376.pdf"
+  },
+  {
+    "title":"NLPnorth @ TalentCLEF 2025: Comparing Discriminative, Contrastive, and Prompt-Based Methods for Job Title and Skill Matching",
+    "authors":"Mike Zhang, Rob van der Goot",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_377.pdf"
+  },
+  {
+    "title":"Overview of Touch\u00e9 2025: Argumentation Systems",
+    "authors":"Johannes Kiesel, \u00c7a\u011fri\u0307\u0300 \u00c7\u00f6ltekin, Marcel Gohsen, Sebastian Heineking, Maximilian Heinrich, Maik Fr\u00f6be, Tim Hagen, Mohammad Aliannejadi, Sharat Anand, Toma\u017e Erjavec, Matthias Hagen, Maty\u00e1\u0161 Kopp, Nikola Ljube\u0161i\u0107, Katja Meden, Nailia Mirzakhmedova, Vaidas Morkevi\u010dius, Harrisen Scells, Moritz Wolter, Ines Zelch, Martin Potthast, Benno Stein",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_378.pdf"
+  },
+  {
+    "title":"Pirate Passau at Touch\u00e9: Do We Need to Get Complex? A Comparative Analysis of Traditional and Advanced NLP Approaches for Advertisement Classification",
+    "authors":"Tarek Al Bouhairi, Alaa Alhamzeh",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_379.pdf"
+  },
+  {
+    "title":"Hanuman at Touch\u00e9: Image Generation with Argument-Aspect Fusion",
+    "authors":"Sharat Anand, Maximilian Heinrich",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_380.pdf"
+  },
+  {
+    "title":"DEMA\u00b2IN at Touch\u00e9: Salient Events Extraction for Ideology and Power Identification in Parliamentary Debates",
+    "authors":"Benjamin Callac, Anne-Gwenn Bosser, Florence Dupin de Saint-Cyr, Eric Maisel",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_381.pdf"
+  },
+  {
+    "title":"JU-NLP at Touch\u00e9: Covert Advertisement in Conversational AI-Generation and Detection Strategies",
+    "authors":"Arka Dutta, Agrik Majumdar, Sombrata Biswas, Dipankar Das, Sivaji Bandyopadhyay",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_382.pdf"
+  },
+  {
+    "title":"CEDNAV--UTB: Efficient Image Retrieval for Arguments with CLIP",
+    "authors":"Diego Alberto Guevara Amaya, Jairo Enrique Serrano Casta\u00f1eda, Juan C. Martinez-Santos, Edwin Puertas",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_383.pdf"
+  },
+  {
+    "title":"Git Gud at Touch\u00e9: Unified RAG Pipeline for Native Ad Generation and Detection",
+    "authors":"Sameer Kamani, Muhammad Taqi, Muhammad Ansab Chaudhary, Muhammad Ahmad Humayun Hanif, Faisal Alvi, Abdul Samad",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_384.pdf"
+  },
+  {
+    "title":"TeamCMU at Touch\u00e9: Adversarial Co-Evolution for Advertisement Integration and Detection in Conversational Search",
+    "authors":"To Eun Kim, Jo\u00e3o Coelho, Gbemileke Onilude, Jai Singh",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_385.pdf"
+  },
+  {
+    "title":"Munibuc at Touch\u00e9: Generalist Embeddings for Ideology and Populism Detection",
+    "authors":"Marius Marogel, Silviu Gheorghe",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_386.pdf"
+  },
+  {
+    "title":"DS@GT at Touch\u00e9: Large Language Models for Retrieval-Augmented Debate",
+    "authors":"Anthony Miyaguchi, Conor Johnston, Aaryan Potdar",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_387.pdf"
+  },
+  {
+    "title":"Infotec+CentroGEO at Touch\u00e9: MCIP, CLIP and SBERT as Retrieval Score",
+    "authors":"Tania Ramirez-delreal, Daniela Moctezuma, Guillermo Ruiz, Mario Graff, Eric Tellez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_388.pdf"
+  },
+  {
+    "title":"T\u00fcNLP at Touch\u00e9: Finetuning Multilingual Models for Ideology Detection",
+    "authors":"Aydemir Shamsutdinov, Joaquin Cherta-Rodr\u00edguez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_389.pdf"
+  },
+  {
+    "title":"SINAI at Touch\u00e9: From Generation to Evaluation through Multistep and Comparative Prompting for Retrieval-Augmented Debate",
+    "authors":"Mar\u00eda Estrella Vallecillo-Rodr\u00edguez, Mar\u00eda Teresa Mart\u00edn-Valdivia, Arturo Montejo-R\u00e1ez",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_390.pdf"
+  },
+  {
+    "title":"GIL_UNAM_Iztacala at Touch\u00e9: Benchmarking Classical Models for Multilingual Political Stance and Power Classification",
+    "authors":"Luis A. H. Miranda, Jes\u00fas V\u00e1zquez-Osorio, Adri\u00e1n Ju\u00e1rez-P\u00e9rez, Gerardo Sierra, Gemma Bel-Enguix",
+    "link":"https:\/\/ceur-ws.org\/Vol-4038\/paper_391.pdf"
+  }
+]

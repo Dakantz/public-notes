@@ -1,0 +1,134 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8x]{inputenc}
+
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+
+\usepackage{hyperref}
+
+\usepackage{tabularray}
+\usepackage{graphicx}
+
+\usepackage[table]{xcolor}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{url}
+\usepackage[style=ieee,backend=biber]{biblatex} % Bibliography
+\usepackage{isomath}
+\usepackage{amsmath}
+\usepackage{newtxmath}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{bm}
+\usepackage{ stmaryrd }
+
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    left=25mm,
+    right=25mm,
+    top=25mm,
+    }
+    
+\title{ICASSP '25 notes and interesting posters}
+\author{Benedikt Kantz}
+\begin{document}
+
+\maketitle
+
+\section{Montag Vormittag}
+\subsection{Tutorial: Generative AI and Model Optimization}
+Problem: (compute) cost, current foundation models not sustainable
+Solutions:
+\subsubsection{Sparsity}
+\begin{itemize}
+    \item[$\rightarrow$] scalability, less overfitting, interpretability, adaptive ways to introduce sparsity
+    \item post training: optimal brain damage (OBD)/ optimal brain surgery (OBS)
+          \begin{itemize}
+              \item dropout by contribution to error, scale by Hessian $\mathcal{H}$ contribution
+
+          \end{itemize}
+    \item training:
+          \begin{itemize}
+              \item L1-loss: Convex optim.; no free lunch: initial model very large!, more eqs.
+              \item exaustive: very expensive
+              \item greedy/evolutionary solutions: StOMP, GOMP based on L0-norm, but very effective
+          \end{itemize}
+    \item pre-training
+          \begin{itemize}
+              \item SET
+              \item randomly initial init $\rightarrow$ evolutionary
+          \end{itemize}
+    \item architecutral: grow and shrink networks...
+\end{itemize}
+Problem: doesn't really work with LMs (empirical study), but well for other networks (esp. low-weight dropout)
+
+\subsubsection{Compression}
+\begin{itemize}
+    \item filter: storage compresion
+    \item low rank factorization ($\neq$ LoRA), during train time not fine-tuning
+    \item knowledge distillation
+\end{itemize}
+
+\section{Dienstag Nachmittag}
+
+\subsection{Talk: Underwater Communications}
+
+\begin{itemize}
+    \item Problem: very slow comm underwater, $\approx$10~kHz range
+    \item Towards moving target, Doppler correction using active SP correction, very manual work
+\end{itemize}
+Comment: interesting manual process, tedious work to sample
+
+
+\section{Mittwoch Nachmittag}
+
+\subsection{Talk: AI+SP}
+Comment: some basics on diffusion/transformers, a little bit of SP in NNs
+
+
+\section{Donnerstag Vormittag}
+
+\subsection{Talk: Multiomics}
+
+\begin{itemize}
+    \item Genomics: DNA understanding
+    \item Transcriptomics: DNA->RNA understanding
+    \item Proteomics: RNA->Protein structures
+    \item Knowledge graphs: how do these systems influnce each other
+    \item Flow:
+          \begin{itemize}
+              \item identify DNA mutation that triggers illness
+              \item find possible RNA mechanism
+              \item find good fitting small ring structure
+              \item[$\rightarrow$] check for side effects in knowledge graph! (certain protein effects unwantend)
+              \item[$\rightarrow$] then test  $\rightarrow$ animal tests, reduce through ML!
+          \end{itemize}
+    \item Graph diffusion for drug discovery: noise schedule for diffusion essential, i.e. cosine-square schedule
+          \begin{itemize}
+              \item diffuse graphs from atoms \& edges as adjacency matrix
+              \item what is noise: discrete noise: each atom is discrete state $\implies$ graph structure undergoes state transition change
+              \item naive: uniform structure, not really chemically sensible - conditional probabibilites $\implies$ not uniform but marginal distribution of molecules in training (just logical!), same for edge (with deletion!)
+              \item one step further: consider carbon rings, restriction based on maximum bonds of atom (freie radikale)
+              \item SMILE-file, QED: Quantitative Esitmate of Drug likeness (from RDKit)
+              \item Existing methods: Time-consuming, progress slow, very few good molecules
+              \item Their work: jointly perturb rings+nodes
+              \item other approaches: motives as super-node with rings, difficulty: ring attachments - only $\approx$1 \% improvement!
+              \item novelty however high, one molecule of them even patented!
+          \end{itemize}
+\item Knowledge graphs:
+\begin{itemize}
+    \item GNN link prediction
+    \item none of the existing benchmarks include features!
+    \item maybe talk to author!
+\end{itemize}
+\end{itemize}
+Comment: focused on drug discovery using diffusion, not much on multiomics\dots
+\section{Lectures/Orals}
+\include{lectures}
+
+\section{Posters}
+\include{posters}
+
+\end{document}

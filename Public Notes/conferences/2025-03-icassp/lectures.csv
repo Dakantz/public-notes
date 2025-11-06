@@ -1,0 +1,6 @@
+lecture,url,notes
+Diversity-Seeking Techniques for Red-Teaming LLMs,https://ieeexplore.ieee.org/document/10890844/,Add RL-Loss to train similar to GAN by backpropagating if the model returns very similar output (i.e. discrimimnator)-> Very fragile learning;  Limited further studies
+FDR Control for Complex-Valued Data,https://ieeexplore.ieee.org/document/10889705,similar to LASSO; sparsifying system under certain guarantees
+SpectralCam: High-Resolution Low-Cost Spectral Imaging Using DSLR Cameras,https://ieeexplore.ieee.org/document/10887725,"Interesting concept of applying photo filter to DSLR sensor, Bayesian pattern restoration ""learned"" using diffusion & attenuation mtx"
+Fusing Multimodality of Large Language Models and Satellite Imagery,https://ieeexplore.ieee.org/document/10889624,Could be interesting in combination with HEREDITARY geospatial data once we have access
+Controllable Forgetting Mechanism for Few-Shot Class-Incremental Learning,https://arxiv.org/pdf/2501.15998,"Using embedding space to classify, add new classifier based on distance, seems rather hyperparameter-sensitive"
