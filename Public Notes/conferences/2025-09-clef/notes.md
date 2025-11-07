@@ -91,10 +91,8 @@ Note: CLEF has changed reviews to focus on methodology instead of raw numbers (w
   - Visualization of high-dim vector on spatial data: PCA to 3D to RGB
   - Add text to context: as few as 5-10 observations from text works as text quite well
   - Joint training with representation learning for satellite images: Dense Retrieval of Text, Segmentation, …
-<figure data-latex-placement="h">
-<embed src="figures/model_overview_v3.pdf" style="width:80.0%" />
-<figcaption>Overview of the FS-SINR <span class="citation" data-cites="Lange2025Feb"></span></figcaption>
-</figure>
+![mode](figures/model_overview_v3.pdf)
+
 ## GeoLifeCLEF Overview
 - Absence/Presence data, climate data, time series (climate)
 - Very biased observations, people go places

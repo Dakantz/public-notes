@@ -138,11 +138,7 @@ Well-known viz browsers
 ### Unveiling the Visual Rhetoric of Persuasive Cartography: A Case Study of the Design of Octopus Maps
 - Octopus: literally?, historically famous (they creep into the data, rhetorically speaking)
 - Survey of maps containing octopus with deep coding of maps, propaganda/misinformation maps deeply connected!
-
-<figure data-latex-placement="H">
-<img src="figures/octopus_map.png" style="width:80.0%" />
-<figcaption>From <span class="citation" data-cites="OctuposMap2025"></span></figcaption>
-</figure>
+![Octupos](./figures/octopus_map.png)
 
 ### How do Data Journalists Design Maps to Tell Stories?
 - Explore design space of these specifc maps
@@ -152,10 +148,8 @@ Well-known viz browsers
 - Tight deadlines force less map inclusion, AI enables more inclusion (but at what cost)?
 - A lot of users require locator maps, data literacy often a problem/readers often lost, require well-versed audience
 - Limitations: biased towards Brazilian journalists, no mobile maps
-<figure data-latex-placement="H">
-<img src="figures/journalism_taxonomy.png" style="width:80.0%" />
-<figcaption>From <span class="citation" data-cites="JournalisMap2025"></span></figcaption>
-</figure>
+
+![Octupos](./figures/journalism_taxonomy.png)
 
 ### Algorithmically-Assisted Schematic Transit Map Design: A System and Algorithmic Core for Fast Layout Iteration
 - Their major contribution: interactive design, compared to Hannah Bast’s greedy construction!
