@@ -138,10 +138,12 @@ Well-known viz browsers
 ### Unveiling the Visual Rhetoric of Persuasive Cartography: A Case Study of the Design of Octopus Maps
 - Octopus: literally?, historically famous (they creep into the data, rhetorically speaking)
 - Survey of maps containing octopus with deep coding of maps, propaganda/misinformation maps deeply connected!
+
 <figure data-latex-placement="H">
 <img src="figures/octopus_map.png" style="width:80.0%" />
 <figcaption>From <span class="citation" data-cites="OctuposMap2025"></span></figcaption>
 </figure>
+
 ### How do Data Journalists Design Maps to Tell Stories?
 - Explore design space of these specifc maps
 - Article sourrounding maps, accompying viz/supporting media
@@ -154,6 +156,7 @@ Well-known viz browsers
 <img src="figures/journalism_taxonomy.png" style="width:80.0%" />
 <figcaption>From <span class="citation" data-cites="JournalisMap2025"></span></figcaption>
 </figure>
+
 ### Algorithmically-Assisted Schematic Transit Map Design: A System and Algorithmic Core for Fast Layout Iteration
 - Their major contribution: interactive design, compared to Hannah Bast’s greedy construction!
 - Fast/Global algorithms survey
@@ -175,7 +178,7 @@ Well-known viz browsers
 - No user study, but present strong use case with Blender MCP
 ### Uncertain Mode Surfaces in 3D Symmetric Second-Order Tensor Field Ensembles
 - Prior work: Topological Tensor field
-- Tensor Mode $`\rightarrow`$ can be extracted to get contours/limits/extremes
+- Tensor Mode $\rightarrow$ can be extracted to get contours/limits/extremes
 - Uncertainty in Tensor Ensemble: Calculate Mean - then Mode (removes information), therefore - mode of each field, then calculate variance/…over these, viz these
 - Current limitations: only for 1D-lines, current work: add more extension
 ### Virtual Ray Sampling for Direct Volume Rendering using Hermite Interpolation
@@ -183,7 +186,6 @@ Well-known viz browsers
 ### Scope Meets Screen: Lessons Learned in Designing Composite Visualizations for Marksmanship Training Across Skill Levels
 ### Interactive Visual Analytics of Carbon Cycle Science
 - Usually: box-flow diagrams (boxes represent storage, arrows movement)
-- 
 ### Analyzing Time-Varying Scalar Fields using Piecewise-Linear Morse-Cerf Theory
 ## Abstract Physical Spaces
 ### Don’t Stop Me Now: Visualizing Disruptions in Railroad Networks
@@ -266,6 +268,35 @@ Well-known viz browsers
 - Design space survey of walkable/accesible neighbourhood street analysis.
 ### TraSculptor: Visual Analytics for Enhanced Decision-Making in Road Traffic Planning
 - Model traffic demand on graph, explore options on graph
+- Editor for the graph (including street width ...)
+- Interesting related work for Jesús
+## Interaction & Provenance
+### DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics
+* Interactive, collabortive environment that can be shared online and accross many devices (iPhone to Occolus)
+## Stories and the Journalists Who Tell Them
+### SceneLoom: Communicating Data with Scene Context
+- Dat with real-world imagery connection
+- Automated visualization creation using semantic possibilities for in-image viz
+### Data Speaks, But Who Gives It a Voice? Understanding Persuasive Strategies in Data-Driven News Articles
+- Emotional, Persuasive strategies
+- Implement MLLM to predict these strategies, estimate effects of strategies
+### Deconstructing Implicit Beliefs in Visual Data Journalism: Unstable Meanings Behind Data as Truth & Design for Insight
+- **Objective/subjective truth** vs. humanistic/mechanistic insights at odds
+- Instead of data $\rightarrow$ which beliefs of data/design influences their decisions to truth seeking
+- Interviews revealed tension/implicit ideas in participants
+- Link to historical events underlying data insights/constructs
+- Objective/mechanism are strategic rituals; skepticism to subjective framing
+### Immersive Data-Driven Storytelling: Scoping an Emerging Field Through the Lenses of Research, Journalism, and Games
+- Survey over immersive data stories
+- Hard to find/a lot of methods - looked at everything from articles to Steam games
+- Nice illustrations of the stories to give a consistent view
+### Narrative Player: Reviving Data Narratives with Visuals
+- Text-driven storytelling with visuals from raw data (sometimes just data+text)
+- Generative visualization
+- Narrative analysis, fact analysis (extraction)
+- Automatic Viz generation
+- Q: how truthful/how to guard against hallucinations?
+- 12 students for user study: dataset/ablation studies
 # Best Paper Awards according to me
 - Smoothest Maps: Algorithmically-Assisted Schematic Transit Map Design: A System and Algorithmic Core for Fast Layout Iteration
 - Longest Tentacles: Unveiling the Visual Rhetoric of Persuasive Cartography: A Case Study of the Design of Octopus Maps
