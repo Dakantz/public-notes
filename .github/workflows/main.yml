@@ -25,5 +25,5 @@ jobs:
         script: |
           cd ~/public-notes
           git pull
-          hugo
+          sh build.sh
           
