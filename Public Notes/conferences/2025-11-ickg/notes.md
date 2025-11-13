@@ -4,7 +4,7 @@ tags: conference
 date: 2025-11-13
 ---
 
-## Opening
+### Opening
 ### Keynote: Managing Knowledge Space
 Speaker: *Steffen Staab*
 
@@ -79,41 +79,76 @@ Authors: *Rosario Napoli, Gabriele Morabito, Antonio Celesti, Massimo Villari, a
 - Introduce Priors to network, analyze propagation network
 - Case study on COVID-spread in contact network with transitive networks - add transitive properties to network
 - Use PageRank as proxy measure of centrality
-- Look at change in embeddings - Q: movemement of individual embeddings, performance
+- Look at change in embeddings - Q: movement of individual embeddings, performance; A: no space in paper, next paper!
 
 
 ## Session 4: Recommendations & Social Graphs
 
-## Preference-aware Intent Fusion in Multi-Behavior Recommendation
-Authors:*Shuqing Sun, Peijie Sun, Ruijie Liu, and Dan Guo*
+Chair: *David Woollard*, Standard.ai
+
+### Preference-aware Intent Fusion in Multi-Behavior Recommendation
+Authors: *Shuqing Sun, Peijie Sun, Ruijie Liu, and Dan Guo*
+
+### ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features
+Authors: *Albert J.W. de Vink, Natalia Amat-Lefort, and Lifeng HAN*
+
+- Improve interpretability of review prediction models using KG embeddings
+- Compare to more costly LM methods 
+- Imbalanced class problem - Q: baseline of 60%? How good is random choice? $\rightarrow$ Probably also around 60 percent, i.e. what is the metric (weighted accuracy/$F_1$)? - have dummy option (random baseline)
+- Sampling approach matters for their scores - oversampling best here...
+- This is bachelor thesis, but still quite thorough
 
 
-## ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features
-Authors:*Albert J.W. de Vink, Natalia Amat-Lefort, and Lifeng HAN*
+## Session 5: Ontologies, Semantic & Interoperability
 
-## Leveraging Social Network and Multimodal Graphs for Micro-Video Popularity Prediction
-Authors:*Lilong Liu, Shangheng Chen, Shengsheng Qian, and Changsheng Xu*
+### Aligning Tag-based Building Operating Systems with RealEstateCore Ontology for Interoperability, Digital Twin Knowledge Graphs and Energy Management
+Authors: *Prerna Juhlin, Michael Kleefisch, Charles Steinmetz, Gösta Stomberg, Matthias Schlöder, Eike Fokken, and Philipp Bauer*
 
-## Contrastive Learning for Enhancing Model Selection in Sequential Recommender Ensemble
-Authors:*Ye Tao, Tianxing Wang, Zhangchi Qiu, Can Wang, and Alan Liew*
+- Renewable/Energy Savings for Building, local energy management integration into a tool
+- Moving from tag-based onto to formal class-based onto (openBOS+)
+- Used Azure Digital Twin Platform (Time series management on graphs)
 
+### Semantic and Structural Drift in Financial Knowledge Graphs: A Robustness Analysis of GNN-based Fraud Detectors
+Authors: *Rener S. de Menezes and Raimir H. Filho*
 
+- 
 
-## Session 7 — Data Mining & Applications
+## Session 8 — Time-Series & Anomaly Detection I
 
-Chair: Benedikt Kantz
+Chair: *Benedikt Kantz*
 
+### M-TSINR: Multiscale Implicit Neural Representations via Mamba Encoder for Time Series Anomaly Detection
+Authors: *Ke Liu, Mengxuan Li, Qianqian Shen, Yang Gao, and Haishuai Wang*
 
-## Lightweight Sentiment Analysis Compression Method Based on BERT
-Authors:*Zhongqian Zhang and Chunxiao Fan*
-## Label Informativeness-based Minority Oversampling in Graphs (LIMO)
-Authors:*Rishav Das, Sikta Mohanty, Rucha Joshi, and Subhankar Mishra*
-## A survey of repetitive sequential pattern mining
-Authors:*Yan Li, Mengyao He, Wenshuai Guo, Sijing Lu, and Youxi Wu*
-## Self-disentangling Domain-specific and Domain-agnostic Representations across Multiple Sources for Data-to-Text Generation
-Authors:*Mingxuan Du, Jingbo Zhou, Fuzhen Zhuang, and Yuhong Zhang*
-## A new methodology of a manifold decomposition via Iterative PCA for machine learning
-Authors:*Chetra Mang, Axel TahmasebiMoradi, and Mouadh YAGOUBI*
+- Q:
+	- Do you know the paper by Keogh (Time Series benchmarks are flawed), have you considered their UCR benchmark?
+	- Have you looked at multiple runs of your system (variability?) your results are really close to the other systems, why it might be interesting to evaluate that further?
+	- How explainable are your system?
+	- Comparison to simple baselines? -
+
+### Large Language Models for Anomalous Event Detection from Temporal Point Processes
+Authors: *Qinming Zhuang, Peng Zhang, and Hong Yang*
+- Q: 
+	- How does this method compare to the simpler Poisson/Hawke approaches? 
+	- You talk about efficiency - how fast is your LM approach compared to the simple approaches?
+
+### Adaptive-GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching and Temporal Decay
+Authors:*Ocheme Anthony Ekle and William Eberle*
+
+- Q:
+  - $\mathcal{O}(1)$ is claimed, but also in respect to nodes/timesteps considered?
+
+### A Novel Transfer Learning Approach for Detecting Unseen Anomalies
+Authors: *Khan Mohammad Al Farabi and Gagan Agrawal*
+
+- Q
+	- why are your scores almost perfect? - any intuition?
+
+### Survey: Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models
+Authors: *Junjun Pan, Yu Zheng, Yue Tan, and Yixin Liu*
+
+- Q
+	- Are there any advantages to the older methods? Can they still perform similarly to the newer methods if they are used in principled manners?
 
 
 ## Session 12: Causality, Queries & Explainability
@@ -121,11 +156,9 @@ Authors:*Chetra Mang, Axel TahmasebiMoradi, and Mouadh YAGOUBI*
 Chair: *Aris Leivadeas*
 
 
-## CausaMap: A Semi-supervised Map For Causal Text Mining
-Authors:*Sami Diaf*
-## On the Development of an Interactive Cause-Effect Learning System (CELS) for a Metal-Forming System Use Case
-Authors:*Josua Höfgen, Birgit Vogel-Heuser, Dominik Hujo-Lauer, Michael Lechner, and Marion Merklein*
-## Computational Fact-Checking of Online Discourse: Scoring Scientific Accuracy in Climate Change Related News Articles
-Authors:*Tim Wittenborg, Constantin Sebastian Tremel, Oliver Karras, and Sören Auer*
-## SS03: Graph Queries from Natural Language using Constrained Language Models and Visual Editing
-Authors:*Benedikt Kantz, Kevin Innerebner, Peter Waldert, Stefan Lengauer, Elisabeth Lex, and Tobias Schreck*
+### CausaMap: A Semi-supervised Map For Causal Text Mining
+Authors: *Sami Diaf*
+### On the Development of an Interactive Cause-Effect Learning System (CELS) for a Metal-Forming System Use Case
+Authors: *Josua Höfgen, Birgit Vogel-Heuser, Dominik Hujo-Lauer, Michael Lechner, and Marion Merklein*
+### Computational Fact-Checking of Online Discourse: Scoring Scientific Accuracy in Climate Change Related News Articles
+Authors: *Tim Wittenborg, Constantin Sebastian Tremel, Oliver Karras, and Sören Auer*
