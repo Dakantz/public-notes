@@ -1,7 +1,7 @@
 ---
 title: IEEEVIS 2025
 tags: conference
-date: 2025
+date: 2025-11-02
 ---
 # Workshshops
 ## alt.VIS (Sunday Morning)
@@ -226,7 +226,7 @@ Well-known viz browsers
 - <http://sealvis.org/> using anywidet
 ### A Critical Analysis of the Usage of Dimensionality Reduction in Four Domains
 - Survey of DR usage in domains
-### Interactive Visual Analysis of Spatial Sensitivities
+## Interactive Visual Analysis of Spatial Sensitivities
 ### RSVP for VPSA : A Meta Design Study on Rapid Suggestive Visualization Prototyping for Visual Parameter Space Analysis
 ## IEEE VIS Reviewing — On a Path to Self-Destruction?
 *Petra Isenberg, Gunther Weber, Narge Mahyar, Niklas Elmqvist, Han-Wei Shen, Michael Sedlmair, Melanie Tory, Helwig Hauser, Bei Wang, Tamara Munzner*
@@ -249,7 +249,7 @@ Well-known viz browsers
 - Character arcs …
 - Using LMs and correction loops, interactive explanations and provenance to the texts
 - Added a lot more fine-grained characters and themes compared to other methods
-### $`F^2`$Stories: A Modular Framework for Multi-Objective Optimization of Storylines with a Focus on Fairness
+### $F^2$ Stories: A Modular Framework for Multi-Objective Optimization of Storylines with a Focus on Fairness
 - Fairness in *Viz*?
 - Tradeoffs between global and local fairness (minorities)
 - Networks: MILP used instead of global layouting
@@ -295,7 +295,7 @@ Well-known viz browsers
 - Smoothest Maps: Algorithmically-Assisted Schematic Transit Map Design: A System and Algorithmic Core for Fast Layout Iteration
 - Longest Tentacles: Unveiling the Visual Rhetoric of Persuasive Cartography: A Case Study of the Design of Octopus Maps
 - Fastest Avalanche: Data-Driven Compute Overlays for Interactive Geographic Simulation and Visualization
-# Posters
+
 [^1]: <https://arxiv.org/pdf/2506.23092v1>
 [^2]: <https://arxiv.org/pdf/2012.11109>
 [^3]: <https://academic.oup.com/cybersecurity/article/1/1/93/2366512?login=false>

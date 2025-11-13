@@ -1,7 +1,7 @@
 ---
 title: CLEF 2025
 tags: conference
-date: 2025
+date: 2025-09-09
 ---
 # Introductions
 ## Keynote: Sameer Antani, AI for Medicine

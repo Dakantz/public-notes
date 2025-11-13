@@ -1,7 +1,7 @@
 ---
 title: ICASSP 2025
 tags: conference
-date: 2025
+date: 2025-04-06
 ---
 # Montag Vormittag
 ## Tutorial: Generative AI and Model Optimization
