@@ -1,9 +1,7 @@
-
-## Papers for the Session I chaired
-| Paper |
-|---|
-| [Adaptive-GraphSketch](papers/adaptive-graphsketch.pdf) |
-| [Large Language Models for Anomalous Event Detection from Temporal Point Processes](papers/llm-tpp.pdf) |
-| [M-TSINR: Multiscale Implicit Neural Representation](papers/m-tsinr.pdf) |
-| [A Survey of Generalization of Graph Anomaly Detection](papers/survey-gad.pdf) |
-| [A Novel Transfer Learning Approach for Detecting Unseen Anomalies](papers/transfer-learning-gad.pdf) |
+| File | Title | Author |
+|---|---|---|
+| [adaptive-graphsketch.pdf](papers/adaptive-graphsketch.pdf) |           Adaptive-GraphSketch |          Ocheme Anthony Ekle (Tennessee Technological University, USA), William Eberle (Tennessee Technological University, USA) |
+| [llm-tpp.pdf](papers/llm-tpp.pdf) |           Large Language Models for Anomalous Event Detection from Temporal Point Processes |          Qinming Zhuang (Guangzhou University, China), Peng Zhang (Guangzhou University, China), Hong Yang (Guangzhou University, China) |
+| [m-tsinr.pdf](papers/m-tsinr.pdf) |           M-TSINR |          Ke Liu (Zhejiang University, China), Mengxuan Li (Zhejiang University, China), Qianqian Shen (Zhejiang University, China), Yang Gao (Zhejiang University, China), Haishuai Wang (Zhejiang University, China) |
+| [survey-gad.pdf](papers/survey-gad.pdf) |           A Survey of Generalization of Graph Anomaly Detection |          Junjun Pan (Griffith University, Australia), Yu  Zheng (Griffith University, Australia), Yue  Tan (University of New South Wales, Australia), Yixin  Liu (Griffith University, Australia) |
+| [transfer-learning-gad.pdf](papers/transfer-learning-gad.pdf) |           A Novel Transfer Learning Approach for Detecting Unseen Anomalies |          Khan Mohammad Al Farabi (University of Georgia), Gagan Agrawal (University of Georgia) |
