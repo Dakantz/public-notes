@@ -59,6 +59,12 @@ Authors: *Dipak Meher, Carlotta Domeniconi, and Guadalupe Correa-Cabrera*
 ### Mind the Context: Enriching Knowledge Graphs with Rules and Mappings
 Authors: *Veronica Santos, Daniel de Oliveira, Daniel Schwabe, Edward Hermann Haeusler, Fernanda Baiao, and Sergio Lifschitz*
 
+
+### FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis
+Authors: *Marlena Flüh, Soo-Yon Kim, Carolin Victoria Schneider, and Sandra Geisler*
+
+- Graph generation of FAIR datasets with LM integration
+
 ## Session 3: Multimodal KG Completion & Understanding
 
 ### DMF-MH: Dual-stage Modality-aware Fusion for Modality Heterogeneity in Multimodal Knowledge Graph Completion
@@ -111,7 +117,8 @@ Authors: *Prerna Juhlin, Michael Kleefisch, Charles Steinmetz, Gösta Stomberg, 
 ### Semantic and Structural Drift in Financial Knowledge Graphs: A Robustness Analysis of GNN-based Fraud Detectors
 Authors: *Rener S. de Menezes and Raimir H. Filho*
 
-- 
+## Keynote 2: Changsheng Xu
+
 
 ## Session 8 — Time-Series & Anomaly Detection I
 
@@ -120,29 +127,34 @@ Chair: *Benedikt Kantz*
 ### M-TSINR: Multiscale Implicit Neural Representations via Mamba Encoder for Time Series Anomaly Detection
 Authors: *Ke Liu, Mengxuan Li, Qianqian Shen, Yang Gao, and Haishuai Wang*
 
+- 
+
 - Q:
-	- Do you know the paper by Keogh (Time Series benchmarks are flawed), have you considered their UCR benchmark?
-	- Have you looked at multiple runs of your system (variability?) your results are really close to the other systems, why it might be interesting to evaluate that further?
-	- How explainable are your system?
-	- Comparison to simple baselines? -
+	- Do you know the paper by Keogh (Time Series benchmarks are flawed), have you considered their UCR benchmark? x
+	- Have you looked at multiple runs of your system (variability?) your results are really close to the other systems, why it might be interesting to evaluate that further? - They averaged their results and took to the mean
 
 ### Large Language Models for Anomalous Event Detection from Temporal Point Processes
 Authors: *Qinming Zhuang, Peng Zhang, and Hong Yang*
 - Q: 
 	- How does this method compare to the simpler Poisson/Hawke approaches? 
 	- You talk about efficiency - how fast is your LM approach compared to the simple approaches?
+- Sadly no answer in session
 
 ### Adaptive-GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching and Temporal Decay
-Authors:*Ocheme Anthony Ekle and William Eberle*
+Authors: *Ocheme Anthony Ekle and William Eberle*
 
 - Q:
   - $\mathcal{O}(1)$ is claimed, but also in respect to nodes/timesteps considered?
+  - Why should one consider this system over AnoEdge-L as it seems to 10x more efficient?
+- Sadly no answer in session
 
 ### A Novel Transfer Learning Approach for Detecting Unseen Anomalies
 Authors: *Khan Mohammad Al Farabi and Gagan Agrawal*
 
 - Q
-	- why are your scores almost perfect? - any intuition?
+	- why are your scores almost perfect? - any intuition? 
+	- You use target domain data to relabel source data to label the source data, seems like test data leakage? - is this applicable to a real world dataset? (no, still weird results?)
+	- Do you plan to release a Github repository? (Repository not really working...)
 
 ### Survey: Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models
 Authors: *Junjun Pan, Yu Zheng, Yue Tan, and Yixin Liu*
@@ -151,6 +163,36 @@ Authors: *Junjun Pan, Yu Zheng, Yue Tan, and Yixin Liu*
 	- Are there any advantages to the older methods? Can they still perform similarly to the newer methods if they are used in principled manners?
 
 
+## Session 10 — Graph Systems, Benchmarks & Applications
+
+Chair: *Prerna Juhli*
+
+### KubeGraphBench: Benchmarking Graph Databases for Kubernetes Observability
+Authors: *Charles O’Brian, Tarek Zaarour, Ahmed Khalid, and Ahmed Zahran*
+
+- Benchmark dataset within DELL for observability of kubernetes
+- Custom ontology
+- Use KubeInsights/KWOK to simulate configuration and querying on a single machine for up to 1k nodes, 50 pods each
+- Memgraph for smaller graphs with a lot of reads, neo4j for bigger graphs, memgraph has a lower memory footprint, neo4j has a higher memory usage.
+- Did not look into indices
+- Q: "significantly" did p-test of results? (tip graph labeling) - did not do statistical testing!
+
+### Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models
+Authors: *Jradi Takoua, John Violos, Dimitrios Spatharakis, Lydia Mavraidi, Ioannis Dimolitsas, Aris Leivadeas, and Symeon Papavassiliou*
+
+- Extract intent from query, construct subgraph, and build graph from domain data
+- Domains:
+	- manufacturing,
+	- IoT,
+	- shipping
+
+### Memory-Efficient Information Filtering in Contrastive Learning for Temporal Knowledge Graph Reasoning
+Authors: *Eshani Fernando, Michael Adjeisah, Jian Chang, and Jian Jun Zhang*
+
+- Subsample graph to foster local-global analysis of Temporal KGs
+- select based on importance based on prior events + degree of node
+- Quite efficient, at little performance loss
+
 ## Session 12: Causality, Queries & Explainability
 
 Chair: *Aris Leivadeas*
@@ -158,7 +200,33 @@ Chair: *Aris Leivadeas*
 
 ### CausaMap: A Semi-supervised Map For Causal Text Mining
 Authors: *Sami Diaf*
+
+- *Steiner Trees*? 
+
 ### On the Development of an Interactive Cause-Effect Learning System (CELS) for a Metal-Forming System Use Case
 Authors: *Josua Höfgen, Birgit Vogel-Heuser, Dominik Hujo-Lauer, Michael Lechner, and Marion Merklein*
+
+- Metal forming KG integration for wear/product quality
+- Application: metal stamping/forming
+- Problem: unclear terms/vocabulary $\rightarrow$ inconsistencies
+	- starting point: excel list of 150 terms for terminology
+- All stakeholders get access to system
+- Cause-effect graph: two spectrums: computability (is the graph in some way computable?) / representation (from PPT to RDF/GraphDB data)
+- Key goal: interactive system for of cause-effect graph for all stakeholders!
+
+
 ### Computational Fact-Checking of Online Discourse: Scoring Scientific Accuracy in Climate Change Related News Articles
 Authors: *Tim Wittenborg, Constantin Sebastian Tremel, Oliver Karras, and Sören Auer*
+
+- Problem: IPCC produces a 1k pages long PDF, not in a structured format (but no existing KG!)
+- KG creation from IPCC not a problem, but getting claims from videos is a magnitude slower
+- Existing systems do not reuse/efficiency problems
+- Their contribution: 
+	- use secondary literature
+	- open-source pipeline to extract text, align them
+	- extend KG using good sources, verify statements over KG
+	- Expert interviews to improve system, gather feedback
+
+- independently of their work: ClimateKG; further work: integration
+
+
