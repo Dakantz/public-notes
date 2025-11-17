@@ -1,0 +1,382 @@
+[
+  {
+    "title":"BELT: Expert-in-the-Loop Validation of ML-Based Bruxism Detection",
+    "authors":" Gabriela Morgenshtern, Barbara Schlaepfer, Vera Colombo, & J\u00c3\u00bcrgen Bernard"
+  },
+  {
+    "title":"Toward Supporting Narrative-Driven Data Exploration: Barriers and Design Opportunities",
+    "authors":" Oliver Huang & Carolina Nobre"
+  },
+  {
+    "title":"Data Analysis Across Boundaries",
+    "authors":" Areeba Arif, Samah Daniyal, Zainab Haider, Mohammad R. Moeini-Feizabadi, & Syeda Saleha Raza"
+  },
+  {
+    "title":"Scaling Human-AI Quality Control in Semiconductor Manufacturing: A Dual-Legibility Visual Analytics Approach",
+    "authors":" Kuhyun Lee, Jihoon Hong, Beomseok Kim, Yuna Song Sungkyunkwan, & Dong-Hee Lee"
+  },
+  {
+    "title":"Summarizing Classed Region Maps with a Disk Choreme",
+    "authors":" Steven van den Broek, Wouter Meulemans, Andreas Reimer, & Bettina Speckmann"
+  },
+  {
+    "title":"Flirting Charts: Expressive Motion Design in Information Visualization Inspired by Animal Courtship Performances",
+    "authors":" Animal Courtship Performances\n"
+  },
+  {
+    "title":"Do Vision-Language Models See Visualizations Like Humans? Alignment in Chart Categorization",
+    "authors":" P\u00c3\u00a9ter Ferenc Gyarmati, Manfred Klaffenb\u00c3\u00b6ck, Laura K\u00c3\u00b6sten, & Torsten M\u00c3\u00b6ller"
+  },
+  {
+    "title":"Vox-Insight: Visualization Tool for Multimodal Medical Imaging Data",
+    "authors":" Chahat Kalsi & Ashwani Rathee"
+  },
+  {
+    "title":"The UK Co-Benefits Atlas: An Interactive Visualisation Atlas to Understand the Impacts of Achieving Climate Action Targets",
+    "authors":" Sian Phillips, Jinrui Wang, Alexis Pister, Ruaidhri Higgins-Lavery, Sarah Bissett, Clare Wharm"
+  },
+  {
+    "title":"Analyzing Camera Motion in Immersive Dome Movies using Optic Flow",
+    "authors":" Emma Broman, Karljohan Lundin Palmerius, Anders Ynnerman, & Alexander Bock"
+  },
+  {
+    "title":"From Data to Diagram: Learning Chart Types Through Interactive Instructional Comics",
+    "authors":" Magdalena Boucher, Julia B\u00c3\u00b6ck, Christina Stoiber, & Wolfgang Aigner"
+  },
+  {
+    "title":"A WebXR Client for Exploring Industrial Physical Simulations using Augmented Reality and Hand Gestures",
+    "authors":" Oliver Mattausch, Philipp Muigg, Wolfgang Freiler, Timo Oster, Helmut Doleisch, & Eduard Deines"
+  },
+  {
+    "title":"VISMOCK: A Programmable Smocking Technique for Creating Interactive Data Physicalization",
+    "authors":" Bahare Bakhtiari, Charles Perin, & Sowmya Somanath"
+  },
+  {
+    "title":"Physically encoding data with material flexibility",
+    "authors":" Bahare Bakhtiari, Eric Huber, Sowmya Somanath, & Charles Perin"
+  },
+  {
+    "title":"What Makes Data Visualizations Difficult to Understand? Not Their Dimensionality, Evidence Shows.",
+    "authors":" Gianna-Carina Gr\u00c3\u00bcn, Christina Elmer, & Marian D\u00c3\u00b6rk"
+  },
+  {
+    "title":"A Kaleidoscopic View of Artist Co-Exhibition Networks",
+    "authors":" Michaela Tuscher, Luca Rauchenberger, Teresa Kamencek, Raphael Rosenberg, Silvia Miksch, & Velitchko Andreev Filipov"
+  },
+  {
+    "title":"NL4DV-Stylist: Styling Data Visualizations Using Natural Language and Example Charts",
+    "authors":" Tenghao Ji & Arpit Narechania"
+  },
+  {
+    "title":"Diffusion Explorer: Interactive Exploration of Diffusion Models",
+    "authors":" Alec Helbling & Duen Horng (Polo) Chau"
+  },
+  {
+    "title":"Symetra: Visual Analytics for Tuning Symbolic Execution Engines",
+    "authors":" Donghee Hong, Minjong Kim, Sooyoung Cha, & Jaemin Jo"
+  },
+  {
+    "title":"Embedded and Situated Visualisation in Mixed Reality to Support Interval Running - A Research Highlight",
+    "authors":" Ang Li, Charles Perin, Jarrod Knibbe, Stephen Viller, Gianluca Demartini, & Maxime Cordeil"
+  },
+  {
+    "title":"Virtual Reality Lensing for Surface Approximation in Feature-driven DVR",
+    "authors":" Roberta Mota, Ehud Sharlin, & Usman Alim"
+  },
+  {
+    "title":"Understanding Wind Dynamics in VR: Visual Analytics for Terrain and Architecture",
+    "authors":" Marzan Tasnim Oyshi, Danny Schober, Mario Henze, & Stefan Gumhold"
+  },
+  {
+    "title":"Exploring Touch Interactions for Input Visualization in Personal Informatics",
+    "authors":" June Bhartia, Nathalie Bressa, & Samuel Huron"
+  },
+  {
+    "title":"Sketching for Insight: Trajectory Retrieval in VR with Flotation Data",
+    "authors":" Franziska Kahlert, Benedikt Tiedemann, Jochen Fr\u00c3\u00b6hlich, & Stefan Gumhold"
+  },
+  {
+    "title":"Visual Complexity of Point Set Mappings",
+    "authors":" Wouter Meulemans, Arjen Simons, & Kevin Verbeek"
+  },
+  {
+    "title":"Decoupling Data and Tooling in Interactive Visualization",
+    "authors":" Jan Simson"
+  },
+  {
+    "title":"Progressive Visual Analytics for EEG Artifact Detection",
+    "authors":" Peichen Liu, Kaare Mikkelsen, & Hans-J\u00c3\u00b6rg Schulz"
+  },
+  {
+    "title":"Cities, Cards, and Conversations: The UDV Card Deck in Action",
+    "authors":" Damla \u00c3\u0087ay, Till Nagel, & Sebastian Meier"
+  },
+  {
+    "title":"Uncertainty Visualization in Data Journalism: A Pilot Study on Election Polls in a DER SPIEGEL Online Article",
+    "authors":" Carmen Garro & Christoph Kinkeldey"
+  },
+  {
+    "title":"Charting Scenarios: A Framework for Uncertainty Visualization in Data Journalism Practice",
+    "authors":" Benjamin Possin & Christoph Kinkeldey"
+  },
+  {
+    "title":"Visualizing Multivariate Time Series Data in a Biological Input\/Output System",
+    "authors":" Julia Husar, Jing Yang, & Kyoung-Hee Kim"
+  },
+  {
+    "title":"Interactive Exploration of Subsets in Projections through Radial Attribute Fingerprints",
+    "authors":" Michael Blum, Nicolas Peter, & J\u00c3\u00bcrgen Bernard"
+  },
+  {
+    "title":"Using 2D deep neural networks to segment and visualize 3D features  in scientific simulations",
+    "authors":" Weiping Hua, Sedat Ozer, Karen Bemis, Zihan Liu, & Deborah Silver"
+  },
+  {
+    "title":"Vis-FAB: Visual Analytics Framework for Wafer Failure Analysis in Multistage Fabrication Process",
+    "authors":" Sugyeong Lee & Dong-Hee Lee"
+  },
+  {
+    "title":"Designing a Glyph-Based Hierarchical Visualization for Orders of Magnitude Values",
+    "authors":" Katerina Batziakoudi, Ambre Assor, Christophe Bortolaso, & Jean-Daniel Fekete"
+  },
+  {
+    "title":"Correlation Visualization for Multivariate Volumes with Continuous Indexed Points",
+    "authors":" Liang Zhou, Xinyi Gou, & Daniel Weiskopf"
+  },
+  {
+    "title":"Dissecting Atomic Facts: Visual Analytics for Improving Fact Annotations in Language Model Evaluation",
+    "authors":" Manuel Schmidt, Daniel A. Keim, & Frederik L. Dennig"
+  },
+  {
+    "title":"Visualization Building Blocks & Scenarios: A Card Game-Based Learning Framework for the InfoVis Design Space",
+    "authors":" Thorsten May, Lena Cibulski, Peter Musaeus, & Hans-J\u00c3\u00b6rg Schulz"
+  },
+  {
+    "title":"CodeSkyline: A Juxtaposed Visual Analytics Code-Map Embedded in a Code Editor",
+    "authors":" Steven Lamarr & J\u00c3\u00b6rn Kohlhammer"
+  },
+  {
+    "title":"VisConflicts: Visualizing Conflicts of Interest in Conference Reviewing",
+    "authors":" Natkamon Tovanich, Teppakorn Thanuthanad, Sandhya Rajendran, Velitchko Andreev Filipov, Silvia Miksch, & Petra Isenberg"
+  },
+  {
+    "title":"Interactive Strategy Building for Net Zero: A Visual Analytics Approach to Local Decarbonisation",
+    "authors":" Dany Laksono, Radu Jianu, & Aidan Slings"
+  },
+  {
+    "title":"Visual Analytics of Nonverbal Behavior to Evaluate Collaborative Group Engagement",
+    "authors":" Matus Gasparik, Carolin Bronowicz, & Susanne Bleisch"
+  },
+  {
+    "title":"Towards Increased Patient Engagement through Visual Support for Qualitative Questionnaire Completion and Summarization",
+    "authors":" Lucie David, Noeska Natasja Smit, & Kai Lawonn"
+  },
+  {
+    "title":"Extending Voronoi Treemap-Based Text Visualization to Non-Convex Regions",
+    "authors":" Naoya Oda & Yosuke Onoue"
+  },
+  {
+    "title":"SkyBrowser: In-situ dissemination of high-resolution deep-space images",
+    "authors":" Ylva Selling, Ester Lindgren, Anders Ynnerman, & Alexander Bock"
+  },
+  {
+    "title":"TS-Insight: Visual Fingerprinting of Multi-Armed Bandits",
+    "authors":" Parsa Vares, Eloi Durant, Jun Pang, Nicolas M\u00c3\u00a9doc, & Mohammad Ghoniem"
+  },
+  {
+    "title":"Two Sides of the Same Cube: Towards Immersive Dynamic Visualization of Migration Flows",
+    "authors":" Gabriel Walchhofer, Marian Bramberger, & Daniel Pahr"
+  },
+  {
+    "title":"How Journalists Make Maps",
+    "authors":" Lilou Lagrede, Christophe Hurter, & Thomas Hurtut"
+  },
+  {
+    "title":"Accelerated Volumetric Compression without Hierarchies: A Fourier  Feature Based Implicit Neural Representation Approach",
+    "authors":" Leona Zurkova, Petr Strakos, Michal Kravcenko, Tomas Brzobohaty, & Lubomir Riha"
+  },
+  {
+    "title":"Nexus: Interactive Visual Exploration of 3D Spatial Connectivity for Tissue Analysis",
+    "authors":" Eric M\u00c3\u00b6rth, Benjamin Beinder, Renata Georgia Raidou, & Nils Gehlenborg"
+  },
+  {
+    "title":"Designing CanoeView: A Canoe-Based Interactive Learning Experience for Planetarium Classrooms",
+    "authors":" Aarush Bothra, Sean J. Dorr, Bridger Herman, Sarah Weaver, James Rock, & Daniel F. Keefe"
+  },
+  {
+    "title":"Visualizing Peace Transitions: Interactive Visualizations to Support Innovation and Adaptive Management in Peace Processes",
+    "authors":" Tomas Vancisin, Jinrui Wang, Niamh Henry, Sarah Sch\u00c3\u00b6ttler, Lucy Havens, Tobias Kauer, Christine Bell, Sanja Badanjak, & Benjamin Bach"
+  },
+  {
+    "title":"Mind the Gaps: Measuring Visual Artifacts in Dimensionality Reduction",
+    "authors":" Jaume Ros, Alessio Arleo, & Fernando V Paulovich"
+  },
+  {
+    "title":"Dashboards for Davis",
+    "authors":" Doron Goldfarb & Florian Gruber"
+  },
+  {
+    "title":"ChartJunkGPT: Can GPT-4.1 Interpret Visually Embellished Charts?",
+    "authors":" Alexander Bendeck & John Stasko"
+  },
+  {
+    "title":"Explanatory Visualization with LLMs for Employment Law",
+    "authors":" Glory Ogbonda, Sarah Nason, Jonathan C. Roberts, & Peter W. S. Butcher"
+  },
+  {
+    "title":"Artistic Inspiration for Uncertainty Visualization Techniques",
+    "authors":" Michelle A. Borkin"
+  },
+  {
+    "title":"ThreadWave: Visualizing Co-authorship as Temporal Threads",
+    "authors":" Ruishan Wu, Zezhong Wang, Charles Perin, & Sheelagh Carpendale"
+  },
+  {
+    "title":"Noticing as Visualization Practice: Discovering Data in the Everyday",
+    "authors":" Foroozan Daneshzand, Charles Perin, & Sheelagh Carpendale"
+  },
+  {
+    "title":"Workshopping XGeoAI Visualisation Opportunities for Renewable Energy Planning and Forecasting",
+    "authors":" Merry Kim, Franceso Bizzarri, Bruno Luis Mendivez Vasquez, Tim Dwyer, & Sarah Goodwin"
+  },
+  {
+    "title":"Visualization on Smart Wristbands: Results from an In-situ Design Workshop with Four Scenarios",
+    "authors":" Alaul Islam, Fairouz Grioui, Raimund Dachselt, & Petra Isenberg"
+  },
+  {
+    "title":"Exploring the Feasibility of a Participatory Data Physicalization of CO\u00e2\u0082\u0082e Emissions for Dietary Choices in Collective Catering Settings",
+    "authors":" Eugenie Brasier, Yvonne Jansen, Pierre Dragicevic, & Martin Hachet"
+  },
+  {
+    "title":"SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation",
+    "authors":" Vahid Pooryousef, Himashi Peiris, Huiyi Liang, Ang Li, Zhaolin Chen, Tim Dwyer, & Jiazhou Liu"
+  },
+  {
+    "title":"FERAViz: A Visualization Tool for Robotic Program Interpretation for Future Reuse",
+    "authors":" Yoganata Kristanto, Miguel Campusano, & Mina Alipour"
+  },
+  {
+    "title":"t-SNE is Sensitive to Initialization Size (but UMAP is Not)",
+    "authors":" Jacob Miller, Kaviru K. Gunaratne, & Stephen Kobourov"
+  },
+  {
+    "title":"Human-Centred Information Visualisation for Improved Situational Awareness and Critical Decision Making in Energy Control Rooms",
+    "authors":" Yidan Zhang & Sarah Goodwin"
+  },
+  {
+    "title":"Navigating the Zoo of Visualization Techniques",
+    "authors":" Abdulhaq Adetunji Salako & Christian Tominski"
+  },
+  {
+    "title":"An Authoring Tool for Pictorial Unit Visualization",
+    "authors":" Xinghui Fu, Zhenyu Wang, Yanhui Guo, Pu Wang, Zhida Sun, Yu Zhang, Guozheng Li, Bongshin Lee, & Min Lu"
+  },
+  {
+    "title":"TruSiA: Trustworthy and Situated Agent-Based Human\u00e2\u0080\u0093Swarm Interaction",
+    "authors":" Bohan Shen, Le Liu, Peng Wang, & Yanning Zhang"
+  },
+  {
+    "title":"Augmented Reality-based Data Storytelling for Citizen Participation in Urban Planning",
+    "authors":" Leni Yang & Loann Giovannangeli"
+  },
+  {
+    "title":"Robust Computation of Reeb Spaces for Multivariate Visualisation",
+    "authors":" Petar Hristov, Daisuke Sakurai, Hamish Carr, Ingrid Hotz, & Talha Bin Masood"
+  },
+  {
+    "title":"Identifying Validator Alliances by Voting Similarity in PoS Blockchain Governance via Visual Analytics System",
+    "authors":" Voting Similarity in PoS Blockchain Governance via Visual Analytics System\n"
+  },
+  {
+    "title":"The Felt-Kit An example of an input physicalization for mental wellbeing",
+    "authors":" Maria Teresa Ortoleva, Rita Borgo, & Alfie Abdul-Rahman"
+  },
+  {
+    "title":"Explaining Model Predictions When Users Aren\u00e2\u0080\u0099t Sure: XAI for scRNA-seq Cell-Type Classification",
+    "authors":" Josh Shell"
+  },
+  {
+    "title":"What is the Agent Doing? Visualizing Agentic AI Querying Workflows",
+    "authors":" Steven Gomez"
+  },
+  {
+    "title":"Human-Recognition of LLM-Guided, Emotion-Driven Volume Renderings",
+    "authors":" Maximilian Nikolaus Jellen"
+  },
+  {
+    "title":"AI-Powered ParaView for NIST: Enabling Accessible Scientific Visualization",
+    "authors":" Simon Su"
+  },
+  {
+    "title":"An Agentic Drawer-Advisor for Content-Aligned Visualization",
+    "authors":" Chunggi Lee"
+  },
+  {
+    "title":"Integrating Natural Language Interfaces into Data Visualizations with Trustworthiness Scores",
+    "authors":" Willy Scheibel"
+  },
+  {
+    "title":"Now You See Me: Using Generative AI to Drive Engagement with Data Visualizations",
+    "authors":" Avner Kantor"
+  },
+  {
+    "title":"Exposing LLM-Mediated Data Analysis: Early Visualization Designs",
+    "authors":" Radu Jianu"
+  },
+  {
+    "title":"How Well Do MLLMs Judge Network Visualizations? Local vs. Global Properties",
+    "authors":" Markus Wallinger"
+  },
+  {
+    "title":"LangLasso: Interactive Cluster Descriptions through LLM Explanation",
+    "authors":" Raphael Buchmuller"
+  },
+  {
+    "title":"TADDR: Towards Agentic Data Driven Reports",
+    "authors":" Kishan Bharadwaj Shridhar"
+  },
+  {
+    "title":"BioSET - Biomarker-based Spatial co-Expression analysis in Tumor environments",
+    "authors":" Chahat Kalsi"
+  },
+  {
+    "title":"t-SNE based Transfer Functions for Multi-attribute Volume Rendering",
+    "authors":" Ravi Snellenberg"
+  },
+  {
+    "title":"MRSight: Ratio-Weighted Complete and Visibility Graphs for MRS Data Visualization and Assessment",
+    "authors":" Ahmed Adil Elhussein"
+  },
+  {
+    "title":"GPU-Based Collocation Visualization of Immune Niches in 3D Cyclic Immunofluorescence Images",
+    "authors":" Uro\u00c5\u00a1 \u00c5\u00a0majdek"
+  },
+  {
+    "title":"Aludrill: Visual Analytics for ExploringScrap-Based Aluminium Alloy Simulations with Drilldown",
+    "authors":" David H\u00c3\u00a4gele"
+  },
+  {
+    "title":"AlloyInter: Visualising Alloy Mixture Interpolations in t-SNE Representations",
+    "authors":" Benedikt Kantz"
+  },
+  {
+    "title":"PCAlloy: An Interactive Visualization Tool for Uncovering Relationships between Alloy Properties and Sustainability Metrics",
+    "authors":" Tommy Dang"
+  },
+  {
+    "title":"AlloyClusterVis: An Interactive Visualization Platform for Sustainable Aluminum Alloy Discovery",
+    "authors":" Tommy Dang"
+  },
+  {
+    "title":"Scrap Metal Explorer: Visual Exploration of Material Science Simulation Data",
+    "authors":" Tobias Maximilian & Andreas Nickel"
+  },
+  {
+    "title":"A Comprehensive Visualization Tool for Sustainable Materials Science: Unveiling Advanced Metals Composed of Recycled Aluminum Alloys",
+    "authors":" Lars Linsen"
+  },
+  {
+    "title":"AlloyLens: Visual Alloy Design with Scatterplot Matrices",
+    "authors":" Suyang Li"
+  }
+]
