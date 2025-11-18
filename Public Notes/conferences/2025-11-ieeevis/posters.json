@@ -1,382 +1,352 @@
 [
   {
-    "title":"BELT: Expert-in-the-Loop Validation of ML-Based Bruxism Detection",
-    "authors":" Gabriela Morgenshtern, Barbara Schlaepfer, Vera Colombo, & J\u00c3\u00bcrgen Bernard"
+    "title":" BELT: Expert-in-the-Loop Validation of ML-Based Bruxism Detection ",
+    "authors":"Gabriela Morgenshtern ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_c4d2ce90-63c6-4d3b-bf41-6612a2a07de4.html"
   },
   {
-    "title":"Toward Supporting Narrative-Driven Data Exploration: Barriers and Design Opportunities",
-    "authors":" Oliver Huang & Carolina Nobre"
+    "title":" Data Analysis Across Boundaries ",
+    "authors":"eeba Arif, Samah Daniyal ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_e0ca1f13-60a7-457e-abb0-f4b8a5ea69b5.html"
   },
   {
-    "title":"Data Analysis Across Boundaries",
-    "authors":" Areeba Arif, Samah Daniyal, Zainab Haider, Mohammad R. Moeini-Feizabadi, & Syeda Saleha Raza"
+    "title":" Decoupling Data and Tooling in Interactive Visualization ",
+    "authors":"Jan Simson ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_2d196b69-eab9-445d-bd40-48d0bd01c3ae.html"
   },
   {
-    "title":"Scaling Human-AI Quality Control in Semiconductor Manufacturing: A Dual-Legibility Visual Analytics Approach",
-    "authors":" Kuhyun Lee, Jihoon Hong, Beomseok Kim, Yuna Song Sungkyunkwan, & Dong-Hee Lee"
+    "title":" Visualizing Peace Transitions: Interactive Visualizations to Support Innovation and Adaptive Management in Peace Processes ",
+    "authors":"Jinrui Wang, Tomas Vancisin ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_c49e58b7-66d3-409a-b833-0b33baf4c1be.html"
   },
   {
-    "title":"Summarizing Classed Region Maps with a Disk Choreme",
-    "authors":" Steven van den Broek, Wouter Meulemans, Andreas Reimer, & Bettina Speckmann"
+    "title":" CodeSkyline: A Juxtaposed Visual Analytics Code-Map Embedded in a Code Editor ",
+    "authors":"Steven Lamarr Reynolds ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_85953397-7c44-4163-8690-fad198774824.html"
   },
   {
-    "title":"Flirting Charts: Expressive Motion Design in Information Visualization Inspired by Animal Courtship Performances",
-    "authors":" Animal Courtship Performances\n"
+    "title":" Explanatory Visualization with LLMs for Employment Law ",
+    "authors":"Ebube Glory Ogbonda ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_1decd9ea-433c-46d2-b239-b89f4563c784.html"
   },
   {
-    "title":"Do Vision-Language Models See Visualizations Like Humans? Alignment in Chart Categorization",
-    "authors":" P\u00c3\u00a9ter Ferenc Gyarmati, Manfred Klaffenb\u00c3\u00b6ck, Laura K\u00c3\u00b6sten, & Torsten M\u00c3\u00b6ller"
+    "title":" Vox-Insight: Visualization Tool for Multimodal Medical Imaging Data ",
+    "authors":"Chahat Kalsi, Ashwani Rathee ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_2aa68f33-8f3b-46ff-ba34-341f55ef124e.html"
   },
   {
-    "title":"Vox-Insight: Visualization Tool for Multimodal Medical Imaging Data",
-    "authors":" Chahat Kalsi & Ashwani Rathee"
+    "title":" A WebXR Client for Exploring Industrial Physical Simulations using Augmented Reality and Hand Gestures ",
+    "authors":"Oliver Mattausch ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_94153e0b-2a8f-4adb-82ec-7521a7e332c1.html"
   },
   {
-    "title":"The UK Co-Benefits Atlas: An Interactive Visualisation Atlas to Understand the Impacts of Achieving Climate Action Targets",
-    "authors":" Sian Phillips, Jinrui Wang, Alexis Pister, Ruaidhri Higgins-Lavery, Sarah Bissett, Clare Wharm"
+    "title":" Physically encoding data with material flexibility ",
+    "authors":"Bahare Bakhtiari ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_3d0b95d5-c70b-4394-acad-27c5eab7ba3a.html"
   },
   {
-    "title":"Analyzing Camera Motion in Immersive Dome Movies using Optic Flow",
-    "authors":" Emma Broman, Karljohan Lundin Palmerius, Anders Ynnerman, & Alexander Bock"
+    "title":" NL4DV-Stylist: Styling Data Visualizations Using Natural Language and Example Charts ",
+    "authors":"pit Narechania ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_b2b9e201-ac4e-44c0-b04b-62314d43e336.html"
   },
   {
-    "title":"From Data to Diagram: Learning Chart Types Through Interactive Instructional Comics",
-    "authors":" Magdalena Boucher, Julia B\u00c3\u00b6ck, Christina Stoiber, & Wolfgang Aigner"
+    "title":" Embedded and Situated Visualisation in Mixed Reality to Support Interval Running --- A Research Highlight ",
+    "authors":"ng Li ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_f5fa9562-329b-4b80-8e01-53a67e550213.html"
   },
   {
-    "title":"A WebXR Client for Exploring Industrial Physical Simulations using Augmented Reality and Hand Gestures",
-    "authors":" Oliver Mattausch, Philipp Muigg, Wolfgang Freiler, Timo Oster, Helmut Doleisch, & Eduard Deines"
+    "title":" Understanding Wind Dynamics in VR: Visual Analytics for Terrain and Architecture ",
+    "authors":"Marzan Tasnim Oyshi ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_d309cec5-9af1-4f42-924d-b89192289bec.html"
   },
   {
-    "title":"VISMOCK: A Programmable Smocking Technique for Creating Interactive Data Physicalization",
-    "authors":" Bahare Bakhtiari, Charles Perin, & Sowmya Somanath"
+    "title":" Visual Complexity of Point Set Mappings ",
+    "authors":"jen Simons ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_14bd72ee-acab-472c-9ee1-5e2710730112.html"
   },
   {
-    "title":"Physically encoding data with material flexibility",
-    "authors":" Bahare Bakhtiari, Eric Huber, Sowmya Somanath, & Charles Perin"
+    "title":" Progressive Visual Analytics for EEG Artifact Detection ",
+    "authors":"Peichen Liu ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_25217046-edc4-472f-9a17-9fa05e60c0b1.html"
   },
   {
-    "title":"What Makes Data Visualizations Difficult to Understand? Not Their Dimensionality, Evidence Shows.",
-    "authors":" Gianna-Carina Gr\u00c3\u00bcn, Christina Elmer, & Marian D\u00c3\u00b6rk"
+    "title":" Using 2D deep neural networks to segment and visualize 3D features in scientific simulations ",
+    "authors":"Weiping Hua ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_e9571e72-f90d-47f4-ad5b-5c4950e90bd9.html"
   },
   {
-    "title":"A Kaleidoscopic View of Artist Co-Exhibition Networks",
-    "authors":" Michaela Tuscher, Luca Rauchenberger, Teresa Kamencek, Raphael Rosenberg, Silvia Miksch, & Velitchko Andreev Filipov"
+    "title":" Vis-FAB: Visual Analytics Framework for Wafer Failure Analysis in Multistage Fabrication Process ",
+    "authors":"Sugyeong Lee ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_3b78f3c8-fb8e-4bbf-aa4f-fa49c3c65dd1.html"
   },
   {
-    "title":"NL4DV-Stylist: Styling Data Visualizations Using Natural Language and Example Charts",
-    "authors":" Tenghao Ji & Arpit Narechania"
+    "title":" Designing a Glyph-Based Hierarchical Visualization for Orders of Magnitude Values ",
+    "authors":"Katerina Batziakoudi ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_7f73386f-dd35-4d24-9a27-eec73b5e8216.html"
   },
   {
-    "title":"Diffusion Explorer: Interactive Exploration of Diffusion Models",
-    "authors":" Alec Helbling & Duen Horng (Polo) Chau"
+    "title":" Visualization Building Blocks & Scenarios: A Card Game-Based Learning Framework for the InfoVis Design Space ",
+    "authors":"Thorsten May ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_eb5f9748-2cfe-4bd5-a320-6191023cc617.html"
   },
   {
-    "title":"Symetra: Visual Analytics for Tuning Symbolic Execution Engines",
-    "authors":" Donghee Hong, Minjong Kim, Sooyoung Cha, & Jaemin Jo"
+    "title":" Towards Increased Patient Engagement through Visual Support for Qualitative Questionnaire Completion and Summarization ",
+    "authors":"Lucie David ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_fcb0e8f7-af71-463f-9dc5-bb78c705cdce.html"
   },
   {
-    "title":"Embedded and Situated Visualisation in Mixed Reality to Support Interval Running - A Research Highlight",
-    "authors":" Ang Li, Charles Perin, Jarrod Knibbe, Stephen Viller, Gianluca Demartini, & Maxime Cordeil"
+    "title":" Extending Voronoi Treemap-Based Text Visualization to Non-Convex Regions ",
+    "authors":"Naoya Oda ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_b29e9869-6974-4b42-97fb-d04e259d143c.html"
   },
   {
-    "title":"Virtual Reality Lensing for Surface Approximation in Feature-driven DVR",
-    "authors":" Roberta Mota, Ehud Sharlin, & Usman Alim"
+    "title":" SkyBrowser: In-situ dissemination of high-resolution deep-space images ",
+    "authors":"Ylva Selling ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_1e4e010c-7fc7-42da-b88d-229bf4cfcf71.html"
   },
   {
-    "title":"Understanding Wind Dynamics in VR: Visual Analytics for Terrain and Architecture",
-    "authors":" Marzan Tasnim Oyshi, Danny Schober, Mario Henze, & Stefan Gumhold"
+    "title":" How Journalists Make Maps ",
+    "authors":"Lilou Lagrede Drai ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_488bcc32-98d0-49bc-8c0b-28a02da31791.html"
   },
   {
-    "title":"Exploring Touch Interactions for Input Visualization in Personal Informatics",
-    "authors":" June Bhartia, Nathalie Bressa, & Samuel Huron"
+    "title":" Nexus: Interactive Visual Exploration of 3D Spatial Connectivity for Tissue Analysis ",
+    "authors":"Eric M\u00c3\u00b6rth ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_0f40608b-12d1-4673-87ec-8ed545a11bc7.html"
   },
   {
-    "title":"Sketching for Insight: Trajectory Retrieval in VR with Flotation Data",
-    "authors":" Franziska Kahlert, Benedikt Tiedemann, Jochen Fr\u00c3\u00b6hlich, & Stefan Gumhold"
+    "title":" Mind the Gaps: Measuring Visual Artifacts in Dimensionality Reduction ",
+    "authors":"Jaume Ros ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_9bae5710-1e85-4096-ba63-b0b4267371df.html"
   },
   {
-    "title":"Visual Complexity of Point Set Mappings",
-    "authors":" Wouter Meulemans, Arjen Simons, & Kevin Verbeek"
+    "title":" ChartJunkGPT: Can GPT-4.1 Interpret Visually Embellished Charts? ",
+    "authors":"lexander Bendeck ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_19c3e91f-ce08-47e6-b4f4-1c8bb8f40cab.html"
   },
   {
-    "title":"Decoupling Data and Tooling in Interactive Visualization",
-    "authors":" Jan Simson"
+    "title":" Workshopping XGeoAI Visualisation Opportunities for Renewable Energy Planning and Forecasting ",
+    "authors":"Tim Dwyer, Merry Hoang ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_3d40ab3c-7452-4775-955e-9d72b2e0db1d.html"
   },
   {
-    "title":"Progressive Visual Analytics for EEG Artifact Detection",
-    "authors":" Peichen Liu, Kaare Mikkelsen, & Hans-J\u00c3\u00b6rg Schulz"
+    "title":" Visualization on Smart Wristbands: Results from an In-situ Design Workshop with Four Scenarios ",
+    "authors":"Fairouz Grioui, Alaul Islam ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_16a24093-6c74-4b07-a467-f33e0e1b3376.html"
   },
   {
-    "title":"Cities, Cards, and Conversations: The UDV Card Deck in Action",
-    "authors":" Damla \u00c3\u0087ay, Till Nagel, & Sebastian Meier"
+    "title":" Exploring the Feasibility of a Participatory Data Physicalization of CO\u00e2\u0082\u0082e Emissions for Dietary Choices in Collective Catering Settings ",
+    "authors":"Eugenie Brasier ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_f6153553-142a-4b25-af0c-0b3511a18b85.html"
   },
   {
-    "title":"Uncertainty Visualization in Data Journalism: A Pilot Study on Election Polls in a DER SPIEGEL Online Article",
-    "authors":" Carmen Garro & Christoph Kinkeldey"
+    "title":" SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation ",
+    "authors":"Jiazhou Liu, Vahid Pooryousef ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_2d5cd4ad-6578-47b9-8453-1049cc226ff4.html"
   },
   {
-    "title":"Charting Scenarios: A Framework for Uncertainty Visualization in Data Journalism Practice",
-    "authors":" Benjamin Possin & Christoph Kinkeldey"
+    "title":" FERAViz: A Visualization Tool for Robotic Program Interpretation for Future Reuse ",
+    "authors":"Yoganata Kristanto ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_7e935c88-59cf-4b3c-ac49-215080eb29df.html"
   },
   {
-    "title":"Visualizing Multivariate Time Series Data in a Biological Input\/Output System",
-    "authors":" Julia Husar, Jing Yang, & Kyoung-Hee Kim"
+    "title":" t-SNE is Sensitive to Initialization Size (but UMAP is Not) ",
+    "authors":"Jacob Miller ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_1255d463-ed95-438d-a854-f86663e7a488.html"
   },
   {
-    "title":"Interactive Exploration of Subsets in Projections through Radial Attribute Fingerprints",
-    "authors":" Michael Blum, Nicolas Peter, & J\u00c3\u00bcrgen Bernard"
+    "title":" Navigating the Zoo of Visualization Techniques ",
+    "authors":"bdulhaq Adetunji Salako ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_5cd8fd81-c40e-4ac6-ab32-1141d818c2b7.html"
   },
   {
-    "title":"Using 2D deep neural networks to segment and visualize 3D features  in scientific simulations",
-    "authors":" Weiping Hua, Sedat Ozer, Karen Bemis, Zihan Liu, & Deborah Silver"
+    "title":" TruSiA: Trustworthy and Situated Agent-Based Human\u00e2\u0080\u0093Swarm Interaction ",
+    "authors":"Bohan Shen, Le Liu ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_85edc5c1-352e-4a80-9094-750ed4be7a2e.html"
   },
   {
-    "title":"Vis-FAB: Visual Analytics Framework for Wafer Failure Analysis in Multistage Fabrication Process",
-    "authors":" Sugyeong Lee & Dong-Hee Lee"
+    "title":" Augmented Reality-based Data Storytelling for Citizen Participation in Urban Planning ",
+    "authors":"Leni Yang ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_251063e5-7f20-41b5-af14-c68722d51937.html"
   },
   {
-    "title":"Designing a Glyph-Based Hierarchical Visualization for Orders of Magnitude Values",
-    "authors":" Katerina Batziakoudi, Ambre Assor, Christophe Bortolaso, & Jean-Daniel Fekete"
+    "title":" Summarizing Classed Region Maps with a Disk Choreme ",
+    "authors":"Steven van den Broek ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_0379f3fd-4b05-4214-a5a9-1f6ab8b9ce88.html"
   },
   {
-    "title":"Correlation Visualization for Multivariate Volumes with Continuous Indexed Points",
-    "authors":" Liang Zhou, Xinyi Gou, & Daniel Weiskopf"
+    "title":" Scaling Human-AI Quality Control in Semiconductor Manufacturing: A Dual-Legibility Visual Analytics Approach ",
+    "authors":"Kuhyun Lee ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_290a9a8f-4b06-468b-9781-da8a26af0ba3.html"
   },
   {
-    "title":"Dissecting Atomic Facts: Visual Analytics for Improving Fact Annotations in Language Model Evaluation",
-    "authors":" Manuel Schmidt, Daniel A. Keim, & Frederik L. Dennig"
+    "title":" Toward Supporting Narrative-Driven Data Exploration: Barriers and Design Opportunities ",
+    "authors":"Oliver Huang ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_a9a25477-fd12-4d28-b146-5353ebf7124f.html"
   },
   {
-    "title":"Visualization Building Blocks & Scenarios: A Card Game-Based Learning Framework for the InfoVis Design Space",
-    "authors":" Thorsten May, Lena Cibulski, Peter Musaeus, & Hans-J\u00c3\u00b6rg Schulz"
+    "title":" Flirting Charts: Expressive Motion Design in Information Visualization Inspired by Animal Courtship Performances ",
+    "authors":"Zezhong Wang ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_6b49a8fd-c203-4c2d-8acb-a7d9d1f89b23.html"
   },
   {
-    "title":"CodeSkyline: A Juxtaposed Visual Analytics Code-Map Embedded in a Code Editor",
-    "authors":" Steven Lamarr & J\u00c3\u00b6rn Kohlhammer"
+    "title":" Do Vision-Language Models See Visualizations Like Humans? Alignment in Chart Categorization ",
+    "authors":"P\u00c3\u00a9ter Ferenc Gyarmati, Manfred Klaffenb\u00c3\u00b6ck, Laura Koesten, Torsten M\u00c3\u00b6ller ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_be9a661d-be03-4909-b2d5-99d00f9a5567.html"
   },
   {
-    "title":"VisConflicts: Visualizing Conflicts of Interest in Conference Reviewing",
-    "authors":" Natkamon Tovanich, Teppakorn Thanuthanad, Sandhya Rajendran, Velitchko Andreev Filipov, Silvia Miksch, & Petra Isenberg"
+    "title":" Symetra: Visual Analytics for Tuning Symbolic Execution Engines ",
+    "authors":"Donghee Hong ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_e15d3c7e-02fc-4fe5-9553-35b53e64055e.html"
   },
   {
-    "title":"Interactive Strategy Building for Net Zero: A Visual Analytics Approach to Local Decarbonisation",
-    "authors":" Dany Laksono, Radu Jianu, & Aidan Slings"
+    "title":" Visualizing Multivariate Time Series Data in a Biological Input\/Output System ",
+    "authors":"Julia Husar, Jing Yang ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_839878e2-e868-49d9-adb4-fbfe90b7576b.html"
   },
   {
-    "title":"Visual Analytics of Nonverbal Behavior to Evaluate Collaborative Group Engagement",
-    "authors":" Matus Gasparik, Carolin Bronowicz, & Susanne Bleisch"
+    "title":" Interactive Exploration of Subsets in Projections through Radial Attribute Fingerprints ",
+    "authors":"Michael Blum ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_2f76620f-360a-4fac-8861-5140a6c6db39.html"
   },
   {
-    "title":"Towards Increased Patient Engagement through Visual Support for Qualitative Questionnaire Completion and Summarization",
-    "authors":" Lucie David, Noeska Natasja Smit, & Kai Lawonn"
+    "title":" From Data to Diagram: Learning Chart Types Through Interactive Instructional Comics ",
+    "authors":"Magdalena Boucher, Julia B\u00c3\u00b6ck ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_3e94d46c-a1ba-4d27-87e3-c4dff2fa54ea.html"
   },
   {
-    "title":"Extending Voronoi Treemap-Based Text Visualization to Non-Convex Regions",
-    "authors":" Naoya Oda & Yosuke Onoue"
+    "title":" Diffusion Explorer: Interactive Exploration of Diffusion Models ",
+    "authors":"lec Helbling ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_720ced8c-5075-49e6-a798-b0c3750d9337.html"
   },
   {
-    "title":"SkyBrowser: In-situ dissemination of high-resolution deep-space images",
-    "authors":" Ylva Selling, Ester Lindgren, Anders Ynnerman, & Alexander Bock"
+    "title":" Virtual Reality Lensing for Surface Approximation in Feature-driven DVR ",
+    "authors":"Usman Alim, Roberta Mota ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_52c65a62-66a5-4784-af7e-63e573165743.html"
   },
   {
-    "title":"TS-Insight: Visual Fingerprinting of Multi-Armed Bandits",
-    "authors":" Parsa Vares, Eloi Durant, Jun Pang, Nicolas M\u00c3\u00a9doc, & Mohammad Ghoniem"
+    "title":" Analyzing Camera Motion in Immersive Dome Movies using Optic Flow ",
+    "authors":"Emma Broman ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_75420f88-2fa1-47fd-b1b3-12263692deaf.html"
   },
   {
-    "title":"Two Sides of the Same Cube: Towards Immersive Dynamic Visualization of Migration Flows",
-    "authors":" Gabriel Walchhofer, Marian Bramberger, & Daniel Pahr"
+    "title":" Exploring Touch Interactions for Input Visualization in Personal Informatics ",
+    "authors":"June Bhartia ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_b11a3cf7-7e4b-426d-bf67-59c0be179c2c.html"
   },
   {
-    "title":"How Journalists Make Maps",
-    "authors":" Lilou Lagrede, Christophe Hurter, & Thomas Hurtut"
+    "title":" Uncertainty Visualization in Data Journalism: A Pilot Study on Election Polls in a DER SPIEGEL Online Article ",
+    "authors":"Carmen Garro ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_f29f30f4-bba5-4a5c-9f06-cd99c1d9d6c1.html"
   },
   {
-    "title":"Accelerated Volumetric Compression without Hierarchies: A Fourier  Feature Based Implicit Neural Representation Approach",
-    "authors":" Leona Zurkova, Petr Strakos, Michal Kravcenko, Tomas Brzobohaty, & Lubomir Riha"
+    "title":" Cities, Cards, and Conversations: The UDV Card Deck in Action ",
+    "authors":"Damla \u00c3\u0087ay ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_056cd806-f4f9-456d-819e-a8e557abfc97.html"
   },
   {
-    "title":"Nexus: Interactive Visual Exploration of 3D Spatial Connectivity for Tissue Analysis",
-    "authors":" Eric M\u00c3\u00b6rth, Benjamin Beinder, Renata Georgia Raidou, & Nils Gehlenborg"
+    "title":" Sketching for Insight: Trajectory Retrieval in VR with Flotation Data ",
+    "authors":"Franziska Kahlert ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_37a7a962-bff9-4f8e-b4ba-3c6ad03283c8.html"
   },
   {
-    "title":"Designing CanoeView: A Canoe-Based Interactive Learning Experience for Planetarium Classrooms",
-    "authors":" Aarush Bothra, Sean J. Dorr, Bridger Herman, Sarah Weaver, James Rock, & Daniel F. Keefe"
+    "title":" What Makes Data Visualizations Difficult to Understand? Not Their Dimensionality, Evidence Shows. ",
+    "authors":"Gianna-Carina Gr\u00c3\u00bcn ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_a773d4cb-fe1f-499f-8294-e36414c9448e.html"
   },
   {
-    "title":"Visualizing Peace Transitions: Interactive Visualizations to Support Innovation and Adaptive Management in Peace Processes",
-    "authors":" Tomas Vancisin, Jinrui Wang, Niamh Henry, Sarah Sch\u00c3\u00b6ttler, Lucy Havens, Tobias Kauer, Christine Bell, Sanja Badanjak, & Benjamin Bach"
+    "title":" VISMOCK: A Programmable Smocking Technique for Creating Interactive Data Physicalization ",
+    "authors":"Bahare Bakhtiari ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_c8390990-0b42-4752-93a5-86ac4204faa5.html"
   },
   {
-    "title":"Mind the Gaps: Measuring Visual Artifacts in Dimensionality Reduction",
-    "authors":" Jaume Ros, Alessio Arleo, & Fernando V Paulovich"
+    "title":" Correlation Visualization for Multivariate Volumes with Continuous Indexed Points ",
+    "authors":"Liang Zhou ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_13fb4890-a537-429b-9820-67ac440f7de1.html"
   },
   {
-    "title":"Dashboards for Davis",
-    "authors":" Doron Goldfarb & Florian Gruber"
+    "title":" VisConflicts: Visualizing Conflicts of Interest in Conference Reviewing ",
+    "authors":"Natkamon Tovanich ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_3340cd5f-a185-4c13-8ef4-ea1d1b687618.html"
   },
   {
-    "title":"ChartJunkGPT: Can GPT-4.1 Interpret Visually Embellished Charts?",
-    "authors":" Alexander Bendeck & John Stasko"
+    "title":" Dissecting Atomic Facts: Visual Analytics for Improving Fact Annotations in Language Model Evaluation ",
+    "authors":"Manuel Schmidt ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_e3a94160-0d11-417f-bceb-15f84ecf7958.html"
   },
   {
-    "title":"Explanatory Visualization with LLMs for Employment Law",
-    "authors":" Glory Ogbonda, Sarah Nason, Jonathan C. Roberts, & Peter W. S. Butcher"
+    "title":" Accelerated Volumetric Compression without Hierarchies: A Fourier Feature Based Implicit Neural Representation Approach ",
+    "authors":"Leona \u00c5\u00bd\u00c5\u00afrkov\u00c3\u00a1 ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_c2e4ccaa-879c-4328-832c-7c2c8bf7fc6e.html"
   },
   {
-    "title":"Artistic Inspiration for Uncertainty Visualization Techniques",
-    "authors":" Michelle A. Borkin"
+    "title":" Visual Analytics of Nonverbal Behavior to Evaluate Collaborative Group Engagement ",
+    "authors":"Carolin Bronowicz, Susanne Bleisch ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_4b026187-1e90-4b7b-8cba-aabdf467e71a.html"
   },
   {
-    "title":"ThreadWave: Visualizing Co-authorship as Temporal Threads",
-    "authors":" Ruishan Wu, Zezhong Wang, Charles Perin, & Sheelagh Carpendale"
+    "title":" Artistic Inspiration for Uncertainty Visualization Techniques ",
+    "authors":"Michelle Borkin ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_3006df2f-9888-4818-aa31-ba206795a3e1.html"
   },
   {
-    "title":"Noticing as Visualization Practice: Discovering Data in the Everyday",
-    "authors":" Foroozan Daneshzand, Charles Perin, & Sheelagh Carpendale"
+    "title":" Two Sides of the Same Cube: Towards Immersive Dynamic Visualization of Migration Flows ",
+    "authors":"Marian Bramberger, Daniel Pahr ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_f5fc8a3f-8d3a-41f7-9ee7-b00ac129d8e6.html"
   },
   {
-    "title":"Workshopping XGeoAI Visualisation Opportunities for Renewable Energy Planning and Forecasting",
-    "authors":" Merry Kim, Franceso Bizzarri, Bruno Luis Mendivez Vasquez, Tim Dwyer, & Sarah Goodwin"
+    "title":" ThreadWave: Visualizing Co-authorship as Temporal Threads ",
+    "authors":"Ruishan Wu ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_c2bae6e1-06ef-4724-a719-7651524fe5bc.html"
   },
   {
-    "title":"Visualization on Smart Wristbands: Results from an In-situ Design Workshop with Four Scenarios",
-    "authors":" Alaul Islam, Fairouz Grioui, Raimund Dachselt, & Petra Isenberg"
+    "title":" Interactive Strategy Building for Net Zero: A Visual Analytics Approach to Local Decarbonisation ",
+    "authors":"Dany Laksono ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_36d95364-999a-4fa5-a56e-671872d88070.html"
   },
   {
-    "title":"Exploring the Feasibility of a Participatory Data Physicalization of CO\u00e2\u0082\u0082e Emissions for Dietary Choices in Collective Catering Settings",
-    "authors":" Eugenie Brasier, Yvonne Jansen, Pierre Dragicevic, & Martin Hachet"
+    "title":" Noticing as Visualization Practice: Discovering Data in the Everyday ",
+    "authors":"Foroozan Daneshzand ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_d38b2c54-6f12-4900-91f4-dfd5232e47a1.html"
   },
   {
-    "title":"SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation",
-    "authors":" Vahid Pooryousef, Himashi Peiris, Huiyi Liang, Ang Li, Zhaolin Chen, Tim Dwyer, & Jiazhou Liu"
+    "title":" A Kaleidoscopic View of Artist Co-Exhibition Networks ",
+    "authors":"Michaela Tuscher ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_7801b895-54e1-4d63-b76f-5eb312699d7f.html"
   },
   {
-    "title":"FERAViz: A Visualization Tool for Robotic Program Interpretation for Future Reuse",
-    "authors":" Yoganata Kristanto, Miguel Campusano, & Mina Alipour"
+    "title":" An Authoring Tool for Pictorial Unit Visualization ",
+    "authors":"Min Lu ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_11ff506f-6eef-4e25-a90e-0c204c3f90de.html"
   },
   {
-    "title":"t-SNE is Sensitive to Initialization Size (but UMAP is Not)",
-    "authors":" Jacob Miller, Kaviru K. Gunaratne, & Stephen Kobourov"
+    "title":" Charting Scenarios: A Framework for Uncertainty Visualization in Data Journalism Practice ",
+    "authors":"Benjamin Possin ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_bd1252c7-20b8-4588-b502-84f08be835ca.html"
   },
   {
-    "title":"Human-Centred Information Visualisation for Improved Situational Awareness and Critical Decision Making in Energy Control Rooms",
-    "authors":" Yidan Zhang & Sarah Goodwin"
+    "title":" Dashboards for Davis ",
+    "authors":"Doron Goldfarb, Florian Gruber ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_36d911d8-cb10-425d-9b1b-914542e15c4c.html"
   },
   {
-    "title":"Navigating the Zoo of Visualization Techniques",
-    "authors":" Abdulhaq Adetunji Salako & Christian Tominski"
+    "title":" Designing CanoeView: A Canoe-Based Interactive Learning Experience for Planetarium Classrooms ",
+    "authors":"arush Bothra ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_1fed1ff7-e290-440c-85a1-047341f74be8.html"
   },
   {
-    "title":"An Authoring Tool for Pictorial Unit Visualization",
-    "authors":" Xinghui Fu, Zhenyu Wang, Yanhui Guo, Pu Wang, Zhida Sun, Yu Zhang, Guozheng Li, Bongshin Lee, & Min Lu"
+    "title":" Human-Centred Information Visualisation for Improved Situational Awareness and Critical Decision Making in Energy Control Rooms ",
+    "authors":"Yidan Zhang ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_8278cabc-56a9-47d6-bc1f-fa10c628178b.html"
   },
   {
-    "title":"TruSiA: Trustworthy and Situated Agent-Based Human\u00e2\u0080\u0093Swarm Interaction",
-    "authors":" Bohan Shen, Le Liu, Peng Wang, & Yanning Zhang"
+    "title":" The UK Co-Benefits Atlas: An Interactive Visualisation Atlas to Understand the Impacts of Achieving Climate Action Targets ",
+    "authors":"Sian Phillips ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_d6e24128-1f3a-4b76-a045-7872ea98b80d.html"
   },
   {
-    "title":"Augmented Reality-based Data Storytelling for Citizen Participation in Urban Planning",
-    "authors":" Leni Yang & Loann Giovannangeli"
-  },
-  {
-    "title":"Robust Computation of Reeb Spaces for Multivariate Visualisation",
-    "authors":" Petar Hristov, Daisuke Sakurai, Hamish Carr, Ingrid Hotz, & Talha Bin Masood"
-  },
-  {
-    "title":"Identifying Validator Alliances by Voting Similarity in PoS Blockchain Governance via Visual Analytics System",
-    "authors":" Voting Similarity in PoS Blockchain Governance via Visual Analytics System\n"
-  },
-  {
-    "title":"The Felt-Kit An example of an input physicalization for mental wellbeing",
-    "authors":" Maria Teresa Ortoleva, Rita Borgo, & Alfie Abdul-Rahman"
-  },
-  {
-    "title":"Explaining Model Predictions When Users Aren\u00e2\u0080\u0099t Sure: XAI for scRNA-seq Cell-Type Classification",
-    "authors":" Josh Shell"
-  },
-  {
-    "title":"What is the Agent Doing? Visualizing Agentic AI Querying Workflows",
-    "authors":" Steven Gomez"
-  },
-  {
-    "title":"Human-Recognition of LLM-Guided, Emotion-Driven Volume Renderings",
-    "authors":" Maximilian Nikolaus Jellen"
-  },
-  {
-    "title":"AI-Powered ParaView for NIST: Enabling Accessible Scientific Visualization",
-    "authors":" Simon Su"
-  },
-  {
-    "title":"An Agentic Drawer-Advisor for Content-Aligned Visualization",
-    "authors":" Chunggi Lee"
-  },
-  {
-    "title":"Integrating Natural Language Interfaces into Data Visualizations with Trustworthiness Scores",
-    "authors":" Willy Scheibel"
-  },
-  {
-    "title":"Now You See Me: Using Generative AI to Drive Engagement with Data Visualizations",
-    "authors":" Avner Kantor"
-  },
-  {
-    "title":"Exposing LLM-Mediated Data Analysis: Early Visualization Designs",
-    "authors":" Radu Jianu"
-  },
-  {
-    "title":"How Well Do MLLMs Judge Network Visualizations? Local vs. Global Properties",
-    "authors":" Markus Wallinger"
-  },
-  {
-    "title":"LangLasso: Interactive Cluster Descriptions through LLM Explanation",
-    "authors":" Raphael Buchmuller"
-  },
-  {
-    "title":"TADDR: Towards Agentic Data Driven Reports",
-    "authors":" Kishan Bharadwaj Shridhar"
-  },
-  {
-    "title":"BioSET - Biomarker-based Spatial co-Expression analysis in Tumor environments",
-    "authors":" Chahat Kalsi"
-  },
-  {
-    "title":"t-SNE based Transfer Functions for Multi-attribute Volume Rendering",
-    "authors":" Ravi Snellenberg"
-  },
-  {
-    "title":"MRSight: Ratio-Weighted Complete and Visibility Graphs for MRS Data Visualization and Assessment",
-    "authors":" Ahmed Adil Elhussein"
-  },
-  {
-    "title":"GPU-Based Collocation Visualization of Immune Niches in 3D Cyclic Immunofluorescence Images",
-    "authors":" Uro\u00c5\u00a1 \u00c5\u00a0majdek"
-  },
-  {
-    "title":"Aludrill: Visual Analytics for ExploringScrap-Based Aluminium Alloy Simulations with Drilldown",
-    "authors":" David H\u00c3\u00a4gele"
-  },
-  {
-    "title":"AlloyInter: Visualising Alloy Mixture Interpolations in t-SNE Representations",
-    "authors":" Benedikt Kantz"
-  },
-  {
-    "title":"PCAlloy: An Interactive Visualization Tool for Uncovering Relationships between Alloy Properties and Sustainability Metrics",
-    "authors":" Tommy Dang"
-  },
-  {
-    "title":"AlloyClusterVis: An Interactive Visualization Platform for Sustainable Aluminum Alloy Discovery",
-    "authors":" Tommy Dang"
-  },
-  {
-    "title":"Scrap Metal Explorer: Visual Exploration of Material Science Simulation Data",
-    "authors":" Tobias Maximilian & Andreas Nickel"
-  },
-  {
-    "title":"A Comprehensive Visualization Tool for Sustainable Materials Science: Unveiling Advanced Metals Composed of Recycled Aluminum Alloys",
-    "authors":" Lars Linsen"
-  },
-  {
-    "title":"AlloyLens: Visual Alloy Design with Scatterplot Matrices",
-    "authors":" Suyang Li"
+    "title":" TS-Insight: Visual Fingerprinting of Multi-Armed Bandits ",
+    "authors":"Parsa Vares, Eloi Durant, Mohammad Ghoniem ",
+    "url":"https:\/\/ieeevis.org\/year\/2025\/program\/poster_6ca8b6a3-3747-4cfb-b264-c5cf68186202.html"
   }
 ]
