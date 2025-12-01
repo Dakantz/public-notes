@@ -1,5 +1,5 @@
 ---
-title: VINCI 2025
+title: Day 1
 tags: conference
 date: 2025-12-01
 ---
@@ -78,33 +78,55 @@ Authors: *Yiran Ma, Xianyue Zhu, Chelsea-Xi Chen and Aven-Le Zhou*
 
 ### Generation by Prediction: Latent Syntax, Predictive Culture
 Authors: *Ming Shan Tai*
-- 
-
-### Threshold Perception: Leveraging Generative AI and Multisensory Design to Communicate Sensory Overload in Neurodiverse Population
-Authors: *Haoxuan Wang and Xin Tong*
-
-### Split-Screen Folklore: Human-AI Co-Creation in Reimagining The Legend of the White Snake
-Authors: *Qi Xiang, Haoxuan Wang, Chengliang Ping, Luwen Yu and David Yip*
-
-### Visualizing AI operations for Human Oversight: The Ops Room
-Authors: *Joaquín Santuber and Kristina Tica*
+- Link prediction $\approx$ latent space / embeddings
+- Delegates creative decisions to latent space / model
 
 ### More Than Information: Data as Computational Structure
 Authors: *Angela Ferraiolo*
+- Speeches of Politics - affects
+- Using cellular automata (Conway's game of life) + sentiment analysis + emotion analysis
+- Map to certain states/system of emotions, feedback of embeddings (?)
+- Q: How? (exactly)
+
+
+### Visualizing AI operations for Human Oversight: The Ops Room
+Authors: *Joaquín Santuber and Kristina Tica*
+- Starting point: EU legislation for human oversight of AI; with 'appropriate HCI'
+- Agents Oversight tool of MS
+- Kids made it crash by pressing too much - kind of intended ;)
+
+
+### Threshold Perception: Leveraging Generative AI and Multisensory Design to Communicate Sensory Overload in Neurodiverse Population
+Authors: *Haoxuan Wang and Xin Tong*
+- Intended for people with sensor overload / hypersensitivity
+- Related work: Diffusion-based model with dynamic eye tracking
+
+### Split-Screen Folklore: Human-AI Co-Creation in Reimagining The Legend of the White Snake
+Authors: *Qi Xiang, Haoxuan Wang, Chengliang Ping, Luwen Yu and David Yip*
+- Split-Screen in Film: narrative, color, aesthetics - communicate space
+- Human-AI co-creation pipeline with motion/color control
+
 
 ### Ghost of Life
 Authors: *Ziwei Wu, Xinyu Ma and Kang Zhang*
+- Background: Industrialization of Pet Food, as leftovers from meat production
+- Alternative narrative: claims that data is hidden...
+
 
 ### Expanding Virtual Production Frontiers: AI-Driven Workflows for Enhanced Cinematic Creation
-Authors: *Junrong Song, Hongcheng Guo, Lujin Zhang, Zeyu Wang and David Yip*
-
+Authors: *Junrong Song, Hongcheng Guo, Lujin Zhang, Zeyu Wang and David Yip* (Virtual)
 
 ## Papers 3 – AI and Generative Methods in Cultural Heritage
-### Weakly Supervised Prediction of Damaged Areas in Yunnan Murals via Bounding-Box Annotations
-Authors: *Ru Zhao, Hao Wu and Guowu Yuan*
 
 ### Quantifying “Qi Yun”: A Computational Analysis of Multi-Scale Spatial Structure in Chinese Calligraphy
 Authors: *Zhijun Ma*
+- Abstract concept of 'Qi Yun' - liveliness/vitality of chinese calligraphy!
+- Traditional theory metaphorical/with specific measures
+- To: Computational analysis of measures using variation; quadtrees, voronoi diagrams of the layout - whitespace of calligraphy
+
+
+### Weakly Supervised Prediction of Damaged Areas in Yunnan Murals via Bounding-Box Annotations
+Authors: *Ru Zhao, Hao Wu and Guowu Yuan*
 
 ### Generative Strokes: A Parametric Framework for 3D Calligraphic Expression
 Authors: *Troy Tianyu Lin, Boyan Zheng, Wen You, Haichuan Lin and Chen Liang*

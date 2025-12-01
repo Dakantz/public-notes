@@ -1,5 +1,5 @@
 ---
-title: VINCI 2025
+title: Day 2
 tags: conference
 date: 2025-12-02
 ---
