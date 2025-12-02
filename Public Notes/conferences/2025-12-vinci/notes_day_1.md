@@ -124,39 +124,34 @@ Authors: *Zhijun Ma*
 - Traditional theory metaphorical/with specific measures
 - To: Computational analysis of measures using variation; quadtrees, voronoi diagrams of the layout - whitespace of calligraphy
 
-
-### Weakly Supervised Prediction of Damaged Areas in Yunnan Murals via Bounding-Box Annotations
-Authors: *Ru Zhao, Hao Wu and Guowu Yuan*
-
 ### Generative Strokes: A Parametric Framework for 3D Calligraphic Expression
 Authors: *Troy Tianyu Lin, Boyan Zheng, Wen You, Haichuan Lin and Chen Liang*
-
-### Flowing Craftsmanship: AI-Driven 3D Reconstruction of the Chinese Knot Weaving Structure in Cultural Heritage
-Authors: *Yutong Li, Cong Wang, Jiayun Tang, Yu Tang, Jun Yang and Jian Yu*
+- Mesh generation from stroke input (using separation/...)
+- Representation as B-splines
 
 ### “Quantum est in Libris”: Navigating Archives with GenAI, Uncovering Tension Between Preservation and Innovation
 Authors: *Mar Canet Sola and Varvara Guljajeva*
-
-### Heritage Reborn: AI-Driven Style Transfer and Scene Generation Using Aesthetic Elements from Qing Dynasty Chinese Export Paintings
-Authors: *Ke Guo, Yili Huang, Xinlei Shen, Zhihao Lin, Zhipei Xie and Jian Yu*
-
-### From Myth to Interface: An AI-Augmented Interactive Visual System for Exploring Artifact Interactions in Journey to the West
-Authors: *Zeyu Chen, Anqi Xie, Lingyun Yu and Yu Liu*
+- Background: ERM: Tempelhof of Estonia + 500 years of 1st book printed
+- [Museum Archive](https://www.muis.ee/) - VA Dataset?
+- Allow reading out-loud of page, use generative AI based on spoken text (RunwayML) - this is an interesting approach!
 
 
 ## Papers 4 – Visualization Tools and Techniques II
 ### EuroEnergyVis: Interactive Visualization of Power Plant Data for European Countries
 Authors: *Jinyi Wang, Kostiantyn Kucher, Richard Pates and Andreas Kerren*
-
-### More or Less? Effects of Visual Information Modulation on Context Perception
-Authors: *Jifan Yang, Fuqi Xie, Ziteng Li, Bo Fan, Yihan Liu, Zhaolin Lu, Yu Liu, Min Chen, Martijn ten Bhömer, Eng Gee Lim and Lingyun Yu*
+- Power grid viz for resilience and structure
+- All power plants of europe, characteristics + filtering / search
+Link: [EuroEnergyVis](https://ivis-tools.itn.liu.se/euroenergyvis/)
 
 ### Analyzing Water Quality Data of the Rhine River
 Authors: *Michael Burch, David Schober, Johanna Köhler and Janine Reichlin*
-
-### VisualNetO&M: A Digital Twin-Based Collaborative Visualization System for Power System Communication Network Operation and Maintenance
-Authors: *Le Liu, Yong Li, Chuhua Yang, Guang Dai, Kaifeng Bai, Gang Chen, Siming Chen and Peng Wang*
+- Analysis of metrics for correlation of water quality metrics
+- Start with paper/PPT/Figma mockups
+- Nice blueprint for Visual Analytics!
 
 ### AnoScout – Visual Exploration of Anomalies and Anomaly Detection Algorithm Ensembles in Time Series Data
 Authors: *Julian Rakuschek, Michael Leitner, Jürgen Bernard, Selina Wriessnegger and Tobias Schreck*
+- Ingest Timeline data to detect anomalies
+- Use existing algorithms to detect anomalies, allow user annotations
+- Project timelines into embedding space to cluster and perform semi-supervised anomaly detection
 
