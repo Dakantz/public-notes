@@ -52,20 +52,21 @@ Authors: *Yusong Wang, Yihan Hou, Rong Huang and Wei Zeng*
 - Architecture classification / exploration / search system
 - Using RAG + KG for search + fact validation
 
-### Immersive-woven into the Interactive Silk Road
-Authors: *Xuanyang Huang, Zhihua Zhong, Yeming Li and David Kei-Man Yip*
-
-### Designing Intuitive Gesture-Based Interaction for Embodied Cultural Learning in Virtual Heritage Spaces: A Case Study of the Thirteen Hongs of Guangzhou
-Authors: *Yishuai Zhang and Pan Hui*
-
-
 ## Papers 7 – Evaluation
-### Text-Color Hybrid Labeling for Multiclass Map Visualization: A Comparative Evaluation of Four Annotation Strategies
-Authors: *Xinyao Chen, Xinyuan Zhang, Teng Ma, Lingyun Yu and Yu Liu*
-
 ### A User Evaluation on Mouse Movements in Visual Interfaces
 Authors: *Michael Burch, Günter Wallner, Isabel von Ah and Franjo Pehar*
+- Another Bachelor Thesis, mouse movement analysis (@Stefan?)
+- Using gestalt principles - H: gestalt principles $\implies$ less mouse movement / shorter task solve times
+- Goal: detect design flaws in UIs
+- Metrics: mouse distance used for task, speed metrics
+- Setup: used a single setup (!!)
 
 ### Design and Evaluation of Unified Superimposed Visualization for a Large-Scale Heterogeneous Local Explanation
 Authors: *Shoko Sawada and Masashi Toyoda*
+- for XAI approaches - visualize XAI explanations
+- Use local explanations / not counterfactuals
+- Using heatmaps - frames - arrows in "Feature Explanation Matrix" - show changes (back to counterfactual) using arrows to indicate counterfactual change
+- User study to investigate usability, use the XAI-VLAT
+
+
 
