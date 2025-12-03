@@ -1,3 +1,11 @@
+---
+title: Posters
+tags: 
+    - conference
+    - posters
+date: 2025-12-02
+---
+
 | **Poster** | **Title** | **Information** | 
 | -- | -- | -- | 
 | ![poster](figures/posters/reduced/IMG_5742.png) | Lighting Up Bianjing: An AI-Supported Interactive System for Engaging Visitors with Traditional Heritage Lanterns | *Yuxiang Fan,  Wanlin Zhang, Xing Luo* | 

@@ -3,7 +3,7 @@ title: ICASSP 2025 Posters
 tags:
 - conference
 - posters
-date: 2025
+date: 2025-04-01
 ---
 
 

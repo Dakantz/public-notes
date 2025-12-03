@@ -3,7 +3,7 @@ title: SIGIR 2025 Posters
 tags:
 - conference
 - posters
-date: 2025
+date: 2025-07-13
 ---
 
 

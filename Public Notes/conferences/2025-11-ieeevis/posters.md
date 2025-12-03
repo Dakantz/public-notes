@@ -1,3 +1,11 @@
+---
+title: Posters
+tags: 
+    - conference
+    - posters
+date: 2025-11-05
+---
+
 | **Poster** | **Title** | **Information** | 
 | -- | -- | -- | 
 | ![poster](figures/posters/reduced/IMG_5232.png) | [ Augmented Reality-based Data Storytelling for Citizen Participation in Urban Planning ](https://ieeevis.org/year/2025/program/poster_251063e5-7f20-41b5-af14-c68722d51937.html) | *Leni Yang* | 
