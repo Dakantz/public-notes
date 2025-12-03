@@ -68,5 +68,9 @@ Authors: *Shoko Sawada and Masashi Toyoda*
 - Using heatmaps - frames - arrows in "Feature Explanation Matrix" - show changes (back to counterfactual) using arrows to indicate counterfactual change
 - User study to investigate usability, use the XAI-VLAT
 
+### Text-Color Hybrid Labeling for Multiclass Map Visualization: A Comparative Evaluation of Four Annotation Strategies
+Authors: *Xinyao Chen, Xinyuan Zhang, Teng Ma, Lingyun Yu and Yu Liu*
+- Investigate label placement in maps - legend aside, inside, color for multi-class geography viz
+
 
 
