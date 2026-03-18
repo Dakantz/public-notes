@@ -56,6 +56,10 @@ $\rightarrow$ enables measurements of fiber stresses in e.g. landslides, orienta
 - Do spectroscopy in mice, application: fiber-based search
 - Application problem (Q): biomarker of disease, unknown! (clinical problem)
 
+### From light to circuits: using Danio rerio to dissect neural circuits | M. Albanesi (DSB)
+- Stimulate and Record Neuron development by targeted random stimulation and learning (?)
+- Gain understanding of network through *controllability matrix*
+- [Spontaneous Dynamics Predict the Effects of Targeted Intervention in Hippocampal Neuronal Cultures](https://www.biorxiv.org/content/10.1101/2025.04.29.651327v3.full.pdf) $\rightarrow$ @Peter could be interesting related work within the neuron stimulation project by Theresa?
 ## Overview
 
 ![Overview](Poster_Program_FNIPday2026_A3-1-scaled.png)
