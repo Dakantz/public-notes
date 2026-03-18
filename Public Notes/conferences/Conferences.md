@@ -14,6 +14,8 @@ I also loosely connect all posters using different search engines to their DOIs/
 
 | Year | Conference Name | Location  | Notes/Links                       |
 | ---- | --------------- | --------- | --------------------------------- |
+| 2026 | FNIPday         | Padova    | [Notes](2026-03-fnipday/notes.md) |
+| 2025 | VINCI           | Linz      | [Notes](2025-12-vinci/notes.md)   |
 | 2025 | IEEE VIS        | Vienna    | [Notes](2025-11-ieeevis/notes.md) |
 | 2025 | CLEF            | Madrid    | [Notes](2025-09-clef/notes.md)    |
 | 2025 | SIGIR           | Padua     | [Notes](2025-07-sigir/notes.md)   |
