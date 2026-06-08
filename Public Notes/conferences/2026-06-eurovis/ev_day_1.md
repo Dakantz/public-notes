@@ -91,7 +91,7 @@ No EG link found
 
 * Eddies: stream 'swirls' - classifications, display, and glyph design (i.e. ring design, inner/outer diffs to properly show differences, ...)
 * Eddie detection: detection mechanism actually good?
-	
+
 ## Polyoracle - Assessing Multi-criteria Regional Climate Uncertainty through Agent-assisted Visual Analysis
 > Authors: Müller, Erik, Gerrits, Tim
 
@@ -104,7 +104,7 @@ Meta: Peter?
 * based on this year's SciVis challenge!
 * AI agent to operate tool - collaborative, export
 
-	
+
 ## Exploring Intensity-Duration-Frequency Curves for the Contiguous US under Unsteady Climate
 > Authors: Heine, Christian, Mascaro, Giuseppe, Maciejewski, Ross, Scheuermann, Gerik
 
@@ -113,56 +113,48 @@ Meta: Peter?
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/9ca5ab89-c791-4382-838f-ffd1a9b33890/content)
 
 
+## Comparison of Categorical Data from Meteorological Models and Observations using a Pattern-Based Approach
+> Authors: Pandey, Savyasachi, Sondag, Max, Krauter, Christian, Zellmann, Stefan, von Landesberger, Tatiana
+
+[EG Link](https://diglib.eg.org/items/c37ecf79-e656-4a82-b0a7-7eadcf673f01)
+
+![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/b9d5c050-3a7b-4da9-9794-e0b1669588d6/content)
+
+* 
+
+
+## An Interactive Web-Based Visualization Tool for Multidimensional Analysis of Dust Storm Events
+> Authors: Cui, Wenqiang, Afzal, Shehzad, Ghani, Sohaib, Karumuri, Rama Krishna, Hoteit, Ibrahim
+
+[EG Link](https://diglib.eg.org/items/084d5f57-2619-4db2-9281-717435447e53)
+
+![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/63d75747-7e6b-4ac9-9793-8f3c6bd904aa/content)
+
+
+## Visualization of Temporal Changes in Environmental Point Cloud Scans
+> Authors: Gorup, Gorazd, Bohak, Ciril
+
+[EG Link](https://diglib.eg.org/items/56fa9492-abfc-4959-9ff9-f291447bc28c)
+
+![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/62674139-f393-4e9f-be20-da9ed65abe75/content)
+
+
+## Connecting the Algae Value Chain Visually: Integrating Farming, Processing, and Product Views
+> Authors: Kusnick, Jakob, Yousef, Tariq
+
+[EG Link](https://diglib.eg.org/items/d5495cb1-f52f-4650-a792-29bb21eb2c94)
+
+![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/37f0acee-abba-4d6b-99ad-bae509d9da73/content)
+
+
 # EuroVA
 
-Note: check out **The Opportunity for Visual Analytics in the Age of Generative AI**, *S. Vink, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang*
+## The Opportunity for Visual Analytics in the Age of Generative AI
+> Authors: Vink, S., Byungmoo, K., Brumar, C., Yang, M., Potter, K., Chang, R.
+
+[EG Link](https://diglib.eg.org/items/764cb715-3709-40dc-989c-445f9a31c6b4)
+
+![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/1419da38-d47f-4412-a243-41311182f5df/content)
 
 
-## Time-Oriented Trajectory Query and Comparison
-> Authors: Mertz, Tobias, Reynolds-Ringer, S. L., Kohlhammer, Jörn
-
-[EG Link](https://diglib.eg.org/items/63e0fed8-7467-474f-bfe2-cdce72da6305)
-
-![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/8f2b99ae-0f84-4429-b6f5-e10b8dacfcb5/content)
-
-## Visual Boosting Techniques for Spatiotemporal Dense Pixel Visualizations
-> Authors: Rauscher, Julius, Dennig, Frederik L., Schlegel, Udo, Keim, Daniel A., Schreck, Tobias
-
-[EG Link](https://diglib.eg.org/items/55d11298-e86a-4345-9082-ce9812af8e7d)
-
-![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/9d7fb5a1-350c-41a9-85c2-92dc3d854648/content)
-
-## Instance-Centric Visualization of Probabilistic Multi-Label Data
-> Authors: Kuschetzki, Finn, Meinecke, Christofer
-
-[EG Link](https://diglib.eg.org/items/f7a04349-8711-4567-945f-494e4bd17cb9)
-
-![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/2539d3f6-3a0c-46a9-8b6c-ab2b7a7d1500/content)
-
-## Interpreting Latent Variables in Causal DAGs: A Study of Non-Expert Understanding
-> Authors: Das, Amit Kumar, Salim, Shahreen, Hoque, Naimul, Mueller, Klaus
-
-[EG Link](https://diglib.eg.org/items/42aed4df-7a0a-4fcc-972c-16b12a7d7b43)
-
-![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/518c40ba-c605-4425-9132-794ad34cc428/content)
-
-## MOReCriT: Understanding Multi-Objective Optimization Results in Resource Criticality Analysis through Visual Analytics
-> Authors: Frings, A., Jäckl, B., Tercero Espinoza, L. A., Joos, L., Rentschler, J., Dennig, F. L., Keim, D. A.
-
-[EG Link](https://diglib.eg.org/items/0c302662-f704-4d23-812f-946aa5e130e4)
-
-![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/4b950bcb-7e26-424d-b736-a697dc110bd7/content)
-
-## Local Neighborhood Instability in Parametric Projections: Quantitative and Visual Analysis
-> Authors: Dennig, Frederik L., Keim, Daniel A.
-
-[EG Link](https://diglib.eg.org/items/0152d011-163b-4594-a770-3756c92689d9)
-
-![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/a7170fee-5735-43a8-8f31-138fdc68741b/content)
-
-## Same Stats, Different Graphs Made Simple and Fast by Linear Transformations
-> Authors: van Wageningen, S., Telea, A. C., Mchedlidze, T.
-
-[EG Link](https://diglib.eg.org/items/94507efa-2456-47d8-9a2f-3d5c586f4545)
-
-![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/0c4aff9d-8ed8-474d-82c0-9a182a3f1103/content)
+Note: check it out, by *S. Vink, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang*

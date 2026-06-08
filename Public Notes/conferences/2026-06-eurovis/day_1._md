@@ -55,7 +55,7 @@ date:
 
 * Eddies: stream 'swirls' - classifications, display, and glyph design (i.e. ring design, inner/outer diffs to properly show differences, ...)
 * Eddie detection: detection mechanism actually good?
-	
+
 ## Polyoracle - Assessing Multi-criteria Regional Climate Uncertainty through Agent-assisted Visual Analysis
 
 Meta: Peter?
@@ -63,25 +63,27 @@ Meta: Peter?
 * based on this year's SciVis challenge!
 * AI agent to operate tool - collaborative, export
 
-	
+
 ## Exploring Intensity-Duration-Frequency Curves for the Contiguous US under Unsteady Climate
+
+
+## Comparison of Categorical Data from Meteorological Models and Observations using a Pattern-Based Approach
+
+* 
+
+
+## An Interactive Web-Based Visualization Tool for Multidimensional Analysis of Dust Storm Events
+
+
+## Visualization of Temporal Changes in Environmental Point Cloud Scans
+
+
+## Connecting the Algae Value Chain Visually: Integrating Farming, Processing, and Product Views
 
 
 # EuroVA
 
-Note: check out **The Opportunity for Visual Analytics in the Age of Generative AI**, *S. Vink, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang*
+## The Opportunity for Visual Analytics in the Age of Generative AI
 
 
-## Time-Oriented Trajectory Query and Comparison
-
-## Visual Boosting Techniques for Spatiotemporal Dense Pixel Visualizations
-
-## Instance-Centric Visualization of Probabilistic Multi-Label Data
-
-## Interpreting Latent Variables in Causal DAGs: A Study of Non-Expert Understanding
-
-## MOReCriT: Understanding Multi-Objective Optimization Results in Resource Criticality Analysis through Visual Analytics
-
-## Local Neighborhood Instability in Parametric Projections: Quantitative and Visual Analysis
-
-## Same Stats, Different Graphs Made Simple and Fast by Linear Transformations
+Note: check it out, by *S. Vink, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang*
