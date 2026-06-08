@@ -1,4 +1,4 @@
-# VINCI 2026
+# VINCI 2025
 
 * [Day 1](notes_day_1.md)
 * [Day 2](notes_day_2.md)
