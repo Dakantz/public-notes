@@ -1,4 +1,7 @@
-# EuroVis 2026
+---
+title: EuroVIS 2026
+date:
+---
 
-* [Day 1](day_1.md): Workshops, visited MLVis + EuroVA
+* [Day 1](processed/day_1_eg.md): Workshops, visited MLVis + EuroVA
 * [Posters](posters.md)

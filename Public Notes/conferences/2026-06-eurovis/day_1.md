@@ -1,7 +1,11 @@
+---
+title: Day 1 of EuroVIS
+date:
+---
 # MLVis
 
 ## Keynote on Human-in-the-loop AI systems
-> Cagatay Turkay
+
 
 * Interactive Regressison for Social Sciences - make their decision founded and *explainable*!
 * Action traceability - explanations / ... $\rightarrow$ Stefan for the A+CHIS data?
@@ -14,38 +18,70 @@
 
 
 ## Opening the Model Building Loop: Explaining the Role of Visual Model Estimation and Validation in Visual Analytics Pipelines
- > Daniel Braun and Tatiana von Landesberger
-* 
+
+* Model estimation / validation by machine / human -- combine aspects in VA: usually either strongly interwoven or not at all;
+* Their pitch: each aspect in model selection either by human *or* machine!
+
+
 
 ## Parameter Space Analysis through Guided Visual Interpolations
- > Benedikt Kantz, Peter Waldert, Stefan Lengauer, Clemens Staudinger, Stefan Schuster, and Tobias Schreck
- * hello!
- * [Slides](https://dakantz.at/papers/2026/param-inter-mlvis/presentation.pdf)
+
+* hello!
+* [Slides](https://dakantz.at/papers/2026/param-inter-mlvis/presentation.pdf)
 ## Visual Analysis of Semantic Paraphrase Embebdding Projection Stability
- > Manuel Schmidt, Daniel A Keim, and Frederik L. Dennig
+
+* Semantic similarities  - vs. paraphrases in a dataset!
+* Labelled paraphrases - vs. semantic similarities? - projection methods /  model / ... consideration
 ## Integrating Gridded Glyph Maps and Self-Organizing Maps for Spatiotemporal Analysis
- > Julius Rauscher, Frederik L. Dennig, Udo Schlegel, Daniel A Keim, and Tobias Schreck
+
+* Neighborhood analysis (inspired by geometry - also dissimilarities)
+* Their example: temporal weather data over spatial grid
+  - tradeoff between grid assignment and spatial attachment (in SOM)
+  - how does this compare to a t-SNE/UMAP with a regularizer?
+* [Link](https://st-som.dbvis.de)
 ## Judging Lines, Ignoring Noise? Human Approach to Outliers in Visual Regression Validation
- > Daniel Braun, Dominik Eberle, Remco Chang, Michael Gleicher, and Tatiana von Landesberger
+
+* Evaluating Regression estimation performance of humans (?) in prediction and validation tasks in outlier setting
+
+# EnvirVis
+
+[Program](https://www.informatik.uni-leipzig.de/bsv/envirvis/envirvis-2026/program.html)
+
+## Visual Analysis of the Influence of the Winter NAO on Moisture Transport to Europe in Ensemble Climate Simulations
+
+* Changes in NAO affecting moisture trainsport: spatial region, size, and volume?
+* Static Viz by edges to show off diffs.
+## Can the visualization of mesoscale eddies using glyphs help oceanographers evaluate changing ocean dynamics?
+
+* Eddies: stream 'swirls' - classifications, display, and glyph design (i.e. ring design, inner/outer diffs to properly show differences, ...)
+* Eddie detection: detection mechanism actually good?
+	
+## Polyoracle - Assessing Multi-criteria Regional Climate Uncertainty through Agent-assisted Visual Analysis
+
+Meta: Peter?
+* Polyoracle 
+* based on this year's SciVis challenge!
+* AI agent to operate tool - collaborative, export
+
+	
+## Exploring Intensity-Duration-Frequency Curves for the Contiguous US under Unsteady Climate
 
 
 # EuroVA
 
 Note: check out **The Opportunity for Visual Analytics in the Age of Generative AI**, *S. Vink, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang*
 
-## Visual Analytics Methods and Applications
 
-### Time-Oriented Trajectory Query and Comparison
-> T. Mertz, S. L. Reynolds-Ringer, and J. Kohlhammer
-### Visual Boosting Techniques for Spatiotemporal Dense Pixel Visualizations
-> Julius Rauscher, Frederik L. Dennig, Udo Schlegel, Daniel A. Keim, and Tobias Schreck
-### Instance-Centric Visualization of Probabilistic Multi-Label Data
-> Finn Kuschetzki and Christofer Meinecke
-### Interpreting Latent Variables in Causal DAGs: A Study of Non-Expert Understanding
-> Amit Kumar Das, Shahreen Salim, Naimul Hoque, and Klaus Mueller
-### MOReCriT: Understanding Multi-Objective Optimization Results in Resource Criticality Analysis through Visual Analytics
-> A. Frings, B. Jackl, L. A. Tercero Espinoza, L. Joos, J. Rentschler, F. L. Dennig, and D. A. Keim
-### Local Neighborhood Instability in Parametric Projections: Quantitative and Visual Analysis
-> Frederik L. Dennig and Daniel A. Keim
-### Same Stats, Different Graphs Made Simple and Fast by Linear Transformations
-> S. van Wageningen, A. C. Telea, and T. Mchedlidze
+## Time-Oriented Trajectory Query and Comparison
+
+## Visual Boosting Techniques for Spatiotemporal Dense Pixel Visualizations
+
+## Instance-Centric Visualization of Probabilistic Multi-Label Data
+
+## Interpreting Latent Variables in Causal DAGs: A Study of Non-Expert Understanding
+
+## MOReCriT: Understanding Multi-Objective Optimization Results in Resource Criticality Analysis through Visual Analytics
+
+## Local Neighborhood Instability in Parametric Projections: Quantitative and Visual Analysis
+
+## Same Stats, Different Graphs Made Simple and Fast by Linear Transformations
