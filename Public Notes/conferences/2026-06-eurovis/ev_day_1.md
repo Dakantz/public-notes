@@ -112,6 +112,8 @@ Meta: Peter?
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/9ca5ab89-c791-4382-838f-ffd1a9b33890/content)
 
+**Coffee Break** 
+
 
 ## Comparison of Categorical Data from Meteorological Models and Observations using a Pattern-Based Approach
 > Authors: Pandey, Savyasachi, Sondag, Max, Krauter, Christian, Zellmann, Stefan, von Landesberger, Tatiana
@@ -120,7 +122,9 @@ Meta: Peter?
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/b9d5c050-3a7b-4da9-9794-e0b1669588d6/content)
 
-* 
+* Comparative Grid views -- combine two views in one grid cell by taking one side as the 'outer' and the other as the 'inner' part of the cell - same color: no change, different color: differences easily visible!
+* Tried out different patterns for criterions, sound structured eval method without user involvement by defining req's for patterns and then arguing why they work or not! -- inspiration for other glyph design (Droplets?)
+* Error rate in general quite high... 
 
 
 ## An Interactive Web-Based Visualization Tool for Multidimensional Analysis of Dust Storm Events
@@ -130,6 +134,9 @@ Meta: Peter?
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/63d75747-7e6b-4ac9-9793-8f3c6bd904aa/content)
 
+* *Dynamics* of dust storms
+* 3D NetCDF datasets
+
 
 ## Visualization of Temporal Changes in Environmental Point Cloud Scans
 > Authors: Gorup, Gorazd, Bohak, Ciril
@@ -138,6 +145,12 @@ Meta: Peter?
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/62674139-f393-4e9f-be20-da9ed65abe75/content)
 
+* Motivation: cliff instability detection
+* Previously: satellite images, now: LiDAR $\rightarrow$ point cloud!
+* **M3C2 cloud difference**, running in [CloudCompare](https://www.cloudcompare.org/)
+* Show differences of point clouds - positive and negative!
+* RW for SeaSee'r?, EnvirVis also a possible venue for SeaSee'r?
+Repo: [GitHub](https://github.com/Grimpy101/cliffs-prototype-blender-ext)
 
 ## Connecting the Algae Value Chain Visually: Integrating Farming, Processing, and Product Views
 > Authors: Kusnick, Jakob, Yousef, Tariq
@@ -145,9 +158,18 @@ Meta: Peter?
 [EG Link](https://diglib.eg.org/items/d5495cb1-f52f-4650-a792-29bb21eb2c94)
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/37f0acee-abba-4d6b-99ad-bae509d9da73/content)
-
+* Dashboard for the overall EU project
+* Align goals, explore algae species/use cases/...
+* Aim: different stakeholders
 
 # EuroVA
+
+## From Data to Ficta: A Critical Reflection on Visual Analytics in the Age of Generative Models
+> Authors: Pérez-Messina, Ignacio, Miksch, Silvia, Tominski, Christian
+
+[EG Link](https://diglib.eg.org/items/41a14368-3ab6-4a22-833d-29171aad14bd)
+
+![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/0c85c2c2-3a77-423c-b5b5-50dc763318bb/content)
 
 ## The Opportunity for Visual Analytics in the Age of Generative AI
 > Authors: Vink, S., Byungmoo, K., Brumar, C., Yang, M., Potter, K., Chang, R.
@@ -157,4 +179,4 @@ Meta: Peter?
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/1419da38-d47f-4412-a243-41311182f5df/content)
 
 
-Note: check it out, by *S. Vink, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang*
+Note: check it out, by *S. Vink*, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang

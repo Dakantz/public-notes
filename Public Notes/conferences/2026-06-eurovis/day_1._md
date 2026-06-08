@@ -66,24 +66,41 @@ Meta: Peter?
 
 ## Exploring Intensity-Duration-Frequency Curves for the Contiguous US under Unsteady Climate
 
+**Coffee Break** 
+
 
 ## Comparison of Categorical Data from Meteorological Models and Observations using a Pattern-Based Approach
 
-* 
+* Comparative Grid views -- combine two views in one grid cell by taking one side as the 'outer' and the other as the 'inner' part of the cell - same color: no change, different color: differences easily visible!
+* Tried out different patterns for criterions, sound structured eval method without user involvement by defining req's for patterns and then arguing why they work or not! -- inspiration for other glyph design (Droplets?)
+* Error rate in general quite high... 
 
 
 ## An Interactive Web-Based Visualization Tool for Multidimensional Analysis of Dust Storm Events
 
+* *Dynamics* of dust storms
+* 3D NetCDF datasets
+
 
 ## Visualization of Temporal Changes in Environmental Point Cloud Scans
 
+* Motivation: cliff instability detection
+* Previously: satellite images, now: LiDAR $\rightarrow$ point cloud!
+* **M3C2 cloud difference**, running in [CloudCompare](https://www.cloudcompare.org/)
+* Show differences of point clouds - positive and negative!
+* RW for SeaSee'r?, EnvirVis also a possible venue for SeaSee'r?
+Repo: [GitHub](https://github.com/Grimpy101/cliffs-prototype-blender-ext)
 
 ## Connecting the Algae Value Chain Visually: Integrating Farming, Processing, and Product Views
-
+* Dashboard for the overall EU project
+* Align goals, explore algae species/use cases/...
+* Aim: different stakeholders
 
 # EuroVA
+
+## From Data to Ficta: A Critical Reflection on Visual Analytics in the Age of Generative Models
 
 ## The Opportunity for Visual Analytics in the Age of Generative AI
 
 
-Note: check it out, by *S. Vink, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang*
+Note: check it out, by *S. Vink*, K. Byungmoo, C. Brumar, M. Yang, K. Potter, and R. Chang
