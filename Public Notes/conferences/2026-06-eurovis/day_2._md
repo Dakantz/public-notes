@@ -1,0 +1,44 @@
+---
+title: Day 2 of EuroVIS
+date:
+---
+# Opening
+* STAR: 3
+  - 27 submitted
+  - 37% acceptance rate
+* Education
+  - 8 submissions, 4 accept, 2 accept as posters
+# Keynote: ACTG vs 0/1: Discovery, Curiosity, and the Power of Imperfection
+
+* Accidental, explorative discoveries - penicillin, tuberculosis, X-rays, ...
+* Fuzzy meaning of language related...
+* Use the ambiguity of specification as action points for interfaces
+* Research direction: the 'negative' space of unexplored areas of the data regime through classic ML + LMs
+
+# Best PhD Thesis
+
+For our RL: Astrid van den Brandt, genomics!
+Most relevant paper: [Visualization authoring for genomics](https://ieeexplore.ieee.org/abstract/document/10681582/)
+
+# Best Reviewer: Helwig Hauser
+
+> CS Reviewers are not reviewing... they are debugging!
+
+# Best Paper Session
+
+## Anchor Flow Maps: Efficient Sampling and Approximation of the Entire Flow Map
+
+## How Historians Use Visualization: A Corpus-Backed Taxonomy and Analysis for Cross-Disciplinary Practice
+* Temporal visualizations surprisingly underused!
+  -  most likely due to difficulities, text often sufficient!
+
+## Quantitative Metrics for Edge Bundling of Network Visualizations
+* Define a variety of metrics
+* i.e. Ink ration, saliency metrics, clusters, ...
+* VLM metrics?
+* *extremely* wide dataset size!
+
+
+## Engagement vs. Understanding: Comparing Immersive Virtual Reality and Desktop Displays for Climate Data Visualization
+* VR vs. Desktop: same forgetting, desktops better for cognitive learning, VR better for affective learning for short term - but fades within 2 weeks
+* desktop systematic, VR fragmented -- scaffold structural explorations; reinforce learned aspect
