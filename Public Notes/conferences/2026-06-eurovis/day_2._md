@@ -42,3 +42,32 @@ Most relevant paper: [Visualization authoring for genomics](https://ieeexplore.i
 ## Engagement vs. Understanding: Comparing Immersive Virtual Reality and Desktop Displays for Climate Data Visualization
 * VR vs. Desktop: same forgetting, desktops better for cognitive learning, VR better for affective learning for short term - but fades within 2 weeks
 * desktop systematic, VR fragmented -- scaffold structural explorations; reinforce learned aspect
+
+**Lunch**
+
+## AwesomeLit: Towards Hypothesis Generation with Agent-Supported Literature Research
+
+* Iterative Literature Search for Early-Career Researchers
+* Pipeline building / assembly possible
+
+## Guided Visual Analytics for the Creation of Label Hierarchies
+
+* Combine bottom up & top down Vis/selection strategies for hierarchy building
+
+## The Trust Paradox in Visualization: From Building Confidence to Calibrating Trust
+
+* From *model understanding* to *failure mode understanding* through UC/XAI
+
+## Piloting Planetarium Visualizations with LLMs during Live Events in Science Centers
+* Steering a planetarium - many failure cases:
+  - pacing
+  - context matters
+  - extremely fast transfers
+
+## NeuroMaps – A Compact Fingerprint for Analyzing Brain Activity
+* Hey :)
+
+# Vis 4 XAI Tutorial
+
+
+

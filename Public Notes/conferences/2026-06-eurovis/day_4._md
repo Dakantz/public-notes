@@ -1,0 +1,63 @@
+---
+title: Day 4 of EuroVIS
+date:
+---
+# Volume Visualization & Uncertainty
+
+## Uncertainty-Aware Visual Analysis of Force Networks in 2D Granular Materials
+* Use a disk metaphor, part into subsection to vis. directional UC
+
+## Uncertainty Visualization for Biomolecular Structures: An Empirical Evaluation
+
+**Coffee break**
+
+# Visual Analytics for Science and Engineering 
+
+## GraphHeatY: Graph-Centered Visual Analysis for Building Design
+
+## GEVIS: A Workflow-Driven Visual Analytics Approach to Differential Gene Expression Analysis
+* Potential RL for GIBBER?
+
+## SemiConLens : Visual Analytics for 2D Semiconductor Discovery
+* RL for AlloyInter/ParamInter
+
+## A Scalable System for Visual Analysis of Ocean Data
+
+**Lunch break**
+
+# Dimensionality Reduction & Projections
+
+## Class Angular Distortion Index for Dimensionality Reduction
+* Scoring method
+* Idea: view of cluster from the center of others...
+* Good for ring-formed structures
+
+## SPINE: VAE-driven Counterfactuals for Decision Boundary Maps
+* XAI method for boundaries!
+* Current methods are *hard* and only sample synthetic data points!
+* Their method: sample boundary by interpolating and retrieving boundary points from dataset + AE, counterfactual-related -- they are implicitly generating the CFs
+* Eval: KL-divergence, dim-analysis, precision of boundary
+
+## FluidMap: Proportional and Spatially Consistent Layout Enrichments in Multidimensional Projections
+* Eval of datasets with duplicates
+* Idea: use background as 'negative' space, and 'flow' data points into space - vs. Voronoi patterns, Q: is this perceptually better than scatter plots?
+
+## OM4AnI: A Novel Overlap Measure for Anomaly Identification in Multi-Class Scatterplots
+* Anomaly detection in scatterplots
+* Overlaps, unusual DP, ...
+
+**Coffee break**
+
+# Tools
+
+## UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos
+* RAG + LM for videos over scene understanding (?)
+
+## Symetra: Visual Analytics for the Parameter Tuning Process of Symbolic Execution Engines
+* 
+
+## Interactive Groupwise Comparison for Reinforcement Learning from Human Feedback
+
+## DaV3is: Data Flow-Based Vulnerability Verification Through Visualization
+
+
