@@ -51,13 +51,22 @@ date:
 # Tools
 
 ## UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos
-* RAG + LM for videos over scene understanding (?)
+* RAG + LM for videos over scene understanding based on taxonomy, generates KG (of unknown accuracy) of scene
+* Weakness: LM accuracy, retrieval performance?
+* RL for RE
 
 ## Symetra: Visual Analytics for the Parameter Tuning Process of Symbolic Execution Engines
-* 
 
 ## Interactive Groupwise Comparison for Reinforcement Learning from Human Feedback
+* Collect preferences from a single expert (instead of wide noisy labelelers)
+* ... without too much effort!
+* Approach: compare groups! - but over hierarchies!
+* Fallacy: hierarchies can quickly be selected wrongly
+> With great power comes great responsibility!
+[arxiv](https://arxiv.org/pdf/2507.04340)
 
 ## DaV3is: Data Flow-Based Vulnerability Verification Through Visualization
+* the 3 is silent ;)
+* 
 
 
