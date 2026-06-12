@@ -1,5 +1,5 @@
 ---
-title: Day 4 of EuroVIS
+title: Day 5 of EuroVIS
 date:
 ---
 
@@ -13,7 +13,7 @@ date:
 * **User study classification types (Isenberg et al.)** - esp. in domain-specific applications: experts scarce...
 * Type III/IV studies - good, as we can safeguard and not too specific!
 * Eval: by replication!
-    - both unpublished and published...
+	- both unpublished and published...
 
 ## Beauty in the Eye of AI: Aligning LLMs and Vision Models with Human Aesthetics in Network Visualization
 > Authors: Li, X., Zhang, P., Wang, X., Shen, H., Hu, Y.
@@ -21,6 +21,8 @@ date:
 [EG Link](https://diglib.eg.org/items/9de1f45e-f8b0-4e40-8fdd-054006e6e8b4)
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/4d095143-8d34-4ed1-8812-e29d3bc81c82/content)
+* Checking for most-preferred graph, trying to align LM
+* But seems non-consistent? - very subjective task!
 
 ## Do Graph Drawing Aesthetics Matter for AI? A Replication of Foundational Studies in Graph Readability
 > Authors: Di Bartolomeo, Sara, Schicho, Johann Sebastian, Traversini, Aurora, Fink, Simon Dominik, Didimo, Walter, Montecchiani, Fabrizio
@@ -28,6 +30,20 @@ date:
 [EG Link](https://diglib.eg.org/items/af19f589-80bd-4dde-b526-37c7bc2d32e7)
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/3f3a01a2-4f87-403e-926e-5c58bb511bfd/content)
+* Aesthetics of graphs - RL for GIBBER?
+	- Edge crossings / ...
+* How do these translate to (V)LM readability?
+	- How can robots / AI interpret charts (i.e. maps, accessibility, papers)
+* their approach: replicate three task-based experiments
+* old readability tests: problem: low-quality images - solution: contact authors of 20y paper!
+* Good approach: SoTA models + self-hosted!
+* Findings:
+	- human much better without crossings
+	- LMs do not really care about crossings, much more about symmetry + orthogonal layouts
+	- LMs perform best on force-directed layouts
+* Limits:
+	- limited scope, but more faithful to original study
+	- becomes outdated quickly!
 
 ## How Do LLMs See Charts? A Comparative Study on High-Level Visualization Comprehension in Humans and LLMs
 > Authors: Jeon, Hyotaek, Lee, Hyunwook, Shin, Minjeong, Pandey, Tapendra, Kim, Joohee, Seon, Shinwook, Jeong, Daeun, Ko, Sungahn, Quadri, Ghulam Jilani
@@ -35,3 +51,6 @@ date:
 [EG Link](https://diglib.eg.org/items/c2a5d491-b611-48a5-97f6-baa4429c7d26)
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/6db76cfa-a8d4-47bc-a3b9-b0608bae4e9c/content)
+* Stability, Reading Strategy, and Intent alignment?
+* How do they evaluate 'sameness'?  - matching code
+* Takeaway: LMs strong at decoding technicalities, but cannot judge effectiveness

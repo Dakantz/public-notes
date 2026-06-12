@@ -1,5 +1,5 @@
 ---
-title: Day 4 of EuroVIS
+title: Day 5 of EuroVIS
 date:
 ---
 
@@ -8,12 +8,29 @@ date:
 * **User study classification types (Isenberg et al.)** - esp. in domain-specific applications: experts scarce...
 * Type III/IV studies - good, as we can safeguard and not too specific!
 * Eval: by replication!
-    - both unpublished and published...
+	- both unpublished and published...
 
 ## Beauty in the Eye of AI: Aligning LLMs and Vision Models with Human Aesthetics in Network Visualization
 * Checking for most-preferred graph, trying to align LM
 * But seems non-consistent? - very subjective task!
 
 ## Do Graph Drawing Aesthetics Matter for AI? A Replication of Foundational Studies in Graph Readability
+* Aesthetics of graphs - RL for GIBBER?
+	- Edge crossings / ...
+* How do these translate to (V)LM readability?
+	- How can robots / AI interpret charts (i.e. maps, accessibility, papers)
+* their approach: replicate three task-based experiments
+* old readability tests: problem: low-quality images - solution: contact authors of 20y paper!
+* Good approach: SoTA models + self-hosted!
+* Findings:
+	- human much better without crossings
+	- LMs do not really care about crossings, much more about symmetry + orthogonal layouts
+	- LMs perform best on force-directed layouts
+* Limits:
+	- limited scope, but more faithful to original study
+	- becomes outdated quickly!
 
 ## How Do LLMs See Charts? A Comparative Study on High-Level Visualization Comprehension in Humans and LLMs
+* Stability, Reading Strategy, and Intent alignment?
+* How do they evaluate 'sameness'?  - matching code
+* Takeaway: LMs strong at decoding technicalities, but cannot judge effectiveness
