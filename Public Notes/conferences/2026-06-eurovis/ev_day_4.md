@@ -102,7 +102,9 @@ No EG link found
 [EG Link](https://diglib.eg.org/items/17a8d7ec-4c72-4f7e-ac9c-b0801762afa0)
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/85fc6b8b-e41c-42eb-b3a2-dcb8d05c534a/content)
-* RAG + LM for videos over scene understanding (?)
+* RAG + LM for videos over scene understanding based on taxonomy, generates KG (of unknown accuracy) of scene
+* Weakness: LM accuracy, retrieval performance?
+* RL for RE
 
 ## Symetra: Visual Analytics for the Parameter Tuning Process of Symbolic Execution Engines
 > Authors: Hong, D., Kim, M., Cha, S., Jo, J.
@@ -110,15 +112,22 @@ No EG link found
 [EG Link](https://diglib.eg.org/items/1203da1a-f9ba-43d7-93dd-2574d70947c1)
 
 ![Thumbnail](https://diglib.eg.org/server/api/core/bitstreams/358fe758-99c3-4fe2-a27d-9f481e6701c1/content)
-* 
 
 ## Interactive Groupwise Comparison for Reinforcement Learning from Human Feedback
 No authors found
 No EG link found
 
+* Collect preferences from a single expert (instead of wide noisy labelelers)
+* ... without too much effort!
+* Approach: compare groups! - but over hierarchies!
+* Fallacy: hierarchies can quickly be selected wrongly
+> With great power comes great responsibility!
+[arxiv](https://arxiv.org/pdf/2507.04340)
 
 ## DaV3is: Data Flow-Based Vulnerability Verification Through Visualization
 No authors found
 No EG link found
 
+* the 3 is silent ;)
+* 
 
