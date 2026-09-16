@@ -1,0 +1,55 @@
+---
+title: Day 3 of EuroVIS
+date:
+---
+
+
+## Parallel Vectors Extraction using Bézier Clipping
+* Improving root-finding for feature extraction over vector fields
+  - by using Bezier clipping to pre-filter for Newton-Raphson
+
+## Topology-based Visual Analysis of Hydrothermal Plumes
+* Based on SciVis contest!
+* Complex Pipeline for VA of the plumes, very geometry-driven
+* Hmmm.. ParamInter/GIBBER could have been Full Paper - maybe after completion of guidance?
+
+## Geometry-Aware Alignment and Comparison of Hierarchical Morse Complexes with Applications
+* Alignment, again very complex geometry/topological approaches
+* Across hierarchical clusters/similarities - seems fragile (?)
+
+**Coffee break**
+
+# Graph Drawing
+
+## ARCOL: Aspect Ratio Constrained Orthogonal Layout
+* smart stress relaxation of just the cyclic graph nodes (-trees, placed back in)
+* stress applied based on aspect ratio
+
+## Clusterix: A Hybrid Visualization Model for Hierarchically Clustered Networks
+* show clusters as adjacency matrices and links between clusters as 'normal' edges
+
+## Noisy Graph Patterns via Ordered Matrices
+* order graph nodes to combine edges of cliques
+
+**Lunch break**
+
+# Exploratory Vis
+
+## A Simple Grid-Maps Pipeline: Restructured, Accelerated and Upgraded
+* Improvements for Grid Maps!
+* Initially minutes for
+  1. partition (by country, ...)
+  2. arrange (of grid cells - start with initial shape, then iteratively expand + rearrange to guiding shape, i.e. larger country)
+  3. assign ()
+* Efficiency gains through various data structure / heuristics
+* Quality gains by not only considering boolean intersection in guidance *but* overlay size!
+* Eval metric:
+  - global shape adherance
+  - 
+
+
+## TerraTinker: Crafting Playful Geospatial Visualizations
+* Automatic MC map creation from geospatial data using node-based layer editing
+
+## Make the Unhearable Visible: Exploring Visualization for Musical Instrument Practice
+* Breadth of viz's to show difference to beat, note accuracy, etc. via MIDI in the browser!
