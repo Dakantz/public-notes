@@ -6,6 +6,14 @@ date: 2026-09-17
 
 ## Keynote: Keynote – Sophia Ulonska
 Interactive Visual Computing Tools for Multi-Modal Brain Data Exploration
+- BrainTrawler: 
+    - exploration of transcriptomics data through spatial / query based exploration, 
+    - focus on regions
+- Larvalbrain: 
+    - Combination of GAL4-based modifications (combined to target specific areas)
+    - Different developmental stages - alignment! -- biggest probelem, esp. on small elongated axons - correlation metrics...
+    - Linear Combination of different lines - what-if explorations for domain experts to know which lines could be interesting to explore in the future
+
 
 ## ConGAT: Context-Aware Graph Attention Visual Analysis for 3D Region of Interest Discovery in Multiplexed Microscopy Images
 
