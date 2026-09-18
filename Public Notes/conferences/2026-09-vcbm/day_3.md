@@ -46,7 +46,12 @@ _Authors: Waldert, Peter, Kantz, Benedikt, Tussardi, Gaia, Lengauer, Stefan, Sch
 _Authors: Brence, Blaz, Ahmed, Maria, Khawari, Sajjad, Baum, Daniel_
 - Link: [EG Digilib](https://diglib.eg.org/items/5a3a176b-a519-4bfc-8adc-2e21b8785c49)
 - DOI: [10.2312/vcbm20261016](https://doi.org/10.2312/vcbm20261016)
+- [Code](https://github.com/bbrence/MC-cell-analysis)
 ## Accurate Triangle Meshes of Biological Membranes Through Ridge Surface Reconstruction
+_Authors: Nicolas Klenert, Patricia Loba-Gómez, Leiss Abdal Al, Juan Diego Gallego Nicolás, Harold Phelippeau, Rachida Seghiri, Antonio Martinez-Sanchez, Daniel Baum_
+- [Link](https://www.sciencedirect.com/science/article/pii/S0097849326001809)
+- Voxels/Segmentations -> Surfaces
+
 ## Reconstruction of 3D Whole Heart Mesh from 2D Cardiac Images
 
 ![https://diglib.eg.org/server/api/core/bitstreams/eeefd201-1bda-4715-9ddf-5b85d9177cbb/content](https://diglib.eg.org/server/api/core/bitstreams/eeefd201-1bda-4715-9ddf-5b85d9177cbb/content)
@@ -54,6 +59,7 @@ _Authors: Brence, Blaz, Ahmed, Maria, Khawari, Sajjad, Baum, Daniel_
 _Authors: Bautz, Lisa, Hoffmann, Stine, Brosig, Johanna, Huellebrand, Markus, Seidel, Franziska, Hennemuth, Anja_
 - Link: [EG Digilib](https://diglib.eg.org/items/16c3d42f-a7f5-4a55-bb84-4d8d33f3cd2c)
 - DOI: [10.2312/vcbm20261004](https://doi.org/10.2312/vcbm20261004)
+- Using a U-Net+GNN to generate meshes from 
 ## Vessel-straightening-based Registration for Aortic Flow Comparison
 
 ![https://diglib.eg.org/server/api/core/bitstreams/da9ad30f-1c25-4036-99ba-5a0972e2866a/content](https://diglib.eg.org/server/api/core/bitstreams/da9ad30f-1c25-4036-99ba-5a0972e2866a/content)
@@ -62,8 +68,19 @@ _Authors: Schroeder, Aaron, Horvat, Anja, Ostendorf, Kai, Bäumler, Kathrin, Mas
 - Link: [EG Digilib](https://diglib.eg.org/items/295bd743-ad29-4854-b6ac-62b4493011e4)
 - DOI: [10.2312/vcbm20261006](https://doi.org/10.2312/vcbm20261006)
 ## Formalizing Structured Comparative Reporting for Hemodynamic Assessment in LAAO Planning
+_Authors: Jasna Nuhic, Monique Meuschke, Oscar Camara_
+
 ## Coupled Visualization-Quantification Pipeline for Time-Resolved Cement Injection Imaging: A Case Study
+_Authors: Isha Sharma, Jan-Sören Lennart Völter, Dominic Gehweiler, Oliver Röhrle, Dieter Schmalstieg_
+- Existing software inaccurate/noisy for this specific application - quantification very important for domain
+
+
 ## MIA: A Visual Analytics System for Multimodal Spectral Imaging Data
+
+- RW work for droplets - Multispectal view, dim reduced  + clustering $<->$ distributions of Droplets
+- Also dim-reduction for patches; iterative segmentation (progressive viz)
+
+
 ## BeLOVE X-Talker: Interactive Heart-Brain Cross-Talk Explorer
 
 ![https://diglib.eg.org/server/api/core/bitstreams/33d19af3-da46-453d-b58b-542fdb036c1b/content](https://diglib.eg.org/server/api/core/bitstreams/33d19af3-da46-453d-b58b-542fdb036c1b/content)

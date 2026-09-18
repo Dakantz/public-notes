@@ -37,6 +37,16 @@ _Authors: Mueller, Lisa, Preim, Bernhard, Krueger, Sebastian_
 
 ## Industry Talk – Siemens
 From Clinical AI to Ray-Traced Visualization: Modernizing Valve Analysis in Ultrasound
+- Apply the Valve-Mesa idea of intercepting Direct9 calls and reroute to new RTX libs
+- Caveat: viewport merging! $-->$ which pixels to keep?
 
 ## Keynote – Thomas Höllt
 From Cellular Composition to Tissue Organization: Visual Analytics for Single-Cell and Spatial Data
+- Genome comparisons: preservation/similarity between species; Phylogenetic trees/hierarchies/evolvement through similarity matrices
+- Cell analysis: morphology/ep
+- Problem: cells scaled ~ orders of magnitude (millions)
+    - Improvement: 
+        - AkNN instead of complete lookup
+        - Force-field instead of optimisiaion
+        - Hierachical t-SNE - hard to disentangle, their approach: kNN graph
+        - Problem with tSNE manifold preservation: locally ok, connectivity destroyed - HSNE!
