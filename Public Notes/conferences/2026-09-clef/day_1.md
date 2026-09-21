@@ -1,5 +1,5 @@
 ---
-title: Day 1 of CLEF
+title: CLEF Day 1
 date: 2026-09-21
 ---
 # Monday, September 21
