@@ -1,5 +1,5 @@
 ---
-title: 16th Eurographics Symposium on Visual Computing for Biology and Medicine (VCBM) 2026
+title: CLEF 2026
 date:
 ---
 
