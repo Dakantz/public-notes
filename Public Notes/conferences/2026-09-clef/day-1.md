@@ -23,7 +23,7 @@ date: 2026-09-21
     - Story-based eval, with 'flips' of story decision -> eval consistency in decisions.
     - Models break with alignment on deadlines/awards promisement....
     - Singular responses/situations do not completely capture model behaviour!
-    - Also: no counterfactuals for personalizations $-->$ can model *actually* tell the difference between users?
+    - Also: no counterfactuals for personalizations $\rightarrow$ can model *actually* tell the difference between users?
 ## Model Comparison for Kazakh Semantic Reuse Detection Across Pairwise, News, and Long-Document Evaluation
 _Bakhyt Bakiyev, Shuo Wang and Mubashir Ali_
 - Autogenerate dataset via Google Translate from annotated dataset in English
@@ -44,11 +44,11 @@ _Nenad Jakovchevski and Matej Martinc_
 ### LifeCLEF
 - Big focus on biodiversity/monitoring
 - Very multimodal/multi-species
-- A lot of submission: Kaggle competition + community highlight there $-->$ many (!) submissions!
+- A lot of submission: Kaggle competition + community highlight there $\rightarrow$ many (!) submissions!
 - Tasks:
     - LifeCLEF: unknown deteciont
     - BirdCLEF: Soundscape recording classification of _not just birds_; a lot of participants due to price money! (also 19 papers...)
-    - FathhomNet: Sparse training data! $-->$ detect many objects still...
+    - FathhomNet: Sparse training data! $\rightarrow$ detect many objects still...
     - PestCLEF: Text understanding/extraction: RE extraction from pest-abstracts, small training dataset...
     - PlantCLEF: Multi-species plant recognition in land plots 
 - Even with public runs -- moderate paper submission rate...
@@ -56,7 +56,7 @@ _Nenad Jakovchevski and Matej Martinc_
 
 ### EXIST
 - Sexism detection -- both hostile and benevolent
-- $-->$ characterizations, manually/disagreeing labels,
+- $\rightarrow$ characterizations, manually/disagreeing labels,
 - 5k memes/3k videos/sensor data --eye, heart rate, eeg! (? @MrP01?)
     - interesting setting?
 - Strongest system:
@@ -78,7 +78,7 @@ _Nenad Jakovchevski and Matej Martinc_
     - Fallacy: "wrong"/BS detection 
     - Causality: of arguments! (Cause of claim - KG!!/counerclaim/uncausal)
     - Classify: arguments y/n?
-    - Advertisement RAG: argumentation as arguments? $-->$ ad detecion/ad blocking in LLM responses! -- very hard!, best is classifiers.
+    - Advertisement RAG: argumentation as arguments? $\rightarrow$ ad detecion/ad blocking in LLM responses! -- very hard!, best is classifiers.
 ### FinMMEval
 - Q&A bench on financial questions, 800 Q's (Financial Exams multiple choice)
 - Retrieval for specific Q&A based on documents (Eval: word overlap)
@@ -93,7 +93,7 @@ _Nenad Jakovchevski and Matej Martinc_
 
 ### Keynote: Modern Approaches to Image Analysis for Ecology Research
 _Matthias Körschens_
-- Digitization of plant specimen: digital collectomocis: digital libraries for collections of old collection $-->$ research/outreach/...
+- Digitization of plant specimen: digital collectomocis: digital libraries for collections of old collection $\rightarrow$ research/outreach/...
 - A lot of multimodal data from specimens... temporal, sizes, counting of traits ...
 - Small data: herbarium data rarely annotated, sparse labels..., few-shot training?; wide applicability/domain generalization!
 - Activities:
@@ -109,5 +109,5 @@ _Matthias Körschens_
 
 ## Touché
 ### Keynote Q&A: Argumentation Strategies in Big Business Lobbying and the Struggle to Detect Them
-- pfast (?) dataset on lobbying texts $-->$ where can we find it?
+- pfast (?) dataset on lobbying texts $\rightarrow$ where can we find it?
 

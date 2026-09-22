@@ -38,7 +38,7 @@ _Authors: Mueller, Lisa, Preim, Bernhard, Krueger, Sebastian_
 ## Industry Talk – Siemens
 From Clinical AI to Ray-Traced Visualization: Modernizing Valve Analysis in Ultrasound
 - Apply the Valve-Mesa idea of intercepting Direct9 calls and reroute to new RTX libs
-- Caveat: viewport merging! $-->$ which pixels to keep?
+- Caveat: viewport merging! $\rightarrow$ which pixels to keep?
 
 ## Keynote – Thomas Höllt
 From Cellular Composition to Tissue Organization: Visual Analytics for Single-Cell and Spatial Data
