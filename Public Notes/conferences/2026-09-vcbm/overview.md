@@ -3,8 +3,8 @@ title: 16th Eurographics Symposium on Visual Computing for Biology and Medicine 
 date:
 ---
 
-* [Day 1](day_1.md): SummerSchool: ParaView+Orange
-* [Day 2](day_2.md): MedVis & BioVis Workshop / Poster Session / Welcome
-* [Day 3](day_3.md): Main Day
-* [Day 4](day_4.md): Closing Day
-* [Posters](vcbm_poster_links.md): Posters
+* [Day 1](./day_1.md): SummerSchool: ParaView+Orange
+* [Day 2](./day_2.md): MedVis & BioVis Workshop / Poster Session / Welcome
+* [Day 3](./day_3.md): Main Day
+* [Day 4](./day_4.md): Closing Day
+* [Posters](./vcbm_poster_links.md): Posters
