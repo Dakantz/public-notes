@@ -88,3 +88,26 @@ _Nenad Jakovchevski and Matej Martinc_
     - Eval includes fees+slippage! real-world eval on trade days...
 - Leaked next: Bucharest!
 
+
+## LifeCLEF 1/2
+
+### Keynote: Modern Approaches to Image Analysis for Ecology Research
+_Matthias Körschens_
+- Digitization of plant specimen: digital collectomocis: digital libraries for collections of old collection $-->$ research/outreach/...
+- A lot of multimodal data from specimens... temporal, sizes, counting of traits ...
+- Small data: herbarium data rarely annotated, sparse labels..., few-shot training?; wide applicability/domain generalization!
+- Activities:
+    - Automated label assessment: location/biography of collector helps for urban analysis; handwritten analysis difficult for smaller models... e.g. Korinth!
+    - Phenology assessment
+    - Plant cover calculation via U-Net segmentation / also with zero-shot models (Q: how come that machines are better than human annotators in percentages?)
+    - ~3-5M herbarium datapoints!
+## Keynote: BIIGLE (2.0)
+- Link: [Paper](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2017.00083/full)
+- Possible RL for SeaSee'r?
+- 
+
+
+## Touché
+### Keynote Q&A: Argumentation Strategies in Big Business Lobbying and the Struggle to Detect Them
+- pfast (?) dataset on lobbying texts $-->$ where can we find it?
+
