@@ -3,8 +3,8 @@ title: CLEF 2026
 date:
 ---
 
-* [Day 1](./day_1.md): Opening, Keynote 1, qCLEF
-* [Day 2](./day_2.md): ?
-* [Day 3](./day_3.md): ?
-* [Day 4](./day_4.md): Closing Day
+* [Day 1](./day-1.md): Opening, Keynote 1, qCLEF
+* [Day 2](./day-2.md): ?
+* [Day 3](./day-3.md): ?
+* [Day 4](./day-4.md): Closing Day
 * [Posters](./clef_poster_links.md): Posters
