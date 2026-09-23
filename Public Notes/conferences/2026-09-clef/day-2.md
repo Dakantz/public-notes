@@ -81,7 +81,7 @@ _Quy Thanh Le, Ismail Badache and Maamar El Amine Hamri_
 
 ## Lab Sessions
 
-### LifeCLEF
+### LifeCLEF: BirdCLEF+
 
 #### Keynote: Acoustic Individual ID in the Real World: Perspectives from Ecology 
 - Sound advantageuos for wildlife search: omnidirectional, works in the night/low-light, detect wanted/unwanted animal noises!
@@ -103,7 +103,7 @@ _Quy Thanh Le, Ismail Badache and Maamar El Amine Hamri_
 - Case study: Ovenbird
   - Re-ID across seasons
 
-#### BirdCLEF lab overview
+#### Lab overview
 - In Pantanal: entirely privately owned, cattle-farming, megafires (~30 percent of habitat)
 - Breadth of species: birds, forgs, mammals, caimans, insects, ...
 - 200+ species!
@@ -119,3 +119,6 @@ _Quy Thanh Le, Ismail Badache and Maamar El Amine Hamri_
   - ensembles strong, 3rd to 5ht places simple models though!
 - Next year:
   - Cambodia, population estimation
+#### Competition takeaways
+- Ensemble of 2 models (embeddings + MLP)
+- 
