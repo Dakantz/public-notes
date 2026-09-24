@@ -36,3 +36,5 @@ _Ernesto Garavito Molina, Sophus Jørgensen, Juan Manuel Rodriguez and Daniele D
     - For mapping to symbolic retrieval: map graph to tensor $\rightarrow$ map SPARQL to sparse ops (i.e. slices)
     - application: Tentries
     - furthermore: embed into "neurosementic" embeddings of triplets!
+
+
