@@ -29,33 +29,69 @@ _Russell Taylor, Benajmin Herbert and Michael Sana_
 - Translate wordplay: words don't map, semantic meaning often lost...
 - LLMs: reward/expect regularity, while jokes are always a surprise!
 - Approach: very linguistic, linguistics have developed a multi-step approach for translations
-    - Detect punch
-    - translation edges: synomyms
-    - semantic leap:
+  - Detect punch
+  - translation edges: synomyms
+  - semantic leap:
 - Baseline: Generate pun based on existing + discriminator (trained on noised/masked pun words)
 - Step-Up: Guided CoT, more complex!
 - Still much room for improvement!
-    - BLEU: literal translation: bottom
-    - Human: best!
+  - BLEU: literal translation: bottom
+  - Human: best!
 
 
 ## Joker Lab
 - Humor IR
-    - Hinglish/EN
-    - Distractor (non-humorous) docs, should not be retrieved!
-    - Synthetic: from LLM + Translations to Hindi (+code-mixing)
+  - Hinglish/EN
+  - Distractor (non-humorous) docs, should not be retrieved!
+  - Synthetic: from LLM + Translations to Hindi (+code-mixing)
+  - Top Approach: pre-filter by classifying out non-puns
 - Pun Translations
-    - EN/FR
-    - All teams outperformed baseline!
-    - Manual eval as well! (Sampled top-100)
-    - BLEU not a good indicator (see Best-Of Talk)
-    - Much better translations this year!
+  - EN/FR
+  - All teams outperformed baseline!
+  - Manual eval as well! (Sampled top-100)
+  - BLEU not a good indicator (see Best-Of Talk)
+  - Much better translations this year!
+
 - Funny name gen
-    - EN/FR
-    - Onomastic Wordplay EN $\rightarrow$ DE
-    - From Pokemons/Asterix/Harry Potter
-    - GT: professional translators
+  - EN/FR
+  - Onomastic Wordplay EN $\rightarrow$ DE
+  - From Pokemons/Asterix/Harry Potter
+  - GT: professional translators
 - Pun generation
-    - EN/FR
-    - Eval: Arena with 3 providers, A/B ranking
-    - Persona-based pipeline
+  - EN/FR
+  - Eval: Arena with 3 providers, A/B ranking
+  - Persona-based pipeline
+
+
+## Closing
+
+### Next CLEF: Bucharest, 14-17 Sep.
+- UniAgent: solving and check agents against real exams of administrative taxes!
+	- Pseudoanoymized data
+	- Tolerance build-in (?)
+- Touché
+- TemporalWebLab: Internet Archive, Uni Innsbrucj
+  - Evaluation of Recency Change/relevancy
+  - QA over web archive
+- TalentCLEF
+- SimpleText
+- PAN: Stylometry
+- LifeCLEF
+  - Multimodal Quadrant species ID (with GeoCLEF -- spatial data!)
+  - BirdCLEF: abundance of bird class
+  - AnimalCLEF: Re-ID of animals, eval: edit-distance for correction of misclassifications
+  - MarineCLEF Fathomnet: 
+  - PestCLEF: KG extractions (**send gutbrain submission!!**)
+- JOKER
+- ImageCLEF
+- HUMANITAS
+  - Digital Humanities + Cultural Heritage - Stefan?
+- FinCLEF
+  - (former FinMMEVal)
+- ELOQUENT
+  - No data task
+- CLEF eHealth
+  - eCREAM/PARHAF -- clinical reports of fictional patients
+  - Tasks: de-identification
+  - also NER (throw CHASTE on it)
+- CheckThat!
